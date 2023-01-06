@@ -1,8 +1,28 @@
 ---
 permalink: /about/
-title: "About"
+title: "About "
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I’m currently a Masters student in the [Padilla-Gamiño Lab](https://padilla-gaminolab.weebly.com/) and part of the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the University of Washington in Seattle.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My research focuses on the multiple stressor impacts of plastic pollution and heat stress on coastal primary producers. More specifically, I am researching a suite of common chemicals added to plastic consumer-products called phthalate acid-esters, phthalates or plasticizers, and their potential impacts on gene transcription, primary productivity, and microbial community structure in corals and kelps.
+
+------
+
+### Research Influences
+I first began circling the issue of plastic pollution and marine debris in 2012 as an [intern](https://www.adfg.alaska.gov/index.cfm?adfg=internexp.donohoe) with the Alaska Dept. of Fish & Game at a remote Steller sea lion rookery near Dixon Entrance. During population surveys, I photographed sea lions entangled in plastic trash, and later worked with the Pinniped Entanglement Group [(PEG)](https://pinnipedentanglementgroup.org/) to research biodegradable alternatives to plastic packing bands on fish boxes. I learned how difficult it is to amend a system reliant on plastic. 
+
+More recently, a seminar taught by my advisor [Dr. Padilla-Gamiño](https://fish.uw.edu/faculty/jacqueline-padilla-gamino/ raised my awareness of the [links](https://www.youtube.com/watch?v=iO3SA4YyEYU) between the fossil fuel industry, petrochemical-based plastics pollution, and the need for a plastics circular economy. Throughout the seminar, I was heavily influenced by:
+
+-  the documentary, "[The Story of Plastic](https://www.youtube.com/show/SC2l9YPiNhgA1NwB2avpZwgw)"
+-  a peer-reviewed paper, "[Rethinking Microplastics as a Diverse Contaminant Suite](https://doi.org/10.1002/etc.4371)" by Chelsea Rochman et. al 2019
+- 
+
+Phthalates are known endocrine-disrupting chemicals, which can have strong effects even at very low doses. This ecotoxicology concept is referred to as 'low-dose effects' and 'non-monotonic' response and was introduced to me by [Dr. Alison Gardell](https://directory.tacoma.uw.edu/employee/agardell) as a guest-lecturer to a course in Integrated Environmental Physiology taught by [Dr. Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/) at the University of Washington in Seattle.
+
+I became increasingly interested in studying these types of environmental pollutants because they challenge the concept of ‘acceptable levels of pollution’.  A book by [Dr. Max Liboiron](https://maxliboiron.com/),  titled[ *Pollution is Colonialism*](https://www.dukeupress.edu/pollution-is-colonialism), taught me that 'acceptable levels of pollution' assumes settler and colonial access to Indigenous land and is not, in fact, acceptable. 
+
+------
+
+#### Contact me
+- [stanja@uw.edu](mailto:stanja@uw.edu)
