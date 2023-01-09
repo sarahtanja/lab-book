@@ -1,6 +1,6 @@
 ---
 title: "First Post"
-date: 2023-01-09
+date: 2023-01-09T15:34:30-04:00
 categories:
   - blog
 tags:
