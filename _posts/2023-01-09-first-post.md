@@ -1,6 +1,6 @@
 ---
 title: "First Post"
-date: Sys.Date()
+date: 2023-01-09
 categories:
   - blog
 tags:
