@@ -59,7 +59,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Grad student researcher exploring genomics and physiology of corals and kelps in relationship to plastic pollution and heat stress"
   links:
-    - label: "Padilla-Gamiño Lab, University of Washington"
+    - label: "Padilla-Gamiño Lab"
       icon: "fas fa-fw fa-link"
       url: "https://padilla-gaminolab.weebly.com/"
     - label: "GitHub"
