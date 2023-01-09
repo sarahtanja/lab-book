@@ -57,9 +57,9 @@ plugins:
 author:
   name   : "Sarah S Tanja"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Masters researcher exploring physiological responses of corals and kelps to plastic pollution and heat stress"
+  bio    : "Grad student researcher exploring genomics and physiology of corals and kelps in relationship to plastic pollution and heat stress"
   links:
-    - label: "Website"
+    - label: "Padilla-Gamiño Lab, University of Washington"
       icon: "fas fa-fw fa-link"
       url: "https://padilla-gaminolab.weebly.com/"
     - label: "GitHub"
