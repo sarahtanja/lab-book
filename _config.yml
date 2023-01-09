@@ -23,7 +23,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -68,9 +68,6 @@ author:
     
 footer:
   links:
-   - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://padilla-gaminolab.weebly.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sarahtanja"
