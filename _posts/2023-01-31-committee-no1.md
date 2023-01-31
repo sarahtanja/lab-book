@@ -93,6 +93,8 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 
 Broadly, my interest in research is motivated by a desire for a healthy world for my future children.
 
+![](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\one-health.jpg)
+
 ![one-health-venndiagram](https://github.com/sarahtanja/lab-book/blob/master/assets/images/one-health.jpg)
 *infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
 
@@ -111,7 +113,7 @@ Phthalates Reduce Gametogenesis in *M. capitata* (Low Dose Effects, Reproduction
 
 *M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
 
-![pae-temp-graphical-methods](https://github.com/sarahtanja/lab-book/blob/master/assets/images/graphical-methods.png)
+![](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\graphical-methods.png)![pae-temp-graphical-methods](https://github.com/sarahtanja/lab-book/blob/master/assets/images/graphical-methods.png)
 
 # 3. Options
 
