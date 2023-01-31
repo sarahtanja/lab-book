@@ -86,12 +86,48 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 | Submit Master's Thesis                                       | [SP24] 31MAY24 |                |
 | Commencement                                                 | 08JUN24        |                |
 
+------
+
+[Degree Audit Link](https://www.washington.edu/students/reg/dars/)
+
+{% raw %}{% capture notice-success %}
+
+Completed Coursework
+
+| Qtr  | Course | Credits | Grade |
+| :--- | ------ | ------- | ----- |
+|      |        |         |       |
+|      |        |         |       |
+|      |        |         |       |
+
+{% endcapture %}{% endraw %}
+
+<div class="notice">{% raw %}{{ notice-success | markdownify }}{% endraw %}</div>
+
+
+
+In-Progress Coursework
+
+| Qtr  | Course | Credits | Grade |
+| :--- | ------ | ------- | ----- |
+|      |        |         |       |
+|      |        |         |       |
+|      |        |         |       |
+
+To-do Coursework
+
+| Qtr  | Course | Credits | Grade |
+| :--- | ------ | ------- | ----- |
+|      |        |         |       |
+|      |        |         |       |
+|      |        |         |       |
+
 *The committee agreements are a living document that will be collaboratively updated throughout Sarah's Master's work*
 {: .notice--info}
 
 # 2. Research
 
-Broadly, my interest in research is motivated by a desire for a healthy world for my future children.
+Broadly, my interest in research is motivated by a desire for a healthy world for my future children. This is embodied by the '[one health](https://www.cdc.gov/onehealth/index.html)' approach, which recognizes the connections between the health of people, animals, and the environment.
 
 ![](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\one-health.jpg)
 
