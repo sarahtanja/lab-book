@@ -66,3 +66,29 @@ Or you could skip the capture and stick with straight HTML.
   <h4>Message</h4>
   <p>A basic message.</p>
 </div>
+
+```html
+{% raw %}{% capture notice-2 %}
+#### New Site Features
+* You can now have cover images on blog pages
+* Drafts will now auto-save while writing
+{% endcapture %}{% endraw %}
+<div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
+```
+---
+
+{% raw %}{% capture notice-2 %}
+#### New Site Features
+* You can now have cover images on blog pages
+* Drafts will now auto-save while writing
+{% endcapture %}{% endraw %}
+<div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
+
+---
+{% raw %}{% capture notice-success %}
+#### New Site Features
+* You can now have cover images on blog pages
+* Drafts will now auto-save while writing
+{% endcapture %}{% endraw %}
+
+<div class="notice">{% raw %}{{ notice-success | markdownify }}{% endraw %}</div>
