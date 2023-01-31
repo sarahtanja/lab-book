@@ -91,20 +91,27 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 
 # 2. Research
 
+Broadly, my interest in research is motivated by a desire for a healthy world for my future children.
 
+![one-health-venndiagram](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\one-health.jpg)
+*infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
 
 
 
 A little bit more about Sarah's background, research interests & motivations can be found [here](https://sarahtanja.github.io/lab-book/about/).
 {: .notice--success}
 
+
+
 Phthalates Reduce Gametogenesis in *M. capitata* (Low Dose Effects, Reproduction)
 
 - presented this as a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium
 
+  
+
 *M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
 
-
+![](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\graphical-methods.png)
 
 # 3. Options
 
