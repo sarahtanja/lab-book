@@ -127,7 +127,6 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 
 
 <div class="notice--warning" markdown="1">
-
 **In-Progress Coursework**
 
 | Qtr  | Course                                  | Credits |
