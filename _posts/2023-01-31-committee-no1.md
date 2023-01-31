@@ -214,3 +214,9 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 <div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
 
 ---
+{% raw %}{% capture notice-success %}
+#### New Site Features
+* You can now have cover images on blog pages
+* Drafts will now auto-save while writing
+{% endcapture %}{% endraw %}
+<div class="notice">{% raw %}{{ notice-success | markdownify }}{% endraw %}</div>
