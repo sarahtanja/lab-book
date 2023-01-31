@@ -115,8 +115,10 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 | AU22   | FISH 561-Resource Economics & Policy        | 4.0     | 4.0   |
 | AU22   | SMEA 500-Human Dimensions of Global Change  | 3.0     | 4.0   |
 | AU22   | SMEA 521-Climate Change Governance          | 3.0     | 3.7   |
+</div>
 
 <div class="notice" markdown="1">
+
 **Audited Coursework**
 
 | Qtr  | Course                             |
@@ -127,6 +129,7 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 
 
 <div class="notice--warning" markdown="1">
+
 **In-Progress Coursework**
 
 | Qtr  | Course                                  | Credits |
@@ -143,6 +146,7 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 | :--- | -------------------------------------------------- | ------- |
 | SP23 | FISH 546-Bioinformatics for Environmental Sciences | 3.0     |
 | WI24 | '5teen': FISH 578 Bevan Series                     | 2.0     |
+
 </div>
 
 *The committee agreements are a living document that will be collaboratively updated throughout Sarah's Master's work*
