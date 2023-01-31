@@ -91,8 +91,8 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 [Degree Audit Link](https://www.washington.edu/students/reg/dars/)
 
 
-Completed Coursework
-
+<div class="notice--success" markdown="1">
+**Completed Coursework**
 | Qtr  | Course                                      | Credits | Grade |
 | :--- | ------------------------------------------- | ------- | ----- |
 | WI21 | OCEAN 518-Scientific Writing                | 2.0     | CR    |
@@ -111,30 +111,31 @@ Completed Coursework
 | AU22 | FISH 561-Resource Economics & Policy        | 4.0     | 4.0   |
 | AU22 | SMEA 500-Human Dimensions of Global Change  | 3.0     | 4.0   |
 | AU22 | SMEA 521-Climate Change Governance          | 3.0     | 3.7   |
+</div>
 
-Audited Coursework
-
+<div class="notice" markdown="1">
+**Audited Coursework**
 | Qtr  | Course                             |
 | :--- | ---------------------------------- |
 | WI22 | B BIO 495 C-Investigative Biology  |
 | WI22 | FISH 427 A-Tropical Marine Biology |
-|      |                                    |
+</div>
 
-In-Progress Coursework
-
+<div class="notice--warning" markdown="1">
+**In-Progress Coursework**
 | Qtr  | Course                                  | Credits |
 | :--- | --------------------------------------- | ------- |
 | WI23 | FISH 539-US Fishery Management & Policy | 3.0     |
 | WI23 | FISH 700-Masters Thesis                 | 7.0     |
-|      |                                         |         |
+</div>
 
-To-do Coursework
-
+<div class="notice--danger" markdown="1">
+**To-do Coursework**
 | Qtr  | Course                                             | Credits |
 | :--- | -------------------------------------------------- | ------- |
 | SP23 | FISH 546-Bioinformatics for Environmental Sciences | 3.0     |
 | WI24 | '5teen': FISH 578 Bevan Series                     | 2.0     |
-|      |                                                    |         |
+</div>
 
 *The committee agreements are a living document that will be collaboratively updated throughout Sarah's Master's work*
 {: .notice--info}
@@ -143,13 +144,17 @@ To-do Coursework
 
 Broadly, my interest in research is motivated by a desire for a healthy world. This is embodied by the '[one health](https://www.cdc.gov/onehealth/index.html)' approach, which recognizes the connections between the health of people, animals, and the environment.
 
-![](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\one-health.jpg)
+![one-health-venn](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\one-health.jpg)
 
-![one-health-venndiagram](https://github.com/sarahtanja/lab-book/blob/master/assets/images/one-health.jpg)
+![one-health-venn](https://github.com/sarahtanja/lab-book/blob/master/assets/images/one-health.jpg)
 *infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
 
+![one-health-venn](/assets/images/one-health.jpg){: .align-center}
+*infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
+
+
 More about Sarah's background, research interests & motivations can be found [here](https://sarahtanja.github.io/lab-book/about/).
-{: .notice--success}
+{: .notice--info}
 
 
 
