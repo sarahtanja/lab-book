@@ -4,6 +4,10 @@ categories:
   - Committee Meeting
 tags:
   - Committee
+toc: true
+toc_label: "Table of Contents" # default: Content
+toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
+toc_sticky: true   # enables sticky toc
   
 ---
 
@@ -166,8 +170,6 @@ Broadly, my interest in research is motivated by a desire for a healthy world. T
 
 ![one-health-venn](https://github.com/sarahtanja/lab-book/blob/master/assets/images/one-health.jpg)*infographic sourced from [Morrison et al. 2022*](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
 
-
-
 ![one-health-venn](\assets\images\one-health.jpg){: .align-center}
 *infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
 
@@ -175,6 +177,8 @@ More about Sarah's background, research interests & motivations can be found [he
 {: .notice--info}
 
 ## Topic
+
+
 
 ## Questions
 
