@@ -93,7 +93,7 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 
 Broadly, my interest in research is motivated by a desire for a healthy world for my future children.
 
-![one-health-venndiagram](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\one-health.jpg)
+![one-health-venndiagram](https://github.com/sarahtanja/lab-book/blob/master/assets/images/one-health.jpg)
 *infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
 
 
