@@ -111,7 +111,7 @@ Phthalates Reduce Gametogenesis in *M. capitata* (Low Dose Effects, Reproduction
 
 *M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
 
-![](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\graphical-methods.png)
+![pae-temp-graphical-methods](https://github.com/sarahtanja/lab-book/blob/master/assets/images/graphical-methods.png)
 
 # 3. Options
 
