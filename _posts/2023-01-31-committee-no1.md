@@ -98,23 +98,24 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 **Completed Coursework**
 
 | Qtr    | Course                                      | Credits | Grade |
-| :----- | ------------------------------------------- | ------- | ----- |
-| WI21   | OCEAN 518-Scientific Writing                | 2.0     | CR    |
-| SU21   | FHL 446-Marine Botany                       | 9.0     | 4.0   |
-| AU21   | FISH 511-Topics: Evol&Ecol Plastics Seminar | 2.0     | CR    |
-| AU21   | FISH 522-Hot Topics in AFS                  | 2.0     | CR    |
-| AU21   | FISH 552-Intro R Programming                | 2.0     | CR    |
-| AU21   | FISH 553-ADV R Programming                  | 2.0     | CR    |
-| AU21   | QSCI 482-Statistical Inference in Ecol      | 5.0     | 3.8   |
-| WI22   | FISH 521-Research Proposal Writing          | 4.0     | 3.7   |
-| WI22   | FISH 700-Masters Thesis                     | 3.0     | CR    |
-| WI22   | OCEAN 531-Marine Phyto Biogeochem           | 3.0     | 3.9   |
-| WI22   | FISH 700-Masters Thesis                     | 5.0     | CR    |
-| WI22   | FISH 541-Environmental Physiology           | 5.0     | 4.0   |
-| SU22   | FISH 700-Masters Thesis                     | 10.0    | CR    |
-| AU22   | FISH 561-Resource Economics & Policy        | 4.0     | 4.0   |
-| AU22   | SMEA 500-Human Dimensions of Global Change  | 3.0     | 4.0   |
-| AU22   | SMEA 521-Climate Change Governance          | 3.0     | 3.7   |
+| :----- | ------------------------------------------- | ------- | ----- 
+| WI21   | OCEAN 518-Scientific Writing                | 2.0     | CR    
+| SU21   | FHL 446-Marine Botany                       | 9.0     | 4.0   
+| AU21   | FISH 511-Topics: Evol&Ecol Plastics Seminar | 2.0     | CR    
+| AU21   | FISH 522-Hot Topics in AFS                  | 2.0     | CR    
+| AU21   | FISH 552-Intro R Programming                | 2.0     | CR    
+| AU21   | FISH 553-ADV R Programming                  | 2.0     | CR    
+| AU21   | QSCI 482-Statistical Inference in Ecol      | 5.0     | 3.8   
+| WI22   | FISH 521-Research Proposal Writing          | 4.0     | 3.7   
+| WI22   | FISH 700-Masters Thesis                     | 3.0     | CR    
+| WI22   | OCEAN 531-Marine Phyto Biogeochem           | 3.0     | 3.9   
+| WI22   | FISH 700-Masters Thesis                     | 5.0     | CR    
+| WI22   | FISH 541-Environmental Physiology           | 5.0     | 4.0   
+| SU22   | FISH 700-Masters Thesis                     | 10.0    | CR    
+| AU22   | FISH 561-Resource Economics & Policy        | 4.0     | 4.0   
+| AU22   | SMEA 500-Human Dimensions of Global Change  | 3.0     | 4.0   
+| AU22   | SMEA 521-Climate Change Governance          | 3.0     | 3.7   
+
 </div>
 
 <div class="notice" markdown="1">
@@ -125,6 +126,7 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 | :--- | ---------------------------------- |
 | WI22 | B BIO 495 C-Investigative Biology  |
 | WI22 | FISH 427 A-Tropical Marine Biology |
+
 </div>
 
 
@@ -136,6 +138,7 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 | :--- | --------------------------------------- | ------- |
 | WI23 | FISH 539-US Fishery Management & Policy | 3.0     |
 | WI23 | FISH 700-Masters Thesis                 | 7.0     |
+
 </div>
 
 <div class="notice--danger" markdown="1">
@@ -159,8 +162,11 @@ Broadly, my interest in research is motivated by a desire for a healthy world. T
 
 ![one-health-venn](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\one-health.jpg)
 
-![one-health-venn](https://github.com/sarahtanja/lab-book/blob/master/assets/images/one-health.jpg)
-*infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
+
+
+![one-health-venn](https://github.com/sarahtanja/lab-book/blob/master/assets/images/one-health.jpg)*infographic sourced from [Morrison et al. 2022*](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
+
+
 
 ![one-health-venn](\assets\images\one-health.jpg){: .align-center}
 *infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
@@ -182,7 +188,11 @@ Phthalates Reduce Gametogenesis in *M. capitata* (Low Dose Effects, Reproduction
 
 *M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
 
-![](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\graphical-methods.png)![pae-temp-graphical-methods](https://github.com/sarahtanja/lab-book/blob/master/assets/images/graphical-methods.png)
+![](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\graphical-methods.png)
+
+
+
+![pae-temp-graphical-methods](https://github.com/sarahtanja/lab-book/blob/master/assets/images/graphical-methods.png)
 
 # 3. Thesis Direction: Options
 
