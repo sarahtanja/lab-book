@@ -28,9 +28,8 @@ Graduate Student, (Master's Thesis) - Sarah S Tanja, stanja@uw.edu
 
 ------
 
-These agreements outline our work together on this research project and our mentor/mentee expectations {: .notice--info}
-
-
+These agreements outline our work together on this research project and our mentor/mentee expectations. 
+{: .notice--info}
 
 From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document/d/1KITnRsUObcn0QNrKD8WAiq3dozwWW2Bs_fJYRq5u_cQ/edit)
 
@@ -57,14 +56,11 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 
 - The committee will meet quarterly 
 
-  
 
 ## Our research goals are:
 
 - Exploring the effects of the combined stressors of ocean plastic pollution and ocean heat waves on a coral microbiome and transcriptome
 - Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrine disrupting chemicals (phthalates) associated with ocean plastic pollution on coral reproduction, physiology, gene expression, and microbial community composition
-
-
 
 ## Our shared vision of success looks like:
 
@@ -74,8 +70,6 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 - [ ] graduation by SPRING '24
 - [ ] reproducible, open-science 
 - [ ] choosing safe lab practices & procedures that promote human & environmental health
-
-
 
 ## Sarah's progress toward a M.S. will look like:
 
@@ -92,14 +86,27 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 | Submit Master's Thesis                                       | [SP24] 31MAY24 |                |
 | Commencement                                                 | 08JUN24        |                |
 
-*This is a living document that will be collaboratively updated throughout Sarah's Master's work*
+*The committee agreements are a living document that will be collaboratively updated throughout Sarah's Master's work*
 {: .notice--info}
 
-# 2. Research Interests & Motivations
+# 2. Research
 
 
 
-# 3. Chapter & Analysis Options
+
+
+A little bit more about Sarah's background, research interests & motivations can be found [here](https://sarahtanja.github.io/lab-book/about/).
+{: .notice--success}
+
+Phthalates Reduce Gametogenesis in *M. capitata* (Low Dose Effects, Reproduction)
+
+- presented this as a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium
+
+*M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
+
+
+
+# 3. Options
 
 
 
