@@ -93,38 +93,51 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 {% capture notice--success %}
 Completed Coursework
 
-| Qtr  | Course                       | Credits | Grade |
-| :--- | ---------------------------- | ------- | ----- |
-| WI22 | OCEAN 518-Scientific Writing | 2.0     | CR    |
-| AU21 |                              |         |       |
-|      |                              |         |       |
+| Qtr  | Course                                      | Credits | Grade |
+| :--- | ------------------------------------------- | ------- | ----- |
+| WI21 | OCEAN 518-Scientific Writing                | 2.0     | CR    |
+| SU21 | FHL 446-Marine Botany                       | 9.0     | 4.0   |
+| AU21 | FISH 511-Topics: Evol&Ecol Plastics Seminar | 2.0     | CR    |
+| AU21 | FISH 522-Hot Topics in AFS                  | 2.0     | CR    |
+| AU21 | FISH 552-Intro R Programming                | 2.0     | CR    |
+| AU21 | FISH 553-ADV R Programming                  | 2.0     | CR    |
+| AU21 | QSCI 482-Statistical Inference in Ecol      | 5.0     | 3.8   |
+| WI22 | FISH 521-Research Proposal Writing          | 4.0     | 3.7   |
+| WI22 | FISH 700-Masters Thesis                     | 3.0     | CR    |
+| WI22 | OCEAN 531-Marine Phyto Biogeochem           | 3.0     | 3.9   |
+| WI22 | FISH 700-Masters Thesis                     | 5.0     | CR    |
+| WI22 | FISH 541-Environmental Physiology           | 5.0     | 4.0   |
+| SU22 | FISH 700-Masters Thesis                     | 10.0    | CR    |
+| AU22 | FISH 561-Resource Economics & Policy        | 4.0     | 4.0   |
+| AU22 | SMEA 500-Human Dimensions of Global Change  | 3.0     | 4.0   |
+| AU22 | SMEA 521-Climate Change Governance          | 3.0     | 3.7   |
 
 {% endcapture %}
 <div class="notice">{{ notice--success | markdownify }}</div>
 
 Audited Coursework
 
-| Qtr  | Course | Credits | Grade |
-| :--- | ------ | ------- | ----- |
-|      |        |         |       |
-|      |        |         |       |
-|      |        |         |       |
+| Qtr  | Course |
+| :--- | ------ |
+| WI22 |        |
+| WI22 |        |
+|      |        |
 
 In-Progress Coursework
 
-| Qtr  | Course | Credits | Grade |
-| :--- | ------ | ------- | ----- |
-|      |        |         |       |
-|      |        |         |       |
-|      |        |         |       |
+| Qtr  | Course                                  | Credits |
+| :--- | --------------------------------------- | ------- |
+| WI23 | FISH 539-US Fishery Management & Policy | 3.0     |
+| WI23 | FISH 700-Masters Thesis                 | 7.0     |
+|      |                                         |         |
 
 To-do Coursework
 
-| Qtr  | Course | Credits | Grade |
-| :--- | ------ | ------- | ----- |
-|      |        |         |       |
-|      |        |         |       |
-|      |        |         |       |
+| Qtr  | Course | Credits |
+| :--- | ------ | ------- |
+|      |        |         |
+|      |        |         |
+|      |        |         |
 
 *The committee agreements are a living document that will be collaboratively updated throughout Sarah's Master's work*
 {: .notice--info}
@@ -191,12 +204,13 @@ Want to wrap several paragraphs or other elements in a notice? Using Liquid to c
 {% endcapture %}{% endraw %}
 <div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
 ```
+---
 
-{% capture notice-success %}
+{% raw %}{% capture notice-2 %}
 #### New Site Features
 * You can now have cover images on blog pages
 * Drafts will now auto-save while writing
-{% endcapture %}
-<div class="notice">
-  {{ notice-success | markdownify }}
-</div>
+{% endcapture %}{% endraw %}
+<div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
+
+---
