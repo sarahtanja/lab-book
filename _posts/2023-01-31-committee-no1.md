@@ -164,39 +164,33 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 ## Motivation
 Broadly, my interest in research is motivated by a desire for a healthy world. This is embodied by the '[one health](https://www.cdc.gov/onehealth/index.html)' approach, which recognizes the connections between the health of people, animals, and the environment.
 
-![one-health-venn](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\one-health.jpg)
-
-
-
-![one-health-venn](https://github.com/sarahtanja/lab-book/blob/master/assets/images/one-health.jpg)*infographic sourced from [Morrison et al. 2022*](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
-
-![one-health-venn](\assets\images\one-health.jpg){: .align-center}
-*infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
+![one-health-venn](../assets/images/one-health.jpg) *infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
 
 More about Sarah's background, research interests & motivations can be found [here](https://sarahtanja.github.io/lab-book/about/).
 {: .notice--info}
 
-## Topic
+## Research Topic
 
 
 
-## Questions
+## Main Questions
 
-##
+What are the effects of the combined stressors of ocean plastic pollution and ocean heat waves on a coral microbiome and transcriptome
+{: .notice--primary}
 
-Phthalates Reduce Gametogenesis in *M. capitata* (Low Dose Effects, Reproduction)
+Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrine disrupting chemicals (phthalates) associated with ocean plastic pollution on coral reproduction, physiology, gene expression, and microbial community composition
+{: .notice--primary}
+
+## 'Pilot' Experiments 
+
+### Phthalates Reduce Gametogenesis in *M. capitata* (Low Dose Effects, Reproduction)
 
 - presented this as a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium
 
-  
 
-*M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
+### *M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
 
-![](C:\Users\ssdon\OneDrive\Documents\lab-book\assets\images\graphical-methods.png)
-
-
-
-![pae-temp-graphical-methods](https://github.com/sarahtanja/lab-book/blob/master/assets/images/graphical-methods.png)
+![pae-temp-graphical-methods](../assets/images/graphical-methods.png)
 
 # 3. Thesis Direction: Options
 
