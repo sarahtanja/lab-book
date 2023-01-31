@@ -15,12 +15,12 @@ toc_sticky: true   # enables sticky toc
 
 # Agenda
 
-1. ### [Discuss Committee Agreement Outline - 10 mins](#1.-committee-agreement-outline:)
-2. ### [Research Overview- 15 mins](#2.-research-overview)
-3. ### [Thesis Direction: Options - 15 mins](#3.-thesis-direction:-options)
-4. ### [Feedback - 20 mins](#4.-feedback)
+1.  [Discuss Committee Agreement Outline - 10 mins](#1.-committee-agreement-outline)
+2. [Research Overview- 15 mins](#2.-research-overview)
+3. [Thesis Direction Options - 15 mins](#3.-thesis-direction-options)
+4. [Feedback - 20 mins](#4.-feedback)
 ------
-## 1. Committee Agreement Outline:
+## 1. Committee Agreement Outline
 
 Supervisory Committee Chair - Dr. Jacqueline L Padilla-Gamiño, jpgamino@uw.edu 
 
@@ -60,8 +60,7 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 
 - The committee will meet quarterly 
 
-
-## Our research goals are:
+### Our research goals are:
 
 Exploring the effects of the combined stressors of ocean plastic pollution and ocean heat waves on a coral microbiome and transcriptome
 {: .notice--primary}
@@ -69,7 +68,7 @@ Exploring the effects of the combined stressors of ocean plastic pollution and o
 Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrine disrupting chemicals (phthalates) associated with ocean plastic pollution on coral reproduction, physiology, gene expression, and microbial community composition
 {: .notice--primary}
 
-## Our shared vision of success looks like:
+### Our shared vision of success looks like:
 
 - [ ] one published manuscript 
 - [ ] one published note
@@ -78,7 +77,7 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 - [ ] reproducible, open-science 
 - [ ] choosing safe lab practices & procedures that promote human & environmental health
 
-## Sarah's progress toward a M.S. will look like:
+### Sarah's progress toward a M.S. will look like:
 
 | Milestone                                                    | Expected       | Completed      |
 | ------------------------------------------------------------ | -------------- | -------------- |
@@ -159,9 +158,10 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 *The committee agreements are a living document that will be collaboratively updated throughout Sarah's Master's work*
 {: .notice--info}
 
-# 2. Research Overview
+## 2. Research Overview
 
-## Motivation
+### Motivation
+
 Broadly, my interest in research is motivated by a desire for a healthy world. This is embodied by the '[one health](https://www.cdc.gov/onehealth/index.html)' approach, which recognizes the connections between the health of people, animals, and the environment.
 
 ![one-health-venn](../assets/images/one-health.jpg) *infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
@@ -169,11 +169,11 @@ Broadly, my interest in research is motivated by a desire for a healthy world. T
 More about Sarah's background, research interests & motivations can be found [here](https://sarahtanja.github.io/lab-book/about/).
 {: .notice--info}
 
-## Research Topic
+### Research Topic
 
 
 
-## Main Questions
+### Main Questions
 
 What are the effects of the combined stressors of ocean plastic pollution and ocean heat waves on a coral microbiome and transcriptome
 {: .notice--primary}
@@ -181,22 +181,22 @@ What are the effects of the combined stressors of ocean plastic pollution and oc
 Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrine disrupting chemicals (phthalates) associated with ocean plastic pollution on coral reproduction, physiology, gene expression, and microbial community composition
 {: .notice--primary}
 
-## 'Pilot' Experiments 
+### 'Pilot' Experiments 
 
-### Phthalates Reduce Gametogenesis in *M. capitata* (Low Dose Effects, Reproduction)
+#### Phthalates Reduce Gametogenesis in *M. capitata* (Low Dose Effects, Reproduction)
 
 - presented this as a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium
 
 
-### *M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
+#### *M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
 
 ![pae-temp-graphical-methods](../assets/images/graphical-methods.png)
 
-# 3. Thesis Direction: Options
+## 3. Thesis Direction Options
 
 
 
-# 4. Feedback
+## 4. Feedback
 
 
 
