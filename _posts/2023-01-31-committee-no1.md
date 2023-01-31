@@ -14,11 +14,11 @@ toc_sticky: true   # enables sticky toc
 ## *Monday Feb 6th 2023*
 
 # Agenda
+1. Discuss Committee Agreement Outline - 10 mins
+2. Research Overview- 15 mins
+3. Thesis Direction Options - 15 mins
+4. Feedback - 20 mins
 
-1.  [Discuss Committee Agreement Outline - 10 mins](#1.-committee-agreement-outline)
-2. [Research Overview- 15 mins](#2.-research-overview)
-3. [Thesis Direction Options - 15 mins](#3.-thesis-direction-options)
-4. [Feedback - 20 mins](#4.-feedback)
 ------
 ## 1. Committee Agreement Outline
 
