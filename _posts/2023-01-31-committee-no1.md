@@ -7,9 +7,105 @@ tags:
   
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+## *Monday Feb 6th 2023*
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+# Agenda
+
+1. ### [Discuss Committee Agreement Outline - 10 mins](#1.-committee-agreement-outline:)
+2. ### [Research Interests & Motivations - 15 mins](#2.-research-interests-&-motivations)
+3. ### [Chapter & Analysis Options - 15 mins](#3.-chapter-&-analysis-options)
+4. ### [Feedback - 20 mins](#4.-feedback)
+------
+# 1. Committee Agreement Outline:
+
+Supervisory Committee Chair - Dr. Jacqueline L Padilla-Gamiño, jpgamino@uw.edu 
+
+Committee UW SAFS Core Faculty - Dr. Steven B Roberts, sr320@uw.edu 
+
+Committee Member - Dr. Jesse R Zaneveld, zaneveld@uw.edu 
+
+Graduate Student, (Master's Thesis) - Sarah S Tanja, stanja@uw.edu 
+
+------
+
+These agreements outline our work together on this research project and our mentor/mentee expectations {: .notice--info}
+
+
+
+From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document/d/1KITnRsUObcn0QNrKD8WAiq3dozwWW2Bs_fJYRq5u_cQ/edit)
+
+> "The Chair and at least one-half of the total membership must be members of the Graduate Faculty. A minimum of two committee members must also be SAFS Core faculty**.** **The supervisory committee will provide expertise and depth in areas related to the student’s research. The student should rely primarily on the Supervisory Committee Chair and secondarily on the other committee members for professional guidance.**"
+>
+
+## Our Mentee/Mentor Expectations are:
+
+- We will work with open, honest, and kind communication 
+
+- We will prioritize doing fewer projects well over many small projects poorly
+
+- We acknowledge that we may be working flexibly or remotely from different time-zones
+
+- Sarah will organize her research with `GitHub` to foster open science
+
+  - tips on [writing & editing a manuscript](http://paulklemm.com/blog/2014-07-16-use-github-for-scientific-writing/) with multiple reviewers using`GitHub` 
+
+- Sarah will organize all committee meetings, and be responsible for reaching out to individual committee members for help when she needs it
+
+- Sarah is new to bioinformatics analysis and does not already know how to complete the project set before her, she is on a learning curve and will need to reach out to the committee for guidance; at the same time it is her responsibility to own the project and learn the analyses she is conducting
+
+- Sarah will maintain an [open lab notebook](https://sarahtanja.github.io/lab-book/) and post (at least weekly) to it
+
+- The committee will meet quarterly 
+
+  
+
+## Our research goals are:
+
+- Exploring the effects of the combined stressors of ocean plastic pollution and ocean heat waves on a coral microbiome and transcriptome
+- Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrine disrupting chemicals (phthalates) associated with ocean plastic pollution on coral reproduction, physiology, gene expression, and microbial community composition
+
+
+
+## Our shared vision of success looks like:
+
+- [ ] one published manuscript 
+- [ ] one published note
+- [ ] two complete thesis chapters
+- [ ] graduation by SPRING '24
+- [ ] reproducible, open-science 
+- [ ] choosing safe lab practices & procedures that promote human & environmental health
+
+
+
+## Sarah's progress toward a M.S. will look like:
+
+| Milestone                                                    | Expected       | Completed      |
+| ------------------------------------------------------------ | -------------- | -------------- |
+| [Form Committee](https://docs.google.com/forms/d/e/1FAIpQLSdMCg96RoRiT4yEIAMorzOPT6GqDYFRQcPp0Ttr0D22idJqYg/viewform) | [AU22] 16DEC22 | [WI23] 05JAN23 |
+| [Submit Plan of Study](https://forms.gle/15siYRGdHKr5dX2B7)  | [AU22] 16DEC22 | [WI23] 05JAN23 |
+| [Submit Thesis Proposal](https://docs.google.com/forms/d/e/1FAIpQLScL5Tp4GOxGUTxV2c1-kXW0orPTZEfuFeGtMF4eoJ9LHC9mcw/viewform) | [AU22] 16DEC22 | [WI23]         |
+| End-of-Program Meeting with GPA                              | [AU23] 01NOV23 |                |
+| Submit Thesis Draft                                          | [WI24] 31JAN24 |                |
+| Request Final Exam                                           | [WI24] 31JAN24 |                |
+| Request Master's Degree                                      | [WI24] 31JAN24 |                |
+| Final Exam: Thesis Seminar + Oral Exam                       | [SP24] 05APR24 |                |
+| Submit Master's Thesis                                       | [SP24] 31MAY24 |                |
+| Commencement                                                 | 08JUN24        |                |
+
+*This is a living document that will be collaboratively updated throughout Sarah's Master's work*
+{: .notice--info}
+
+# 2. Research Interests & Motivations
+
+
+
+# 3. Chapter & Analysis Options
+
+
+
+# 4. Feedback
+
+
 
 **Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
 {: .notice}
