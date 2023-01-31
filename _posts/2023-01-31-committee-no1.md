@@ -20,7 +20,7 @@ toc_sticky: true   # enables sticky toc
 3. ### [Thesis Direction: Options - 15 mins](#3.-thesis-direction:-options)
 4. ### [Feedback - 20 mins](#4.-feedback)
 ------
-# 1. Committee Agreement Outline:
+## 1. Committee Agreement Outline:
 
 Supervisory Committee Chair - Dr. Jacqueline L Padilla-Gamiño, jpgamino@uw.edu 
 
@@ -40,7 +40,7 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 > "The Chair and at least one-half of the total membership must be members of the Graduate Faculty. A minimum of two committee members must also be SAFS Core faculty**.** **The supervisory committee will provide expertise and depth in areas related to the student’s research. The student should rely primarily on the Supervisory Committee Chair and secondarily on the other committee members for professional guidance.**"
 >
 
-## Our Mentee/Mentor Expectations are:
+### Our Mentee/Mentor Expectations are:
 
 - We will work with open, honest, and kind communication 
 
