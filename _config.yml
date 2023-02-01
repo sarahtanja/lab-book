@@ -29,6 +29,22 @@ search_provider         : lunr # algolia, google
 lunr:
   search_within_pages   : true # false 
   
+# Site Author
+author:
+  name   : "Sarah S.D. Tanja"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Grad student researcher exploring genomics and physiology of corals and kelps in relationship to plastic pollution and heat stress"
+  links:
+   - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:stanja@uw.edu"
+    - label: "Padilla-Gamiño Lab"
+      icon: "fas fa-fw fa-link"
+      url: "https://padilla-gaminolab.weebly.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sarahtanja" 
+      
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes@4.24.0
@@ -37,7 +53,6 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 include:
   - _pages
 
@@ -61,18 +76,9 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+    
 
-author:
-  name   : "Sarah S Tanja"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Grad student researcher exploring genomics and physiology of corals and kelps in relationship to plastic pollution and heat stress"
-  links:
-    - label: "Padilla-Gamiño Lab"
-      icon: "fas fa-fw fa-link"
-      url: "https://padilla-gaminolab.weebly.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sarahtanja"
+
     
 footer:
   links:
