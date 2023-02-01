@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ST
+subtitle: "open lab notebook" # site tagline that appears below site title in masthead
 email: stanja@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
   An open lab notebook where I can save and share protocols, posts, and data from my Masters thesis research projects
