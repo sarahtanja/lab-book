@@ -32,7 +32,7 @@ Graduate Student, (Master's Thesis) - Sarah S Tanja, stanja@uw.edu
 
 ------
 
-These agreements outline our work together on this research project and our mentor/mentee expectations. 
+***Note:**  These agreements outline our work together on this research project and our mentor/mentee expectations.* 
 {: .notice--info}
 
 From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document/d/1KITnRsUObcn0QNrKD8WAiq3dozwWW2Bs_fJYRq5u_cQ/edit)
@@ -155,7 +155,7 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 
 </div>
 
-*The committee agreements are a living document that will be collaboratively updated throughout Sarah's Master's work*
+***Note:** The committee agreements are a living document that will be collaboratively updated throughout Sarah's Master's work*
 {: .notice--info}
 
 ## 2. Research Overview
@@ -168,7 +168,7 @@ Broadly, my interest in research is motivated by a desire for a healthy world. T
 
 {% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/one-health.jpg" alt="" class="full">{% endraw %}
 
-More about Sarah's background, research interests & motivations can be found [here](https://sarahtanja.github.io/lab-book/about/).
+***Note:**  More about Sarah's background, research interests & motivations can be found [here](https://sarahtanja.github.io/lab-book/about/).*
 {: .notice--info}
 
 ### Research Topic
@@ -177,10 +177,10 @@ More about Sarah's background, research interests & motivations can be found [he
 
 ### Main Questions
 
-What are the effects of the combined stressors of ocean plastic pollution and ocean heat waves on a coral microbiome and transcriptome?
+Do we see non-monotonic (non-linear) responses and low-dose effects of endocrine disrupting chemicals (phthalates) associated with ocean plastic pollution on coral reproduction, physiology, gene expression, and microbial community composition?
 {: .notice--primary}
 
-Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrine disrupting chemicals (phthalates) associated with ocean plastic pollution on coral reproduction, physiology, gene expression, and microbial community composition
+What are the effects of the combined stressors of ocean plastic pollution and ocean heat waves on a coral microbiome and transcriptome?
 {: .notice--primary}
 
 ### 'Pilot' Experiments 
@@ -191,8 +191,6 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 
 {% raw %}![coral-bundles]({{ site.url }}{{ site.baseurl }}/assets/images/bundle-vial.png)
 {: .full}{% endraw %}
-
-{% raw %}![bundle](https://github.com/sarahtanja/lab-book/blob/master/assets/images/bundle-vial.png){: .full}{% endraw %}
 
 - presented this as a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium
 
