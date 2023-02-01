@@ -189,7 +189,7 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 
 ![img](https://github.com/sarahtanja/lab-book/blob/master/assets/images/bundle-vial.png)
 
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bundle-vial.png)
+{% raw %}![coral-bundles]({{ site.url }}{{ site.baseurl }}/assets/images/bundle-vial.png)
 {: .full}{% endraw %}
 
 - presented this as a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium
@@ -198,6 +198,9 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 #### *M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
 
 ![pae-temp-graphical-methods](../assets/images/graphical-methods.png)
+{% raw %}![pae-temp-graphical-methods]({{ site.url }}{{ site.baseurl }}/assets/images/graphical-methods.png)
+{: .full}{% endraw %}
+
 
 ## 3. Thesis Direction Options
 
