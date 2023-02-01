@@ -192,6 +192,8 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 {% raw %}![coral-bundles]({{ site.url }}{{ site.baseurl }}/assets/images/bundle-vial.png)
 {: .full}{% endraw %}
 
+{% raw %}![bundle](https://github.com/sarahtanja/lab-book/blob/master/assets/images/bundle-vial.png){: .full}{% endraw %}
+
 - presented this as a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium
 
 
