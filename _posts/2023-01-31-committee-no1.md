@@ -177,7 +177,7 @@ More about Sarah's background, research interests & motivations can be found [he
 
 ### Main Questions
 
-What are the effects of the combined stressors of ocean plastic pollution and ocean heat waves on a coral microbiome and transcriptome
+What are the effects of the combined stressors of ocean plastic pollution and ocean heat waves on a coral microbiome and transcriptome?
 {: .notice--primary}
 
 Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrine disrupting chemicals (phthalates) associated with ocean plastic pollution on coral reproduction, physiology, gene expression, and microbial community composition
