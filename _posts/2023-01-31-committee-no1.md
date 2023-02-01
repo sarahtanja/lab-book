@@ -198,13 +198,14 @@ What are the effects of the combined stressors of ocean plastic pollution and oc
 #### *M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
 
 ![pae-temp-graphical-methods](../assets/images/graphical-methods.png)
+
 {% raw %}![pae-temp-graphical-methods]({{ site.url }}{{ site.baseurl }}/assets/images/graphical-methods.png)
 {: .full}{% endraw %}
 
 
 ## 3. Thesis Direction Options
 
-
+![img]()
 
 ## 4. Feedback
 
