@@ -171,9 +171,73 @@ Broadly, my interest in research is motivated by a desire for a healthy world. T
 ***Note:**  More about Sarah's background, research interests & motivations can be found [here](https://sarahtanja.github.io/lab-book/about/).*
 {: .notice--info}
 
-### Research Topic
+### Research Topic Background
+
+**The goal of my Master's thesis research is to understand how warming oceans and plastic
+pollution will interact and affect coral physiology.**
+
+It is forecasted that more than 75% of coral reefs will experience *yearly severe bleaching* before 2070 due to thermal stress. However, hope for resilient coral recovery exists.  In a prolonged marine heatwave event on Kiritimati Atoll, the largest coral atoll in the world, 100% of the corals near chronic anthropogenic disturbances died, but in areas that were not already stressed, 90% of corals died. **The 10% that survived after bleaching are hypothesized to have recovered due to  lower baseline levels of stress and better water quality compared to corals near chronic anthropogenic stressors like pollution and overfishing (Claar et al. 2020).** While coral coverage has declined since the 50s, petroleum-derived plastic production and subsequent environmental plastic pollution have rapidly increased. An estimated 8 million tons of plastic and their associated additives end up in the oceans every year, with unknown impacts to important coastal coral reef ecosystems. **Plastics are emerging environmental pollutants of growing concern for coral reefs, and are the source of a suite of environmental contaminants and persistent organic pollutants posing unknown risks to human and ecosystem health (Rochman et al. 2019).** Though plastics are non-biodegradable, persisting in the environment for centuries, UV radiation and mechanical weathering cause them to become brittle and fragment into microplastics &lt;5mm, and nanoplastics &lt;1mm. **As plastics weather mechanically, they also weather chemically by leaching additives not covalently bonded to the plastic polymer resins (Hahladakis et al. 2018).** The most common plastic additives are a group of chemicals called plasticizers, also known as phthalates or phthalate acid esters (PAE). They are commonly added to PVC to increase flexibility and durability. Phthalates are known to mimic or interfere with hormones that control developmental, reproductive, and immune response in both humans and animals (Maqbool et al. 2016). Despite the presence of phthalates in 95% of tested coral samples (Montano et al. 2020), little is known about how phthalates interfere with coral physiology and reproduction. **Previous research shows that plastic leachates experimentally added to plants, bacteria, and algae impair growth, reduce photosynthesis, and shift microbial communities in lab studies (Capolupo et al. 2020; O’Brien et al. 2022; Tetu et al. 2019).** Marine heatwaves, plastic manufacturing, and coastal ocean plastic pollution are all predicted to increase (MacLeod et al. 2021; Oliver et al. 2021). Therefore, it is urgent that we understand how thermal stress and plastic pollution interact and the effects they may have on corals.
+
+ As discussed in Claar et al. (2020), the success of coral recovery after bleaching will depend on levels of chronic anthropogenic stressors like pollution.  Removing the pressure of plastic pollution from corals could be the break they need for a fighting chance at survival. This proposed research aligns with the mission of the School of Aquatic and Fisheries Sciences at the University of Washington, which is to conduct multidisciplinary research and education in order to understand, conserve, and manage marine ecosystems.
 
 
+
+> *REFERENCES*
+>
+> Capolupo, Marco, Lisbet Sørensen, Kongalage Don Ranil Jayasena, Andy M. Booth, and Elena
+> Fabbri. 2020. “Chemical Composition and Ecotoxicity of Plastic and Car Tire Rubber
+> Leachates to Aquatic Organisms.” Water Research 169 (February): 115270.
+> https://doi.org/10.1016/j.watres.2019.115270.
+>
+> Claar, Danielle C., Samuel Starko, Kristina L. Tietjen, Hannah E. Epstein, Ross Cunning, Kim
+> M. Cobb, Andrew C. Baker, Ruth D. Gates, and Julia K. Baum. 2020. “Dynamic Symbioses
+> Reveal Pathways to Coral Survival Through Prolonged Heatwaves.” Nature Communications
+> 11 (1): 6097. https://doi.org/10.1038/s41467-020-19169-y.
+>
+> Hahladakis, John N., Costas A. Velis, Roland Weber, Eleni Iacovidou, and Phil Purnell. 2018.
+> “An Overview of Chemical Additives Present in Plastics: Migration, Release, Fate and
+> Environmental Impact During Their Use, Disposal and Recycling.” Journal of Hazardous
+> Materials 344 (February): 179–99. https://doi.org/10.1016/j.jhazmat.2017.10.014.
+>
+> MacLeod, Matthew, Hans Peter H. Arp, Mine B. Tekman, and Annika Jahnke. 2021. “The
+> Global Threat from Plastic Pollution.” Science 373 (6550): 61–65. https://doi.org/10.1126/science.abg5433.
+>
+> Maqbool, Faheem, Sara Mostafalou, Haji Bahadar, and Mohammad Abdollahi. 2016.
+> “Review of Endocrine Disorders Associated with Environmental Toxicants and Possible
+> Involved Mechanisms.” Life Sciences 145 (January): 265–73. https://doi.org/10.1016/j.lfs.2015.10.022.
+>
+> Marangoni, Laura FB, Eric Beraud, and Christine Ferrier-Pagès. 2021. “Polystyrene
+> Nanoplastics Impair the Photosynthetic Capacities of Symbiodiniaceae and Promote Coral
+> Bleaching.” Science of The Total Environment, 152136.
+>
+> Montano, Simone, Davide Seveso, Davide Maggioni, Paolo Galli, Stefano Corsarini, and
+> Francesco Saliu. 2020. “Spatial Variability of Phthalates Contamination in the Reef-Building
+> Corals Porites Lutea, Pocillopora Verrucosa and Pavona Varians.” Marine Pollution Bulletin
+> 155 (June): 111117. https://doi.org/10.1016/j.marpolbul.2020.111117.
+>
+> O’Brien, Anna M., Tiago F. Lins, Yamin Yang, Megan E. Frederickson, David Sinton, and
+> Chelsea M. Rochman. 2022. “Microplastics Shift Impacts of Climate Change on a Plant-
+> Microbe Mutualism: Temperature, CO2, and Tire Wear Particles.” Environmental Research
+> 203 (January): 111727. https://doi.org/10.1016/j.envres.2021.111727.
+>
+> Oliver, Eric C. J., Jessica A. Benthuysen, Sofia Darmaraki, Markus G. Donat, Alistair J. Hobday,
+> Neil J. Holbrook, Robert W. Schlegel, and Alex Sen Gupta. 2021. “Marine Heatwaves.” Annual
+> Review of Marine Science 13 (1): 313–42. https://doi.org/10.1146/annurev-marine-032720-095144.
+>
+> Rochman, Chelsea M., Cole Brookson, Jacqueline Bikker, Natasha Djuric, Arielle Earn,
+> Kennedy Bucci, Samantha Athey, et al. 2019. “Rethinking Microplastics as a Diverse
+> Contaminant Suite.” Environmental Toxicology and Chemistry 38 (4): 703–11.
+> https://doi.org/10.1002/etc.4371.
+>
+> Tetu, Sasha G., Indrani Sarker, Verena Schrameyer, Russell Pickford, Liam D. H. Elbourne,
+> Lisa R. Moore, and Ian T. Paulsen. 2019. “Plastic Leachates Impair Growth and Oxygen
+> Production in Prochlorococcus, the Ocean’s Most Abundant Photosynthetic Bacteria.”
+> Communications Biology 2 (May): 184. https://doi.org/10.1038/s42003-019-0410-x.
+>
+> Zaneveld, Jesse R., Deron E. Burkepile, Andrew A. Shantz, Catharine E. Pritchard, Ryan
+> McMinds, Jérôme P. Payet, Rory Welsh, et al. 2016. “Overfishing and Nutrient Pollution
+> Interact with Temperature to Disrupt Coral Reefs down to Microbial Scales.” Nature
+> Communications 7 (1): 11833. https://doi.org/10.1038/ncomms11833.
 
 ### Main Questions
 
