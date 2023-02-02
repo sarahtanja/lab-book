@@ -255,15 +255,13 @@ What are the effects of the combined stressors of ocean plastic pollution and oc
 
 #### Phthalates Reduce Gametogenesis in *M. capitata* (Low Dose Effects, Reproduction)
 
-I exposed fertilized *M. capitata* coral embryos to phthalates diluted in filtered seawater to assess toxic effects on the survival and development of the coral embryos. I conducted this pilot experiment using closed-system 20mL scintillation vials with foil-lined caps. 
+I exposed fertilized *M. capitata* coral gametes to phthalates diluted in filtered seawater to assess toxic effects on the survival and development of the coral embryos. I conducted this pilot experiment using closed-system 20mL scintillation vials with foil-lined caps. 
 
-I used the [EPA 506 phthalate esters mix 1](https://www.sigmaaldrich.com/US/en/product/supelco/48223?gclid=CjwKCAjw-8qVBhANEiwAfjXLrp8fD-G8yiB_NyrA3OLy3r2jdylgBmHVPUfGFnMp4CMfuVwePGi1dxoCBQIQAvD_BwE), which is a 1mL vial that includes 6 common phthalates each at a concentration of 500$\mu$g / mL, *(500,000$\mu$g/L)* .
+I used the [EPA 506 phthalate esters mix 1](https://www.sigmaaldrich.com/US/en/product/supelco/48223?gclid=CjwKCAjw-8qVBhANEiwAfjXLrp8fD-G8yiB_NyrA3OLy3r2jdylgBmHVPUfGFnMp4CMfuVwePGi1dxoCBQIQAvD_BwE), which is a 1mL vial that includes the **6 most common phthalates added to consumer products** each at a concentration of 500$\mu$g / mL, *(500,000$\mu$g/L)* .
 
 The mix contained the following 6 phthalates:
 
-- Benzyl butyl phthalate **(BBP)**
-
-- Bis(2-ethylhexyl) adipate **(DEHA)**
+- Benzyl butyl phthalate **(BBP)detected in 92.7% of 165 water samples]Bis(2-ethylhexyl) adipate **(DEHA)**
 
 - Bis(2-ethylhexyl) phthalate **(DEHP)**
 
@@ -299,19 +297,27 @@ Sánchez-Avila, Juan, Romà Tauler, and Silvia Lacorte. 2012. “Organic Micropo
 Based on these environmental measurements, I chose to dose the coral gametes at the following concentrations:
 
 - 0$\mu$g/L : control
-- 0.5$\mu$g/L (0.0005$\mu$g/mL): environmentally relevant value
-
-- 5$\mu$g/L (0.005$\mu$g/mL) : would be considered just under acceptable drinking water
-
-- 50$\mu$g/L (0.05$\mu$g/mL) : increasing by factor of 10
+- 0.5$\mu$g/L (0.0005$\mu$g/mL): LOD
+- 5$\mu$g/L (0.005$\mu$g/mL) : would be considered acceptable drinking water
+- 50$\mu$g/L (0.05$\mu$g/mL) : common environmentally relevant value
 - 150$\mu$g/L (0.150$\mu$g/mL): max environmental relevance (Jebara et al. 2021, in Tunisia @ 168$\mu$g/L)
 
 ![img](https://github.com/sarahtanja/lab-book/blob/master/assets/images/bundle-vial.png)
 
 ![](../assets/images/bundle-vial.png)
 
+After dropping bundle-bundle crosses in each prepped 20mL vial treatment, I allowed the bundles to break apart, releasing sperm, and undergo fertilization.
+
+At 4 hours post fertilization, I photographed all the eggs, zygotes, or embryos in each vial using a dissecting scope to determine what proportion of the bundle-bundle cross successfully made it to initial cleavage.
+
+![](../assets/images/cleave-eggs.png)
+
+
+
 ***Note:** I presented this pilot study in a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium*
 {: .notice–info}
+
+
 
 
 #### *M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
