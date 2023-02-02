@@ -40,3 +40,8 @@ https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/tr
 
 - *transcriptome* - an organism's complete set of RNA
 - *microsatellites* - 
+
+- microbiome  - the genomes of bacteria, archaea, and fungi that collectively reside in an environment
+  - can be investigated using: Shotgun Metagenome Sequencing  and/or 16s rRNA Sequencing
+- microbiota - the living community of archaea, bacteria, and fungi in an environment
+- 

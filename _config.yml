@@ -13,19 +13,35 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "ST"
-subtitle: "open lab notebook"
-name: "Sarah S Tanja"
-email: stanja@uw.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  An open lab notebook where I can save and share protocols, posts, and data from my Masters thesis research projects
-github_username: sarahtanja
-minimal_mistakes_skin: "default" 
-search: true
-
+title                   : ST
+subtitle                : "open lab notebook" # site tagline that appears below site title in masthead
+name                    : "Sarah S.D. Tanja"
+description             : "An open lab notebook where I can save and share protocols, posts, and data from my Masters thesis research projects"
+github_username         : sarahtanja
+minimal_mistakes_skin   : "mint" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+url                     : "https://sarahtanja.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                 : "/lab-book"  # the subpath of your site, e.g. "/blog"
+repository              : "sarahtanja/lab-book" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                  : " /assets/images/bundle-vial.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+search                  : true
+search_full_content     : true # false 
+search_provider         : lunr # algolia, google
 lunr:
-	search_within_pages: true
-
+  search_within_pages   : true # false 
+  
+# Site Author
+author:
+  name   : "Sarah S.D. Tanja"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Grad student researcher exploring genomics and physiology of corals and kelps in relation to plastic pollution and heat stress"
+  links:
+    - label: "Padilla-Gamiño Lab"
+      icon: "fas fa-fw fa-link"
+      url: "https://padilla-gaminolab.weebly.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sarahtanja" 
+      
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes@4.24.0
@@ -34,7 +50,6 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 include:
   - _pages
 
@@ -58,19 +73,9 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+    
 
-author:
-  name: "Sarah S Tanja"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "Grad student researcher exploring genomics and physiology of corals and kelps in relationship to plastic pollution and heat stress"
-  location: "Seattle, WA"
-  links:
-    - label: "Padilla-Gamiño Lab"
-      icon: "fas fa-fw fa-link"
-      url: "https://padilla-gaminolab.weebly.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sarahtanja"
+
     
 footer:
   links:
@@ -90,10 +95,9 @@ defaults:
       comments: true
       share: true
       related: true
-      show_date: true
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single

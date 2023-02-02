@@ -12,11 +12,11 @@ My research focuses on the multiple stressor impacts of plastic pollution and he
 ### Research Influences
 I first began circling the issue of plastic pollution and marine debris in 2012 as an [intern](https://www.adfg.alaska.gov/index.cfm?adfg=internexp.donohoe) with the Alaska Dept. of Fish & Game at a remote Steller sea lion rookery near Dixon Entrance. During population surveys, I photographed sea lions entangled in plastic trash, and later worked with the Pinniped Entanglement Group [(PEG)](https://pinnipedentanglementgroup.org/) to research biodegradable alternatives to plastic packing bands on fish boxes. I learned how difficult it is to amend a system reliant on plastic. 
 
-More recently, a seminar taught by my advisor [Dr. Padilla-Gamiño](https://fish.uw.edu/faculty/jacqueline-padilla-gamino/ raised my awareness of the [links](https://www.youtube.com/watch?v=iO3SA4YyEYU) between the fossil fuel industry, petrochemical-based plastics pollution, and the need for a plastics circular economy. Throughout the seminar, I was heavily influenced by:
+More recently, a seminar taught by my advisor [Dr. Padilla-Gamiño](https://fish.uw.edu/faculty/jacqueline-padilla-gamino/) raised my awareness of the [links](https://www.youtube.com/watch?v=iO3SA4YyEYU) between the fossil fuel industry, petrochemical-based plastics pollution, and the need for a plastics circular economy. Throughout the seminar, I was heavily influenced by:
 
 -  the documentary, "[The Story of Plastic](https://www.youtube.com/show/SC2l9YPiNhgA1NwB2avpZwgw)"
 -  a peer-reviewed paper, "[Rethinking Microplastics as a Diverse Contaminant Suite](https://doi.org/10.1002/etc.4371)" by Chelsea Rochman et. al 2019
-- 
+
 
 Phthalates are known endocrine-disrupting chemicals, which can have strong effects even at very low doses. This ecotoxicology concept is referred to as 'low-dose effects' and 'non-monotonic' response and was introduced to me by [Dr. Alison Gardell](https://directory.tacoma.uw.edu/employee/agardell) as a guest-lecturer to a course in Integrated Environmental Physiology taught by [Dr. Steven Roberts](https://fish.uw.edu/faculty/steven-roberts/) at the University of Washington in Seattle.
 
