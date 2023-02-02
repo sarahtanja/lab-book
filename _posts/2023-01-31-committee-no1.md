@@ -202,10 +202,17 @@ What are the effects of the combined stressors of ocean plastic pollution and oc
 {% raw %}![pae-temp-graphical-methods]({{ site.url }}{{ site.baseurl }}/assets/images/graphical-methods.png)
 {: .full}{% endraw %}
 
+{% raw %}![pae-temp-graphical-methods]({{ site.url }}/assets/images/graphical-methods.png)
+{: .full}{% endraw %}
+
+{% raw %}![pae-temp-graphical-methods](https://github.com/sarahtanja/lab-book/blob/master/assets/images/bundle-vial.png)
+{: .full}{% endraw %}
 
 ## 3. Thesis Direction Options
 
-![img]()
+![img](https://github.com/sarahtanja/lab-book/blob/master/assets/images/bundle-vial.png)
+
+![img](https://github.com/sarahtanja/lab-book/assets/images/bundle-vial.png)
 
 ## 4. Feedback
 
