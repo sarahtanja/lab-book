@@ -174,11 +174,15 @@ Broadly, my interest in research is motivated by a desire for a healthy world. T
 ### Research Topic Background
 
 **The goal of my Master's thesis research is to understand how warming oceans and plastic
-pollution will interact and affect coral physiology.**
+pollution affect corals.**
 
-It is forecasted that more than 75% of coral reefs will experience *yearly severe bleaching* before 2070 due to thermal stress. However, hope for resilient coral recovery exists.  In a prolonged marine heatwave event on Kiritimati Atoll, the largest coral atoll in the world, 100% of the corals near chronic anthropogenic disturbances died, but in areas that were not already stressed, 90% of corals died. **The 10% that survived after bleaching are hypothesized to have recovered due to  lower baseline levels of stress and better water quality compared to corals near chronic anthropogenic stressors like pollution and overfishing (Claar et al. 2020).** While coral coverage has declined since the 50s, petroleum-derived plastic production and subsequent environmental plastic pollution have rapidly increased. An estimated 8 million tons of plastic and their associated additives end up in the oceans every year, with unknown impacts to important coastal coral reef ecosystems. **Plastics are emerging environmental pollutants of growing concern for coral reefs, and are the source of a suite of environmental contaminants and persistent organic pollutants posing unknown risks to human and ecosystem health (Rochman et al. 2019).** Though plastics are non-biodegradable, persisting in the environment for centuries, UV radiation and mechanical weathering cause them to become brittle and fragment into microplastics &lt;5mm, and nanoplastics &lt;1mm. **As plastics weather mechanically, they also weather chemically by leaching additives not covalently bonded to the plastic polymer resins (Hahladakis et al. 2018).** The most common plastic additives are a group of chemicals called plasticizers, also known as phthalates or phthalate acid esters (PAE). They are commonly added to PVC to increase flexibility and durability. Phthalates are known to mimic or interfere with hormones that control developmental, reproductive, and immune response in both humans and animals (Maqbool et al. 2016). Despite the presence of phthalates in 95% of tested coral samples (Montano et al. 2020), little is known about how phthalates interfere with coral physiology and reproduction. **Previous research shows that plastic leachates experimentally added to plants, bacteria, and algae impair growth, reduce photosynthesis, and shift microbial communities in lab studies (Capolupo et al. 2020; O’Brien et al. 2022; Tetu et al. 2019).** Marine heatwaves, plastic manufacturing, and coastal ocean plastic pollution are all predicted to increase (MacLeod et al. 2021; Oliver et al. 2021). Therefore, it is urgent that we understand how thermal stress and plastic pollution interact and the effects they may have on corals.
+It is forecasted that more than 75% of coral reefs will experience *yearly severe bleaching* before 2070 due to thermal stress. However, hope for resilient corals exists.  In a prolonged marine heatwave event on Kiritimati Atoll, the largest coral atoll in the world, 100% of the corals near chronic anthropogenic disturbances died, but in areas that were not already stressed, 90% of corals died. **The 10% that survived after bleaching are hypothesized to have recovered due to  lower baseline levels of stress and better water quality compared to corals near chronic anthropogenic stressors like pollution and overfishing (Claar et al. 2020).** While coral coverage has declined since the 50s, petroleum-derived plastic production and subsequent environmental plastic pollution have rapidly increased. An estimated 8 million tons of plastic and their associated additives end up in the oceans every year, with unknown impacts to important coastal coral reef ecosystems. **Plastics are emerging environmental pollutants of growing concern for coral reefs, and are the source of a suite of environmental contaminants and persistent organic pollutants posing unknown risks to human and ecosystem health (Rochman et al. 2019).** Though plastics are non-biodegradable, persisting in the environment for centuries, UV radiation and mechanical weathering cause them to become brittle and fragment into microplastics &lt;5mm, and nanoplastics &lt;1mm. **As plastics weather mechanically, they also weather chemically by leaching additives not covalently bonded to the plastic polymer resins (Hahladakis et al. 2018).** The most common plastic additives are a group of chemicals called plasticizers, also known as phthalates or phthalate acid esters (PAE). They are commonly added to PVC to increase flexibility and durability. Phthalates are known to mimic or interfere with hormones that control developmental, reproductive, and immune response in both humans and animals (Maqbool et al. 2016). Despite the presence of phthalates in 95% of tested coral samples (Montano et al. 2020), little is known about how phthalates interfere with coral physiology and reproduction. **Previous research shows that plastic leachates experimentally added to plants, bacteria, and algae impair growth, reduce photosynthesis, and shift microbial communities in lab studies (Capolupo et al. 2020; O’Brien et al. 2022; Tetu et al. 2019).** Marine heatwaves, plastic manufacturing, and coastal ocean plastic pollution are all predicted to increase (MacLeod et al. 2021; Oliver et al. 2021). 
 
- As discussed in Claar et al. (2020), the success of coral recovery after bleaching will depend on levels of chronic anthropogenic stressors like pollution.  Removing the pressure of plastic pollution from corals could be the break they need for a fighting chance at survival. This proposed research aligns with the mission of the School of Aquatic and Fisheries Sciences at the University of Washington, which is to conduct multidisciplinary research and education in order to understand, conserve, and manage marine ecosystems.
+ As discussed in Claar et al. (2020), the success of coral recovery after bleaching will depend on levels of chronic anthropogenic stressors like pollution.  Removing the pressure of plastic pollution from corals could be the break they need for a fighting chance at survival. 
+
+
+
+This proposed research aligns with the mission of the School of Aquatic and Fisheries Sciences at the University of Washington, which is to conduct multidisciplinary research and education in order to understand, conserve, and manage marine ecosystems.
 
 
 
@@ -251,12 +255,63 @@ What are the effects of the combined stressors of ocean plastic pollution and oc
 
 #### Phthalates Reduce Gametogenesis in *M. capitata* (Low Dose Effects, Reproduction)
 
+I exposed fertilized *M. capitata* coral embryos to phthalates diluted in filtered seawater to assess toxic effects on the survival and development of the coral embryos. I conducted this pilot experiment using closed-system 20mL scintillation vials with foil-lined caps. 
+
+I used the [EPA 506 phthalate esters mix 1](https://www.sigmaaldrich.com/US/en/product/supelco/48223?gclid=CjwKCAjw-8qVBhANEiwAfjXLrp8fD-G8yiB_NyrA3OLy3r2jdylgBmHVPUfGFnMp4CMfuVwePGi1dxoCBQIQAvD_BwE), which is a 1mL vial that includes 6 common phthalates each at a concentration of 500$\mu$g / mL, *(500,000$\mu$g/L)* .
+
+The mix contained the following 6 phthalates:
+
+- Benzyl butyl phthalate **(BBP)**
+
+- Bis(2-ethylhexyl) adipate **(DEHA)**
+
+- Bis(2-ethylhexyl) phthalate **(DEHP)**
+
+  - listed on EPA's Toxics Release Inventory (TRI)
+
+  - DEHP is regulated under the Safe Drinking Water Act. The highest concentration allowed, the maximum contaminant level (MCL), is 0.006 mg/L , **(6$\mu$g/L)**
+
+
+- Dibutyl pthalate **(DBP)**
+  - listed on EPA's Toxics Release Inventory (TRI)
+
+
+- Diethyl phthalate **(DEP)**
+
+- Dimethyl phthalate **(DMP)**
+
+Concentrations of phthalates in environmental sea water samples reported in the literature:
+
+| Study Area                  | BBP  | DEHA                 | DEHP                | DBP               | DEP                 | DMP                     | $\sum$PAE         | Reference                |
+| --------------------------- | ---- | -------------------- | ------------------- | ----------------- | ------------------- | ----------------------- | ----------------- | ------------------------ |
+| Review                      |      |                      |                     |                   |                     |                         | 0.5 - 10 $\mu$g/L | Lynch et al 2022         |
+| Tunisia                     |      |                      | <LOD-168$\mu$g/L    | <LOD-30.5$\mu$g/L | <LOD-17.0$\mu$g/L   |                         |                   | Jebara et al 2021        |
+| Mediterranean Coastal Spain |      | 0.0021-0.304$\mu$g/L | 0.031-0.617$\mu$g/L |                   | 0.024-0.483$\mu$g/L | 0.0028 - 0.142 $\mu$g/L |                   | Sanchez-Avila et al 2012 |
+
+Lynch, Jennifer M., Katrina Knauer, and Katherine R. Shaw. 2022. “Plastic Additives in the Ocean.” In *Plastics and the Ocean*, edited by Anthony L. Andrady, 1st ed., 43–76. Wiley. https://doi.org/10.1002/9781119768432.ch2.
+
+Jebara, Amel, Ambrogina Albergamo, Rossana Rando, Angela Giorgia Potortì, Vincenzo Lo Turco, Hedi Ben Mansour, and Giuseppa Di Bella. 2021. “Phthalates and Non-Phthalate Plasticizers in Tunisian Marine Samples: Occurrence, Spatial Distribution and Seasonal Variation.” *Marine Pollution Bulletin* 163 (February): 111967. https://doi.org/10.1016/j.marpolbul.2021.111967.
+
+Sánchez-Avila, Juan, Romà Tauler, and Silvia Lacorte. 2012. “Organic Micropollutants in Coastal Waters from NW Mediterranean Sea: Sources Distribution and Potential Risk.” *Environment International* 46 (October): 50–62. https://doi.org/10.1016/j.envint.2012.04.013.
+
+
+
+Based on these environmental measurements, I chose to dose the coral gametes at the following concentrations:
+
+- 0$\mu$g/L : control
+- 0.5$\mu$g/L (0.0005$\mu$g/mL): environmentally relevant value
+
+- 5$\mu$g/L (0.005$\mu$g/mL) : would be considered just under acceptable drinking water
+
+- 50$\mu$g/L (0.05$\mu$g/mL) : increasing by factor of 10
+- 150$\mu$g/L (0.150$\mu$g/mL): max environmental relevance (Jebara et al. 2021, in Tunisia @ 168$\mu$g/L)
+
 ![img](https://github.com/sarahtanja/lab-book/blob/master/assets/images/bundle-vial.png)
 
-{% raw %}![coral-bundles]({{ site.url }}{{ site.baseurl }}/assets/images/bundle-vial.png)
-{: .full}{% endraw %}
+![](../assets/images/bundle-vial.png)
 
-- presented this as a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium
+***Note:** I presented this pilot study in a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium*
+{: .notice–info}
 
 
 #### *M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
