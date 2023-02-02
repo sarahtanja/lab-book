@@ -166,7 +166,9 @@ Broadly, my interest in research is motivated by a desire for a healthy world. T
 
 ![one-health-venn](../assets/images/one-health.jpg) *infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
 
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/one-health.jpg" alt="" class="full">{% endraw %}
+{% raw %}
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/one-health.jpg">
+{%endraw %}
 
 ***Note:**  More about Sarah's background, research interests & motivations can be found [here](https://sarahtanja.github.io/lab-book/about/).*
 {: .notice--info}
@@ -180,7 +182,7 @@ It is forecasted that more than 75% of coral reefs will experience *yearly sever
 
  As discussed in Claar et al. (2020), the success of coral recovery after bleaching will depend on levels of chronic anthropogenic stressors like pollution.  Removing the pressure of plastic pollution from corals could be the break they need for a fighting chance at survival. 
 
-
+I propose to conduct a series of studies that expose coral gametes and coral colonies to the multiple stressors of phthalate pollution and ocean warming, and subsequently measure the physiological responses, holobiont community structure, and gene expression between treatments. 
 
 This proposed research aligns with the mission of the School of Aquatic and Fisheries Sciences at the University of Washington, which is to conduct multidisciplinary research and education in order to understand, conserve, and manage marine ecosystems.
 
@@ -226,7 +228,7 @@ This proposed research aligns with the mission of the School of Aquatic and Fish
 >
 > Oliver, Eric C. J., Jessica A. Benthuysen, Sofia Darmaraki, Markus G. Donat, Alistair J. Hobday,
 > Neil J. Holbrook, Robert W. Schlegel, and Alex Sen Gupta. 2021. “Marine Heatwaves.” Annual
-> Review of Marine Science 13 (1): 313–42. https://doi.org/10.1146/annurev-marine-032720-095144.
+> Review of Marine Science 13 (1): 313–42. [https://doi.org/10.1146/annurev-marine-032720-095144](https://doi.org/10.1146/annurev-marine-032720-095144).
 >
 > Rochman, Chelsea M., Cole Brookson, Jacqueline Bikker, Natasha Djuric, Arielle Earn,
 > Kennedy Bucci, Samantha Athey, et al. 2019. “Rethinking Microplastics as a Diverse
