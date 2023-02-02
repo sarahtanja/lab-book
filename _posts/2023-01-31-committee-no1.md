@@ -14,9 +14,11 @@ toc_sticky: true   # enables sticky toc
 ## *Monday Feb 6th 2023*
 
 # Agenda
+​		Introduction - 5 mins
+
 1. Discuss Committee Agreement Outline - 10 mins
 2. Research Overview- 15 mins
-3. Thesis Direction Options - 15 mins
+3. Thesis Direction Options - 10 mins
 4. Feedback - 20 mins
 
 ------
@@ -62,20 +64,20 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 
 ### Our research goals are:
 
-Exploring the effects of the combined stressors of ocean plastic pollution and ocean heat waves on a coral microbiome and transcriptome
-{: .notice--primary}
+1. Exploring the effects of the combined stressors of ocean plastic pollution and ocean heat waves on a coral microbiome and transcriptome
+   {: .notice--primary}
 
-Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrine disrupting chemicals (phthalates) associated with ocean plastic pollution on coral reproduction, physiology, gene expression, and microbial community composition
-{: .notice--primary}
+2. Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrine disrupting chemicals (phthalates) associated with ocean plastic pollution on coral reproduction, gene expression, and microbial community composition
+   {: .notice--primary}
 
 ### Our shared vision of success looks like:
 
-- [ ] one published manuscript 
-- [ ] one published note
+- [ ] two published manuscripts (one for each chapter)
+- [ ] one published note (the PAE cleavage pilot study)
 - [ ] two complete thesis chapters
 - [ ] graduation by SPRING '24
 - [ ] reproducible, open-science 
-- [ ] choosing safe lab practices & procedures that promote human & environmental health
+- [ ] prioritize researcher safety & environmental health
 
 ### Sarah's progress toward a M.S. will look like:
 
@@ -92,12 +94,9 @@ Exploring  non-monotonic (non-linear) responses and low-dose effects of endocrin
 | Submit Master's Thesis                                       | [SP24] 31MAY24 |                |
 | Commencement                                                 | 08JUN24        |                |
 
-------
 
-[Degree Audit Link](https://www.washington.edu/students/reg/dars/)
 
 <div class="notice--success" markdown="1">
-
 **Completed Coursework**
 
 | Qtr    | Course                                      | Credits | Grade |
@@ -191,7 +190,7 @@ Though plastics are non-biodegradable, persisting in the environment for centuri
 
 I propose to conduct a series of studies that expose coral gametes and coral colonies to the multiple stressors of phthalate pollution and ocean warming, and subsequently measure the physiological responses, holobiont community structure, and gene expression between treatments. 
 
-This proposed research aligns with the mission of the School of Aquatic and Fisheries Sciences at the University of Washington, which is to conduct multidisciplinary research and education in order to understand, conserve, and manage marine ecosystems.
+This proposed research aligns with the mission of the School of Aquatic and Fisheries Sciences at the University of Washington, which is to conduct multidisciplinary research and education in order to understand, conserve, and manage marine ecosystems. 
 
 
 
@@ -254,6 +253,10 @@ Do we see non-monotonic (non-linear) responses and low-dose effects of endocrine
 
 What are the effects of the combined stressors of ocean plastic pollution and ocean heat waves on a coral microbiome and transcriptome?
 {: .notice--primary}
+
+Global & local stressors
+
+how does heat impact hormone function 
 
 ### 'Pilot' Experiments 
 
@@ -334,6 +337,8 @@ n=10
 
 ##### Microbiome
 
+- 16S rRNA
+
 - | Sequencer      | Read Length | [Mr. DNA Pricing](https://www.mrdnalab.com/16s-ribosomal-sequencing.html) |
   | -------------- | ----------- | ------------------------------------------------------------ |
   |                |             | 20,000 sequence diversity assays starting at:                |
@@ -342,8 +347,6 @@ n=10
   | Illumina MiSeq | 2x300 PE    | $70/assay (50-100 assays)                                    |
   |                |             | $75/assay (20-50 assays)                                     |
   |                |             | $80/assay (1-20 assays)                                      |
-
-- 16S rRNA
 
 - QIIME pipeline
 
