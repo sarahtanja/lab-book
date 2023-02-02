@@ -187,13 +187,7 @@ An estimated 8 million tons of plastic and their associated additives end up in 
 
 ![](../assets/images/micro-wx.png)*Figure from [Macleod et al. 2021](https://www.science.org/doi/epdf/10.1126/science.abg5433)* 
 
-Though plastics are non-biodegradable, persisting in the environment for centuries, UV radiation and mechanical weathering cause them to become brittle and fragment into microplastics &lt;5mm, and nanoplastics &lt;1mm. **As plastics weather mechanically, they also weather chemically by leaching additives not covalently bonded to the plastic polymer resins (Hahladakis et al. 2018).** The most common plastic additives are a group of chemicals called plasticizers, also known as phthalates or phthalate acid esters (PAE). They are commonly added to PVC to increase flexibility and durability. Phthalates are known to mimic or interfere with hormones that control developmental, reproductive, and immune response in both humans and animals (Maqbool et al. 2016). Despite the presence of phthalates in 95% of tested coral samples (Montano et al. 2020), little is known about how phthalates interfere with coral physiology and reproduction. **Previous research shows that plastic leachates experimentally added to plants, bacteria, and algae impair growth, reduce photosynthesis, and shift microbial communities in lab studies (Capolupo et al. 2020; O’Brien et al. 2022; Tetu et al. 2019).** 
-
-
-
-Marine heatwaves, plastic manufacturing, and coastal ocean plastic pollution are all predicted to increase (MacLeod et al. 2021; Oliver et al. 2021). 
-
- As discussed in Claar et al. (2020), the success of coral recovery after bleaching will depend on levels of chronic anthropogenic stressors like pollution.  Removing the pressure of plastic pollution from corals could be the break they need for a fighting chance at survival. 
+Though plastics are non-biodegradable, persisting in the environment for centuries, UV radiation and mechanical weathering cause them to become brittle and fragment into microplastics &lt;5mm, and nanoplastics &lt;1mm. **As plastics weather mechanically, they also weather chemically by leaching additives not covalently bonded to the plastic polymer resins (Hahladakis et al. 2018).** The most common plastic additives are a group of chemicals called plasticizers, also known as phthalates or phthalate acid esters (PAE). They are commonly added to PVC to increase flexibility and durability. Phthalates are known to mimic or interfere with hormones that control developmental, reproductive, and immune response in both humans and animals (Maqbool et al. 2016). Despite the presence of phthalates in 95% of tested coral samples (Montano et al. 2020), little is known about how phthalates interfere with coral physiology and reproduction. **Previous research shows that plastic leachates experimentally added to plants, bacteria, and algae impair growth, reduce photosynthesis, and shift microbial communities in lab studies (Capolupo et al. 2020; O’Brien et al. 2022; Tetu et al. 2019).** Marine heatwaves, plastic manufacturing, and coastal ocean plastic pollution are all predicted to increase (MacLeod et al. 2021; Oliver et al. 2021).  As discussed in Claar et al. (2020), the success of coral recovery after bleaching will depend on levels of chronic anthropogenic stressors like pollution.  Removing the pressure of plastic pollution from corals could be the break they need for a fighting chance at survival. 
 
 I propose to conduct a series of studies that expose coral gametes and coral colonies to the multiple stressors of phthalate pollution and ocean warming, and subsequently measure the physiological responses, holobiont community structure, and gene expression between treatments. 
 
@@ -252,11 +246,6 @@ This proposed research aligns with the mission of the School of Aquatic and Fish
 > Lisa R. Moore, and Ian T. Paulsen. 2019. “Plastic Leachates Impair Growth and Oxygen
 > Production in Prochlorococcus, the Ocean’s Most Abundant Photosynthetic Bacteria.”
 > Communications Biology 2 (May): 184. https://doi.org/10.1038/s42003-019-0410-x.
->
-> Zaneveld, Jesse R., Deron E. Burkepile, Andrew A. Shantz, Catharine E. Pritchard, Ryan
-> McMinds, Jérôme P. Payet, Rory Welsh, et al. 2016. “Overfishing and Nutrient Pollution
-> Interact with Temperature to Disrupt Coral Reefs down to Microbial Scales.” Nature
-> Communications 7 (1): 11833. https://doi.org/10.1038/ncomms11833.
 
 ### Main Questions
 
@@ -274,22 +263,15 @@ I exposed fertilized *M. capitata* coral gametes to phthalates diluted in filter
 
 I used the [EPA 506 phthalate esters mix 1](https://www.sigmaaldrich.com/US/en/product/supelco/48223?gclid=CjwKCAjw-8qVBhANEiwAfjXLrp8fD-G8yiB_NyrA3OLy3r2jdylgBmHVPUfGFnMp4CMfuVwePGi1dxoCBQIQAvD_BwE), which is a 1mL vial that includes the **6 most common phthalates added to consumer products** each at a concentration of 500$\mu$g / mL, *(500,000$\mu$g/L)* .
 
-The mix contained the following 6 phthalates:
-
-- Benzyl butyl phthalate **(BBP)detected in 92.7% of 165 water samples]Bis(2-ethylhexyl) adipate **(DEHA)**
-
-- Bis(2-ethylhexyl) phthalate **(DEHP)**
-
-  - listed on EPA's Toxics Release Inventory (TRI)
-
-  - DEHP is regulated under the Safe Drinking Water Act. The highest concentration allowed, the maximum contaminant level (MCL), is 0.006 mg/L , **(6$\mu$g/L)**
-
-- Dibutyl pthalate **(DBP)**
-  - listed on EPA's Toxics Release Inventory (TRI)
-
-- Diethyl phthalate **(DEP)**
-
-- Dimethyl phthalate **(DMP)**
+> The mix contained the following 6 phthalates:
+>
+> > 1. Benzyl butyl phthalate **(BBP)** : detected in 92.7% of 165 water samples
+> > 2. Bis(2-ethylhexyl) adipate **(DEHA)**
+> > 3. Bis(2-ethylhexyl) phthalate **(DEHP) **: listed on EPA's Toxics Release Inventory (TRI). DEHP is regulated under the Safe Drinking Water Act. The highest concentration allowed, the maximum contaminant level (MCL), is 0.006 mg/L , **(6$\mu$g/L)**
+> > 4. Dibutyl pthalate **(DBP)**: listed on EPA's Toxics Release Inventory (TRI)
+> > 5. Diethyl phthalate **(DEP)**
+> > 6. Dimethyl phthalate **(DMP)**
+>
 
 Concentrations of phthalates in environmental sea water samples reported in the literature:
 
@@ -338,9 +320,106 @@ Inital results from an n=3 show the hypothesized ‘non-monotonic’ response pa
 
 ![pae-temp-graphical-methods](../assets/images/graphical-methods.png)
 
-## 3. Thesis Direction Options
+In Summary… 
+
+n=10 
+
+130 samples (split into two cryovials)
+
+3 levels of ‘controls’ : environmental, acclimated, experimental
+
+10 treatments : 5 PAE + 2 temps
+
+### Planned Analysis Breakdown *need guidance 
+
+##### Microbiome
+
+- | Sequencer      | Read Length | [Mr. DNA Pricing](https://www.mrdnalab.com/16s-ribosomal-sequencing.html) |
+  | -------------- | ----------- | ------------------------------------------------------------ |
+  |                |             | 20,000 sequence diversity assays starting at:                |
+  |                |             | $60 /assay (>150 assays)                                     |
+  |                |             | $65/assay (100-150 assays)                                   |
+  | Illumina MiSeq | 2x300 PE    | $70/assay (50-100 assays)                                    |
+  |                |             | $75/assay (20-50 assays)                                     |
+  |                |             | $80/assay (1-20 assays)                                      |
+
+- 16S rRNA
+
+- QIIME pipeline
+
+![](../assets/images/pcoa-zaneveld.webp)*From [Zaneveld et al. 2016](https://www.nature.com/articles/ncomms11833#Fig2)*
+
+> Zaneveld, Jesse R., Deron E. Burkepile, Andrew A. Shantz, Catharine E. Pritchard, Ryan
+> McMinds, Jérôme P. Payet, Rory Welsh, et al. 2016. “Overfishing and Nutrient Pollution
+> Interact with Temperature to Disrupt Coral Reefs down to Microbial Scales.” Nature
+> Communications 7 (1): 11833. https://doi.org/10.1038/ncomms11833.
+
+##### Transcriptome
+
+- RNAseq
+
+- | Sequencer | Read Length | [Mr. DNA Pricing](https://www.mrdnalab.com/transcriptome-sequencing-service.html) |
+  | --------- | ----------- | ------------------------------------------------------------ |
+  | Illumina  | 2x150bp     | 10-20 million paired sequences per sample = $600 (data only) |
+  | Illumina  | 2x300bp     | 1-2 million sequences = $700 (data only)                     |
+  | Illumina  | 2x250bp     | 10 million sequences = $1000 (data only)                     |
+  | Illumina  | 2x250bp     | 4 million sequences = $700 (data only)                       |
+
+![](../assets/images/prochl-rna.png)*From [Tetu et. al 2019](https://doi.org/10.1038/s42003-019-0410-x)*
+
+> Tetu, Sasha G., Indrani Sarker, Verena Schrameyer, Russell Pickford, Liam D. H. Elbourne,
+> Lisa R. Moore, and Ian T. Paulsen. 2019. “Plastic Leachates Impair Growth and Oxygen
+> Production in Prochlorococcus, the Ocean’s Most Abundant Photosynthetic Bacteria.”
+> Communications Biology 2 (May): 184. https://doi.org/10.1038/s42003-019-0410-x.
 
 
+
+## 3. Thesis Direction Options *need guidance
+
+### Chapter Breakdown
+
+#### Option #1 (Sarah's preference) : Break chapters in conceptual / topical categories
+
+##### Chapter 1 - Low Dose Effects
+
+- Phthalates reduce embryogenesis (n=3) 
+
+  - submit as a note to [Invertebrate Reproduction & Development](https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=tinv20) (IF 1.167)
+
+  - author list (Tanja, SS and Padilla-Gamiño, JL)
+
+
+  > **BUT** would I have to do another experiment on low dose effects to fill out this chapter, maybe with Aiptasia, Sea Urchin, or Kelp Gametophytes in IBIS mentoring project? And/Or, can I talk about whether I see low dose effects in the microbiome and transcriptome analysis from the acute phthalate and thermal stress exposure?
+
+##### Chapter 2 - Multiple Stressors
+
+- Acute phthalate and thermal stress exposure (n=10)
+
+  - submit as a manuscript to [Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution) (IF 9.988)
+  - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
+
+  ------
+
+#### Option #2 : Break chapters in types of analysis categories
+
+##### Chapter 1 - Microbiome
+
+- Acute phthalate and thermal stress exposure (n=10) on microbiome
+
+  - submit as a manuscript to [Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution) (IF 9.988)
+
+  - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
+
+##### Chapter 2 - Transcriptome
+
+  - Acute phthalate and thermal stress exposure (n=10) on transcriptome
+
+    - submit as a manuscript to [Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution) (IF 9.988)
+
+    - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
+
+
+    > **BUT** how would the note on gametogenesis fit into this breakdown?
 
 
 
