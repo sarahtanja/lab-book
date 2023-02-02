@@ -73,10 +73,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-    
-
-
-    
+       
 footer:
   links:
     - label: "GitHub"
