@@ -13,13 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ST
+title: "ST"
+subtitle: "open lab notebook"
+name: "Sarah S Tanja"
 email: stanja@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
   An open lab notebook where I can save and share protocols, posts, and data from my Masters thesis research projects
 github_username: sarahtanja
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "default" 
 search: true
+
+lunr:
+	search_within_pages: true
 
 # Build settings
 markdown: kramdown
@@ -55,9 +60,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sarah S Tanja"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Grad student researcher exploring genomics and physiology of corals and kelps in relationship to plastic pollution and heat stress"
+  name: "Sarah S Tanja"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Grad student researcher exploring genomics and physiology of corals and kelps in relationship to plastic pollution and heat stress"
+  location: "Seattle, WA"
   links:
     - label: "Padilla-Gamiño Lab"
       icon: "fas fa-fw fa-link"
@@ -84,9 +90,10 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
