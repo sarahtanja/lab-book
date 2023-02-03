@@ -359,6 +359,8 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
 
 ### Timeline
 
+Maybe I'll just make my timeline a separate post and link it [here](https://sarahtanja.github.io/lab-book/troubleshooting/timeline/)? *ongoing troubleshooting here*
+
 ### Next Steps
 
 - [ ] 
