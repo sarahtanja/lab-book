@@ -22,7 +22,7 @@ toc_sticky: true   # enables sticky toc
 4. Feedback - 20 mins
 
 ------
-## 1. Committee Agreement Outline
+## 1. Committee Agreements *first draft*
 
 Supervisory Committee Chair - Dr. Jacqueline L Padilla-Gamiño, jpgamino@uw.edu 
 
@@ -34,7 +34,7 @@ Graduate Student, (Master's Thesis) - Sarah S Tanja, stanja@uw.edu
 
 ------
 
-***Note:**  These agreements outline our work together on this research project and our mentor/mentee expectations.* 
+***Note:**  These agreements will help facilitate our mentor/mentee expectations in a living document that will be collaboratively updated throughout Sarah's Master's work * 
 {: .notice--info}
 
 From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document/d/1KITnRsUObcn0QNrKD8WAiq3dozwWW2Bs_fJYRq5u_cQ/edit)
@@ -146,8 +146,6 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 
 </div>
 
-***Note:** The committee agreements are a living document that will be collaboratively updated throughout Sarah's Master's work*
-{: .notice--info}
 
 ## 2. Research Overview
 
@@ -252,7 +250,7 @@ This proposed research aligns with the mission of the School of Aquatic and Fish
 
 I exposed *M. capitata* egg-sperm bundles to increasing concentrations of phthalates to assess toxic effects on the development of coral embryos. 
 
-![](../assets/images/bundle-vial.png)
+![bundle-bundle-cross]({{ site.url }}{{ site.baseurl }}/assets/images/bundle-vial.png)
 
 I used the [EPA 506 phthalate esters mix 1](https://www.sigmaaldrich.com/US/en/product/supelco/48223?gclid=CjwKCAjw-8qVBhANEiwAfjXLrp8fD-G8yiB_NyrA3OLy3r2jdylgBmHVPUfGFnMp4CMfuVwePGi1dxoCBQIQAvD_BwE), which is a 1mL vial that includes the **6 most common phthalates added to consumer products** each at a concentration of 500$\mu$g / mL, *(500,000$\mu$g/L)* .
 
@@ -335,7 +333,6 @@ Inital results from an n=3 show the hypothesized ‘non-monotonic’ response pa
 ## 4. Feedback
 
 Is the PAE + Temp multiple stressor study rigorous enough to be turned into two manuscripts? 
-
 
 
 
