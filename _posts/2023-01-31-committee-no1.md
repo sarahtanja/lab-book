@@ -155,11 +155,7 @@ From the [2022-23 SAFS graduate student guide:](https://docs.google.com/document
 
 Broadly, my interest in research is motivated by a desire for a healthy world. This is embodied by the '[one health](https://www.cdc.gov/onehealth/index.html)' approach, which recognizes the connections between the health of people, animals, and the environment.
 
-![one-health-venn](../assets/images/one-health.jpg) *infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
-
-{% raw %}
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/one-health.jpg">
-{%endraw %}
+![one-health]({{ site.url }}{{ site.baseurl }}/assets/images/one-health.jpg)*infographic sourced from [Morrison et al. 2022](https://www.frontiersin.org/articles/10.3389/fmars.2022.980705/full)*
 
 ***Note:**  More about Sarah's background, research interests & motivations can be found [here](https://sarahtanja.github.io/lab-book/about/).*
 {: .notice--info}
@@ -302,16 +298,14 @@ After dropping bundle-bundle crosses in each prepped 20mL vial treatment, I allo
 
 At 4 hours post fertilization, I photographed all the eggs, zygotes, or embryos in each vial using a dissecting scope to determine what proportion of the bundle-bundle cross successfully made it to initial cleavage.
 
-![](../assets/images/cleave-eggs.png)
+![eggs-initial-cleavage]({{ site.url }}{{ site.baseurl }}/assets/images/cleave-eggs.png)
 
 Inital results from an n=3 show the hypothesized ‘non-monotonic’ response pattern
 
-![](../assets/images/a-little.png)
+![graph-results]({{ site.url }}{{ site.baseurl }}/assets/images/a-little.png)
 
 ***Note:** I presented this pilot study in a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium*
 {: .notice--info}
-
-
 
 #### *M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
 
