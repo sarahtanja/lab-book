@@ -302,6 +302,14 @@ Inital results from an n=3 show the hypothesized ‘non-monotonic’ response pa
 
 ![graph-results]({{ site.url }}{{ site.baseurl }}/assets/images/a-little.png)*Graph showing initial results from PAE-DEVO pilot study. Of interest is the non-monotonic response (very low PAE concentrations significantly reduced proportion of eggs making it to initial cleavage, and were not significantly different compared to very high concentrations of PAE)*
 
+**In Summary:** the PAE-DEVO experiment resulted in a total of 15 samples, with an n=3, and showed significant differences between the control and all treatment groups. This pilot study may be a candidate for publication as a note in a low-impact factor journal like 
+
+{: .notice--success} 
+
+**Limitations:** Sample size is low and study replication is difficult because it relies on access to intact *M. capitata* egg-sperm bundles, and the use of [EPA 506 phthalate esters mix 1](https://www.sigmaaldrich.com/US/en/product/supelco/48223?gclid=CjwKCAjw-8qVBhANEiwAfjXLrp8fD-G8yiB_NyrA3OLy3r2jdylgBmHVPUfGFnMp4CMfuVwePGi1dxoCBQIQAvD_BwE), which may pose harm to researcher health. If I were to repeat this experiment I would want to make my own leachate out of a common plastic consumer product, similar to the methods used by Tetu et al. 2019. Though this would be safer, it would not provide insight into the actual concentration of PAEs in the treatment. 
+
+{: .notice--warning}
+
 ***Note:** I presented this pilot study in a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium*
 {: .notice--info}
 
@@ -309,9 +317,11 @@ Inital results from an n=3 show the hypothesized ‘non-monotonic’ response pa
 
 ![pae-temp-graphical-methods]({{ site.url }}{{ site.baseurl }}/assets/images/graphical-methods.png)*graphical methods, JPG suggested simplifying diagram*
 
-In summary, the PAE-TEMP experiment resulted in a total of 130 samples, with an n=10, that were flash-frozen in liquid nitrogen and can be used for DNA/RNA studies. 
+**In Summary:** the PAE-TEMP experiment resulted in a total of 130 samples, with an n=10, that were flash-frozen in liquid nitrogen and can be used for DNA/RNA studies. 
+{: .notice--success}
 
-**Limitations:** In order to ensure the phthalate concentration was controlled in each treatment, the 20mL scinitllation vials were a closed, 'mesocosm', and the corals did not receive water changes during the short 48hr exposure. Because of this, I expect we will see degradation between the environmental and experimental control samples. 
+**Limitations:** In order to ensure the phthalate concentration was controlled in each treatment, the 20mL scintillation vials were a closed, 'mesocosm', and the corals did not receive water changes during the short 48hr exposure. Because of this, I expect we will see degradation between the environmental and experimental control samples. This study can't account for the fact that corals in Kaneohe Bay may already be exposed to chronic low-levels of PAE pollution, so we can't say our control baseline is 'zero PAE exposure'. Replication may be difficult because it relies on the use of [EPA 506 phthalate esters mix 1](https://www.sigmaaldrich.com/US/en/product/supelco/48223?gclid=CjwKCAjw-8qVBhANEiwAfjXLrp8fD-G8yiB_NyrA3OLy3r2jdylgBmHVPUfGFnMp4CMfuVwePGi1dxoCBQIQAvD_BwE), which may pose harm to researcher health. 
+{: .notice--warning}
 
 ## 3. Thesis Direction
 
@@ -326,8 +336,10 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
   - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
 
 - 16S rRNA amplicon sequencing
-  - sequencing approx. $
-
+  - UW Northwest Genomics Center \$#/sample
+  - Azenta 
+  - Mr. DNA Lab
+  
 - QIIME pipeline
 
 
@@ -339,12 +351,13 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
     - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
 
 - RNAseq 
-  - sequencing approx. \$200/sample [RobertsLab Get Seq Quote - coral samples issue](https://github.com/RobertsLab/resources/issues/1543)
-
+  - UW Northwest Genomics Center \$200/sample [RobertsLab Get Seq Quote - coral samples issue](https://github.com/RobertsLab/resources/issues/1543)
+  - [Azenta 50% off promotion](https://web.azenta.com/promotions) \$140/sample (Azenta was formerly GENEWIZ)
+  - Mr. DNA Lab 
+  
 - 
 
 ### Timeline
-
 
 ### Next Steps
 
