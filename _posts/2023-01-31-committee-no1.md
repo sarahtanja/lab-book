@@ -14,11 +14,11 @@ toc_sticky: true   # enables sticky toc
 ## *Monday Feb 6th 2023*
 
 # Agenda
-​		Introduction - 5 mins
 
-1. Discuss Committee Agreement Outline - 10 mins
-2. Research Overview- 15 mins
-3. Thesis Direction Options - 10 mins
+   Introduction - 5 mins
+1. Discuss Committee Agreements  - 10 mins
+2. Research Overview - 15 mins
+3. Thesis Direction - 10 mins
 4. Feedback - 20 mins
 
 ------
@@ -305,9 +305,10 @@ Inital results from an n=3 show the hypothesized ‘non-monotonic’ response pa
 
 ![pae-temp-graphical-methods]({{ site.url }}{{ site.baseurl }}/assets/images/graphical-methods.png)
 
-### Chapter Breakdown
+## 3. Thesis Direction
 
 ##### Chapter 1 - Microbiome
+
 - Acute phthalate and thermal stress exposure (n=10) on microbiome
 
   - submit as a manuscript to [Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution) (IF 9.988)
