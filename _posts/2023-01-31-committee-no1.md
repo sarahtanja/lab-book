@@ -345,11 +345,6 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
 
 ### Timeline
 
-<div>
-<div style="height:240px;width:320px;overflow:scroll;">
-![pae-temp-graphical-methods]({{ site.url }}{{ site.baseurl }}/assets/images/graphical-methods.png)
-</div>
-
 
 ### Next Steps
 
