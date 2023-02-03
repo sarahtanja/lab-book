@@ -242,29 +242,35 @@ This proposed research aligns with the mission of the School of Aquatic and Fish
 
 2. **What are the single and combined effects of temperature and PAE on *M. capitata* coral physiological response (transcriptome)?** 
 
-3. **What are the single and combined effects of temperature and PAE on *M. capitata* coral microbiome (transcriptome)?**
+3. **What are the single and combined effects of temperature and PAE on the *M. capitata* coral microbiome?**
 
 ### 'Pilot' Experiments
 
-#### PAE + development | Phthalates stunt development in *M. capitata* coral embryos
+#### PAE-DEVO | Phthalates stunt development in *M. capitata* coral embryos
 
 I exposed *M. capitata* egg-sperm bundles to increasing concentrations of phthalates to assess toxic effects on the development of coral embryos. 
 
-![bundle-bundle-cross]({{ site.url }}{{ site.baseurl }}/assets/images/bundle-vial.png)
+![bundle-bundle-cross]({{ site.url }}{{ site.baseurl }}/assets/images/bundle-vial.png)*add caption*
 
 I used the [EPA 506 phthalate esters mix 1](https://www.sigmaaldrich.com/US/en/product/supelco/48223?gclid=CjwKCAjw-8qVBhANEiwAfjXLrp8fD-G8yiB_NyrA3OLy3r2jdylgBmHVPUfGFnMp4CMfuVwePGi1dxoCBQIQAvD_BwE), which is a 1mL vial that includes the **6 most common phthalates added to consumer products** each at a concentration of 500$\mu$g / mL, *(500,000$\mu$g/L)* .
 
 > The mix contained the following 6 phthalates:
 >
-> > 1. Benzyl butyl phthalate **(BBP)** : detected in 92.7% of 165 water samples
+> > 1. Benzyl butyl phthalate **(BBP)** 
+> >    - detected in 92.7% of 165 water samples
 > > 2. Bis(2-ethylhexyl) adipate **(DEHA)**
-> > 3. Bis(2-ethylhexyl) phthalate **(DEHP) **: listed on EPA's Toxics Release Inventory (TRI). DEHP is regulated under the Safe Drinking Water Act. The highest concentration allowed, the maximum contaminant level (MCL), is 0.006 mg/L , **(6$\mu$g/L)**
-> > 4. Dibutyl pthalate **(DBP)**: listed on EPA's Toxics Release Inventory (TRI)
+> > 3. Bis(2-ethylhexyl) phthalate **(DEHP) **
+> >    - listed on EPA's Toxics Release Inventory (TRI)
+> >    - regulated under the Safe Drinking Water Act. The highest concentration allowed, the maximum contaminant level (MCL), is 0.006 mg/L , **(6$\mu$g/L)** in 'safe' drinking water
+> > 4. Dibutyl pthalate **(DBP)**
+> >    - listed on EPA's Toxics Release Inventory (TRI)
 > > 5. Diethyl phthalate **(DEP)**
 > > 6. Dimethyl phthalate **(DMP)**
 >
 
-Concentrations of phthalates in environmental sea water samples reported in the literature:
+
+
+###### Concentrations of phthalates in environmental sea water samples reported in the literature:
 
 | Study Area                  | BBP  | DEHA                 | DEHP                | DBP               | DEP                 | DMP                     | $\sum$PAE         | Reference                |
 | --------------------------- | ---- | -------------------- | ------------------- | ----------------- | ------------------- | ----------------------- | ----------------- | ------------------------ |
@@ -292,20 +298,22 @@ After dropping bundle-bundle crosses in each prepped 20mL vial treatment, I allo
 
 At 4 hours post fertilization, I photographed all the eggs, zygotes, or embryos in each vial using a dissecting scope to determine what proportion of the bundle-bundle cross successfully made it to initial cleavage.
 
-![eggs-initial-cleavage]({{ site.url }}{{ site.baseurl }}/assets/images/cleave-eggs.png)
+![eggs-initial-cleavage]({{ site.url }}{{ site.baseurl }}/assets/images/cleave-eggs.png)*M. capitata eggs at 4hpf (hours post fertilization), images taken using an Amscope camera attached to a dissecting scope *
 
 Inital results from an n=3 show the hypothesized ‘non-monotonic’ response pattern
 
-![graph-results]({{ site.url }}{{ site.baseurl }}/assets/images/a-little.png)
+![graph-results]({{ site.url }}{{ site.baseurl }}/assets/images/a-little.png)*Graph showing initial results from PAE-DEVO pilot study. Of interest is the non-monotonic response (very low PAE concentrations significantly reduced proportion of eggs making it to initial cleavage, and were not significantly different compared to very high concentrations of PAE)*
 
 ***Note:** I presented this pilot study in a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium*
 {: .notice--info}
 
-#### *M. capitata* Acute Phthalate & Thermal Stress Exposure (Multiple Stressor, Bioinformatics)
+#### PAE-TEMP | *M. capitata* Acute Phthalate & Thermal Stress Exposure
 
-![pae-temp-graphical-methods]({{ site.url }}{{ site.baseurl }}/assets/images/graphical-methods.png)
+![pae-temp-graphical-methods]({{ site.url }}{{ site.baseurl }}/assets/images/graphical-methods.png)*graphical methods, JPG suggested simplifying diagram*
 
 ## 3. Thesis Direction
+
+Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress Exposure (PAE + TEMP) provides the most samples and potential to move toward publishable manuscripts. It's therefore my plan to use the samples from the acute exposure experiment to answer ask 
 
 ##### Chapter 1 - Microbiome
 
@@ -327,13 +335,20 @@ Inital results from an n=3 show the hypothesized ‘non-monotonic’ response pa
 
     - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
 
-- RNAseq
+- RNAseq 
+  - (UW regular RNAseq \$200/sample) [RobertsLab Get Seq Quote - coral samples issue](https://github.com/RobertsLab/resources/issues/1543)
+
+- 
 
 
 
 ## 4. Feedback
 
 Is the PAE + Temp multiple stressor study rigorous enough to be turned into two manuscripts? 
+
+
+
+Which sequencing strategy would be best suited to meet the goals 
 
 
 

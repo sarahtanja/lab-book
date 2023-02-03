@@ -14,11 +14,11 @@ The preferred way of using images is placing them in the `/assets/images/` direc
 In my `config.yml`file I added the lines:
 
 ```yml
-url		 : "sarahtanja.io"
+url		 : "sarahtanja.github.io"
 baseurl	 : "/lab-book"
 ```
 
-Standard image with no width modifier classes applied.
+
 
 **HTML:**
 
@@ -27,17 +27,29 @@ Standard image with no width modifier classes applied.
 ```
 {% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="">{% endraw %}
 
-**or Kramdown:**
+... nothing 
+
+**Kramdown:**
 
 ```markdown
 {% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg){% endraw %}
 ```
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.png){% endraw %}
+{% raw %}
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.png)
+
+{% endraw %}
+
+... 
+
+**Kramdown without '{% raw %} {% endraw %} wrap':**
+
+```kramdown
+![img-png]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.png)
+```
 
 We have a winner!
 {: .notice--success}
-
-`![img-png]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.png)`
 
 ![img-png]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.png)
 
@@ -51,17 +63,23 @@ Image that fills page content container by adding the `.full` class with:
 {% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="" class="full">{% endraw %}
 ```
 
-**or Kramdown:**
-
+**Kramdown with %raw%:**
 ```markdown
 {% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
 {: .full}{% endraw %}
 ```
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
+{: .full}{% endraw %}
 
+{% raw %} {% endraw %} isn't showing in the code fence?
+
+**Kramdown without %raw%:**
+```
+![img-jpg]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg)
+{: .full}
+```
 We have another winner!
 {: .notice--success}
-`![img-jpg]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg)
-{: .full}`
 ![img-jpg]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg)
 {: .full}
 
@@ -97,3 +115,4 @@ relative path - this shows in Typora, but nowhere else
   <figcaption>octocat</figcaption>
 </figure>
 
+This doesn't show locally, on GitHub preview, or on Jekyll site
