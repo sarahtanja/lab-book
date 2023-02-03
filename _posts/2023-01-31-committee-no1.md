@@ -311,9 +311,13 @@ Inital results from an n=3 show the hypothesized ‘non-monotonic’ response pa
 
 ![pae-temp-graphical-methods]({{ site.url }}{{ site.baseurl }}/assets/images/graphical-methods.png)*graphical methods, JPG suggested simplifying diagram*
 
+In summary, the PAE-TEMP experiment resulted in a total of 130 samples, with an n=10, that were flash-frozen in liquid nitrogen and can be used for DNA/RNA studies. 
+
+**Limitations:** In order to ensure the phthalate concentration was controlled in each treatment, the 20mL scinitllation vials were a closed, 'mesocosm', and the corals did not receive water changes during the short 48hr exposure. Because of this, I expect we will see degradation between the environmental and experimental control samples. 
+
 ## 3. Thesis Direction
 
-Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress Exposure (PAE + TEMP) provides the most samples and potential to move toward publishable manuscripts. It's therefore my plan to use the samples from the acute exposure experiment to answer ask 
+Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress Exposure (PAE-TEMP) provides the most samples and potential to move toward publishable manuscripts. 
 
 ##### Chapter 1 - Microbiome
 
@@ -323,7 +327,8 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
 
   - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
 
-- 16S rRNA
+- 16S rRNA amplicon sequencing
+  - sequencing approx. $
 
 - QIIME pipeline
 
@@ -336,9 +341,198 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
     - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
 
 - RNAseq 
-  - (UW regular RNAseq \$200/sample) [RobertsLab Get Seq Quote - coral samples issue](https://github.com/RobertsLab/resources/issues/1543)
+  - sequencing approx. \$200/sample [RobertsLab Get Seq Quote - coral samples issue](https://github.com/RobertsLab/resources/issues/1543)
 
 - 
+
+### Timeline
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #474e5d;
+  font-family: Helvetica, sans-serif;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: white;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+/* Container around content */
+.container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+/* The circles on the timeline */
+.container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  background-color: white;
+  border: 4px solid #FF9F55;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+/* Place the container to the left */
+.left {
+  left: 0;
+}
+
+/* Place the container to the right */
+.right {
+  left: 50%;
+}
+
+/* Add arrows to the left container (pointing right) */
+.left::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid white;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent white;
+}
+
+/* Add arrows to the right container (pointing left) */
+.right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
+}
+
+/* Fix the circle for containers on the right side */
+.right::after {
+  left: -16px;
+}
+
+/* The actual content */
+.content {
+  padding: 20px 30px;
+  background-color: white;
+  position: relative;
+  border-radius: 6px;
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+  /* Place the timelime to the left */
+  .timeline::after {
+  left: 31px;
+  }
+
+  /* Full-width containers */
+  .container {
+  width: 100%;
+  padding-left: 70px;
+  padding-right: 25px;
+  }
+
+  /* Make sure that all arrows are pointing leftwards */
+  .container::before {
+  left: 60px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
+  }
+
+  /* Make sure all circles are at the same spot */
+  .left::after, .right::after {
+  left: 15px;
+  }
+
+  /* Make all right containers behave like the left ones */
+  .right {
+  left: 0%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="timeline">
+  <div class="container left">
+    <div class="content">
+      <h2>2017</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2016</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>2015</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2012</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>2011</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2007</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+
+### Next Steps
+
+- [ ] 
 
 
 
