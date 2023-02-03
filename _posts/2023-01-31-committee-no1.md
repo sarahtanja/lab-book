@@ -268,9 +268,7 @@ I used the [EPA 506 phthalate esters mix 1](https://www.sigmaaldrich.com/US/en/p
 > > 6. Dimethyl phthalate **(DMP)**
 >
 
-
-
-###### Concentrations of phthalates in environmental sea water samples reported in the literature:
+Concentrations of phthalates in environmental sea water samples reported in the literature:
 
 | Study Area                  | BBP  | DEHA                 | DEHP                | DBP               | DEP                 | DMP                     | $\sum$PAE         | Reference                |
 | --------------------------- | ---- | -------------------- | ------------------- | ----------------- | ------------------- | ----------------------- | ----------------- | ------------------------ |
@@ -319,7 +317,7 @@ In summary, the PAE-TEMP experiment resulted in a total of 130 samples, with an 
 
 Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress Exposure (PAE-TEMP) provides the most samples and potential to move toward publishable manuscripts. 
 
-##### Chapter 1 - Microbiome
+### Chapter 1 - Microbiome
 
 - Acute phthalate and thermal stress exposure (n=10) on microbiome
 
@@ -333,7 +331,7 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
 - QIIME pipeline
 
 
-##### Chapter 2 - Transcriptome
+### Chapter 2 - Transcriptome
   - Acute phthalate and thermal stress exposure (n=10) on transcriptome
 
     - submit as a manuscript to [Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution) (IF 9.988)
@@ -346,19 +344,6 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
 - 
 
 ### Timeline
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  background-color: #474e5d;
-  font-family: Helvetica, sans-serif;
-}
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
