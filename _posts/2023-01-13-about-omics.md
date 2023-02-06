@@ -45,9 +45,15 @@ Differences in [`translation`](https://youtu.be/WNZf4ip_R9s) between eukaryotes 
 
 ## RNA-seq
 
-First READ THIS ➡️  [Introduction to RNA-seq using high-performance computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon/lessons/Intro-to-RNAseq.html), was made by the Harvard Chan Bioinformatics Core [github.com/hbctraining](https://github.com/hbctraining) 👌🙌.
+WATCH THIS ➡️ [https://www.youtube.com/watch?v=tlf6wYJrwKY](https://www.youtube.com/watch?v=tlf6wYJrwKY)
 
-Simply put, RNA-seq (Ribonucleic Acid Sequencing) can quantify gene expression: “which genes are turned on and which are turned off, in addition to, *how much* specific genes are turned on/off.” 
+READ THIS ➡️  [Introduction to RNA-seq using high-performance computing](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon/lessons/Intro-to-RNAseq.html), was made by the Harvard Chan Bioinformatics Core [github.com/hbctraining](https://github.com/hbctraining) 👌🙌.
+
+For even more detail, READ THIS lesson material ➡️ [https://scienceparkstudygroup.github.io/rna-seq-lesson/](https://scienceparkstudygroup.github.io/rna-seq-lesson/)  “Bliek Tijs, Frans van der Kloet and Marc Galland” (eds): “RNA-seq lesson.” Version 2020.04. https://github.com/ScienceParkStudyGroup/rnaseq-lesson
+
+
+
+Simply put, RNA-seq (Ribonucleic Acid Sequencing) can quantify gene expression: “which genes are turned on (active) and, *how much* they are transcribed.” 
 
 > The transcriptome is defined as a collection of all the transcript readouts present in a cell. RNA-seq data can be used to explore and/or quantify the transcriptome of an organism, which can be utilized for the following types of experiments:
 >
@@ -61,7 +67,7 @@ Simply put, RNA-seq (Ribonucleic Acid Sequencing) can quantify gene expression: 
 >
 >   ![gene-structure]({{ site.url }}{{ site.baseurl }}/assets/images/gene-structure.png)
 >
- ### Illumina library preparation
+ ### 1. Illumina library preparation
 
 To do RNA-seq, we have to isolate RNA from each sample and turn it into cDNA (complementary). **The cDNA that we make is called the ‘library’**. Why is a collection of cDNA a library?
 
@@ -71,8 +77,8 @@ To do RNA-seq, we have to isolate RNA from each sample and turn it into cDNA (co
 >
 > There are 3 types of cDNA libraries available:
 >
-> - Forward (secondstrand) – reads resemble the gene sequence or the secondstrand cDNA sequence
-> - Reverse (firststrand) – reads resemble the complement of the gene sequence or firststrand cDNA sequence (TruSeq)
+> - Forward  – reads resemble the gene sequence
+> - Reverse  – reads resemble the complement of the gene sequence (TruSeq)
 > - Unstranded
 
 To make the cDNA library:
@@ -87,13 +93,24 @@ To make the cDNA library:
 
 - [ ] reverse transcribe the fragmented RNA into double-stranded cDNA
 
-- [ ] ligate sequence adaptors
+- [ ] Add (ligate) sequencing adaptors
 
-- [ ] PCR amplified
+  > **Allows sequencing machine to recognize the fragments and to sequence many samples at the same time, different samples can use different adaptors**
+
+- [ ] PCR amplify the library
+
+  > **Only the fragments with sequencing adaptors are amplified**
 
 - [ ] fragments are size selected (usually 300-500bp)
 
+- [ ] Quality Control 
 
 
- ### Illumina Sequencing
 
+ ### 2. Illumina Sequencing
+
+Fragments are laid out vertically in a grid, called a flow cell. Fluorescent probes
+
+Low quality score
+
+- Low diversity : overabundance of a single color making it hard to identify individual sequences (the colors blue together) especially problematic in the first few nucleotidesof a sequence because that is when the sequencer determines where the DNA fragments are located on the flow cell
