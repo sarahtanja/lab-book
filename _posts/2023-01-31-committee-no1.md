@@ -334,9 +334,11 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
 
 <div class="notice--warning" markdown="1">
 **Hypothesis:** Are there any microbes that may be more sensible to temp, PAE or the combination of both?
+
 - "elevated temperatures make corals more vulnerable to opportunistic bacteria"[(Zaneveld et al. 2016)](https://www.nature.com/articles/ncomms11833)
-- [(McDevitt-Irwin et al 2019)](https://link-springer-com.offcampus.lib.washington.edu/article/10.1007/s00338-019-01779-8#Sec7)
+- “Overall, coral microbiome diversity and composition varied with host species, local disturbance and heat stress, but not always as predicted.”[(McDevitt-Irwin et al 2019)](https://link-springer-com.offcampus.lib.washington.edu/article/10.1007/s00338-019-01779-8#Sec7)
 </div>
+
 
 
 **Methods:**
@@ -352,14 +354,19 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
 - QIIME pipeline
 
 ### Chapter 2 - Transcriptome
+
 <div class="notice--info" markdown="1">
+
 Acute phthalate and thermal stress exposure effects on *M. capitata* coral transcriptome
     - submit as a manuscript to [Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution) (IF 9.988)
     - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
+
 </div>
 
 <div class="notice--warning" markdown="1">
+
 **Hypothesis:** “What genes do you expect to be upregulated or downregulated by temp, PAE, and temp and PAE? and why?”
+
 </div>
 
 
