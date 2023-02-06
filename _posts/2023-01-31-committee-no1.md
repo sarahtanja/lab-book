@@ -160,9 +160,9 @@ Broadly, my interest in research is motivated by a desire for a healthy world. T
 
 ### Research Topic Background
 
-**The goal of my Master's thesis research is to understand how warming oceans and plastic pollution affect corals.**
+**The goal of my Master's thesis research is to gain insight into multiple-stressor interactions of warming oceans and plastic pollution on reef-building corals.**
 
-Under a CMIP6 climate scenario, it is forecasted that more than 75% of coral reefs will experience *yearly severe bleaching* before 2070 due to thermal stress. However, hope for resilient corals exists.  In a prolonged marine heatwave event on Kiritimati Atoll, the largest coral atoll in the world, 100% of the corals near chronic anthropogenic disturbances died, but in areas that were not already stressed, 90% of corals died. The 10% that survived after bleaching are hypothesized to have recovered due to  lower baseline levels of stress and better water quality compared to corals near chronic anthropogenic stressors like pollution and overfishing (Claar et al. 2020).
+Under a CMIP6 climate scenario, it is forecasted that more than 75% of coral reefs will experience *yearly severe bleaching* before 2070 due to thermal stress. However, hope for resilient corals exists.  In a prolonged marine heatwave event on Kiritimati Atoll, the largest coral atoll in the world, 100% of the corals near chronic anthropogenic disturbances died, but in areas that were not already stressed, 90% of corals died. The 10% that survived after bleaching are hypothesized to have recovered due to  lower baseline levels of stress and better water quality compared to corals near chronic anthropogenic stressors like pollution and overfishing (Claar et al. 2020). 
 
 **Corals are threatened by global stressors, strategies for reducing local stressors may give corals an edge on survival**
 {: .notice--info}
@@ -328,14 +328,18 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
 ### Chapter 1 - Microbiome
 
 Acute phthalate and thermal stress exposure effects on *M. capitata* coral microbiome
+  - submit as a manuscript to [Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution) (IF 9.988)
+  - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
 {: .notice--info}
 
-**Hypothesis:** “Are there any microbes that may be more sensible to temp, PAE or the combination of both?”
-{: .notice--warning}
+**Hypothesis:** Are there any microbes that may be more sensible to temp, PAE or the combination of both?
+- "elevated temperatures make corals more vulnerable to opportunistic bacteria"[(Zaneveld et al. 2016)](https://www.nature.com/articles/ncomms11833)
 
-  - submit as a manuscript to [Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution) (IF 9.988)
+- [(McDevitt-Irwin et al 2019)](https://link-springer-com.offcampus.lib.washington.edu/article/10.1007/s00338-019-01779-8#Sec7)
+  {: .notice--warning}
 
-  - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
+  - 
+
 
 **Methods:**
 
@@ -350,15 +354,17 @@ Acute phthalate and thermal stress exposure effects on *M. capitata* coral micro
 - QIIME pipeline
 
 ### Chapter 2 - Transcriptome
+<div class="notice--info" markdown="1">
 Acute phthalate and thermal stress exposure effects on *M. capitata* coral transcriptome
-{: .notice--info}
-
-**Hypothesis:** “What genes do you expect to be upregulated or downregulated by temp, PAE, and temp and PAE? and why?”
-{: .notice--warning}
-
     - submit as a manuscript to [Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution) (IF 9.988)
-    
     - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
+</div>
+
+<div class="notice--warning" markdown="1">
+**Hypothesis:** “What genes do you expect to be upregulated or downregulated by temp, PAE, and temp and PAE? and why?”
+</div>
+
+
 
 **Methods:**
 - [Quick DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-rna-miniprep-plus-kit)
