@@ -303,11 +303,9 @@ Inital results from an n=3 show the hypothesized ‘non-monotonic’ response pa
 ![graph-results]({{ site.url }}{{ site.baseurl }}/assets/images/a-little.png)*Graph showing initial results from PAE-DEVO pilot study. Of interest is the non-monotonic response (very low PAE concentrations significantly reduced proportion of eggs making it to initial cleavage, and were not significantly different compared to very high concentrations of PAE)*
 
 **In Summary:** the PAE-DEVO experiment resulted in a total of 15 samples, with an n=3, and showed significant differences between the control and all treatment groups. This pilot study may be a candidate for publication as a note in a low-impact factor journal like 
-
 {: .notice--success} 
 
 **Limitations:** Sample size is low and study replication is difficult because it relies on access to intact *M. capitata* egg-sperm bundles, and the use of [EPA 506 phthalate esters mix 1](https://www.sigmaaldrich.com/US/en/product/supelco/48223?gclid=CjwKCAjw-8qVBhANEiwAfjXLrp8fD-G8yiB_NyrA3OLy3r2jdylgBmHVPUfGFnMp4CMfuVwePGi1dxoCBQIQAvD_BwE), which may pose harm to researcher health. If I were to repeat this experiment I would want to make my own leachate out of a common plastic consumer product, similar to the methods used by Tetu et al. 2019. Though this would be safer, it would not provide insight into the actual concentration of PAEs in the treatment. 
-
 {: .notice--warning}
 
 ***Note:** I presented this pilot study in a 5-min lighting talk during the AU'22 SAFS Graduate Student Symposium*
@@ -329,7 +327,7 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
 
 ### Chapter 1 - Microbiome
 
-- Acute phthalate and thermal stress exposure (n=10) on microbiome
+- Acute phthalate and thermal stress exposure effects on *M. capitata* coral microbiome
 
   - submit as a manuscript to [Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution) (IF 9.988)
 
@@ -342,9 +340,8 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
   
 - QIIME pipeline
 
-
 ### Chapter 2 - Transcriptome
-  - Acute phthalate and thermal stress exposure (n=10) on transcriptome
+  - Acute phthalate and thermal stress exposure effects on *M. capitata* coral transcriptome
 
     - submit as a manuscript to [Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution) (IF 9.988)
 
@@ -355,15 +352,10 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
   - [Azenta 50% off promotion](https://web.azenta.com/promotions) \$140/sample (Azenta was formerly GENEWIZ)
   - Mr. DNA Lab 
   
-- 
 
 ### Timeline
 
-Maybe I'll just make my timeline a separate post and link it [here](https://sarahtanja.github.io/lab-book/troubleshooting/timeline/)? *ongoing troubleshooting here*
-
-### Next Steps
-
-- [ ] 
+![gantt-timeline]({{ site.url }}{{ site.baseurl }}/assets/images/gantt-timeline.png)
 
 
 
@@ -373,7 +365,11 @@ Is the PAE + Temp multiple stressor study rigorous enough to be turned into two 
 
 
 
-Which sequencing strategy would be best suited to meet the goals 
+Which sequencing strategy would be best suited to this project? 
+
+
+
+
 
 
 
