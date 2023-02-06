@@ -327,45 +327,74 @@ Of the two pilot experiments, the *M. capitata* Acute Phthalate & Thermal Stress
 
 ### Chapter 1 - Microbiome
 
-- Acute phthalate and thermal stress exposure effects on *M. capitata* coral microbiome
+Acute phthalate and thermal stress exposure effects on *M. capitata* coral microbiome
+{: .notice--info}
+
+**Hypothesis:** “Are there any microbes that may be more sensible to temp, PAE or the combination of both?”
+{: .notice--warning}
 
   - submit as a manuscript to [Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution) (IF 9.988)
 
   - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
 
-- 16S rRNA amplicon sequencing
-  - UW Northwest Genomics Center \$#/sample
+**Methods:**
+
+- [Quick DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-rna-miniprep-plus-kit)
+  - 50 preps \$438.90 , 10 preps \$106.70
+
+- 16S rRNA amplicon sequencing *send subsample of control vs. overdose to look for initial differences*
+  - UW Northwest Genomics Center \$__/sample 
   - Azenta 
-  - Mr. DNA Lab
-  
+  - Univ. of Texas
+  - [Mr. DNA Lab](https://www.mrdnalab.com/16s-ribosomal-sequencing.html) $90/sample for 5k sequences per assay
 - QIIME pipeline
 
 ### Chapter 2 - Transcriptome
-  - Acute phthalate and thermal stress exposure effects on *M. capitata* coral transcriptome
+Acute phthalate and thermal stress exposure effects on *M. capitata* coral transcriptome
+{: .notice--info}
+
+**Hypothesis:** “What genes do you expect to be upregulated or downregulated by temp, PAE, and temp and PAE? and why?”
+{: .notice--warning}
 
     - submit as a manuscript to [Environmental Pollution](https://www.sciencedirect.com/journal/environmental-pollution) (IF 9.988)
-
+    
     - author list (Tanja, SS; Roberts, SB; Zaneveld, JR; Padilla-Gamiño, JL)
 
-- RNAseq 
+**Methods:**
+- [Quick DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-rna-miniprep-plus-kit)
+  - 50 preps \$438.90 , 10 preps \$106.70
+
+- RNAseq: *send subsample of control vs. overdose to look for initial differences*
   - UW Northwest Genomics Center \$200/sample [RobertsLab Get Seq Quote - coral samples issue](https://github.com/RobertsLab/resources/issues/1543)
-  - [Azenta 50% off promotion](https://web.azenta.com/promotions) \$140/sample (Azenta was formerly GENEWIZ)
+  - [Azenta 50% off promotion](https://web.azenta.com/promotions) \$140/sample
+  - Univ. of Texas
   - Mr. DNA Lab 
-  
+- Linux pipeline?
+
 
 ### Timeline
 
 ![gantt-timeline]({{ site.url }}{{ site.baseurl }}/assets/images/gantt-timeline.png)
 
-
-
 ## 4. Feedback
 
-Is the PAE + Temp multiple stressor study rigorous enough to be turned into two manuscripts? 
+1. Is the PAE + Temp multiple stressor study rigorous enough to be turned into two manuscripts? 
 
+2. Which sequencing strategy would be best suited to this project? 
 
+	- Where have you sent samples for sequencing services in the past?
+	- What are reasonable sequencing costs per sample?
 
-Which sequencing strategy would be best suited to this project? 
+3. I need support/resources to learn about:
+	- requesting quotes for sequencing (sequencing platform, # of sequences, # of bp, read-length/assay-length)
+	
+	- [library preparation](https://www.idtdna.com/pages/technology/next-generation-sequencing/library-preparation#:~:text=Library%20preparation%20is%20the%20first,and%20tagmentation%2Dbased%20library%20prep.)
+	
+	  > “sequencing libraries are pools of DNA fragments containing adapter sequences compatible with a specific sequencing platform and indexing barcodes for individual sample identification. The main library preparation methods are [ligation-based library preparation](https://www.idtdna.com/pages/technology/next-generation-sequencing/library-preparation/ligation-based-library-prep) tagmentation-based library preparation, and [amplicon library preparation](https://www.idtdna.com/pages/technology/next-generation-sequencing/dna-sequencing/targeted-sequencing/amplicon-sequencing). The specific protocol you choose depends on your sequencing platform and downstream analysis.”
+	
+	- large file storage (Hyak super computer at SAFS?) *got stuck at this step when working with microbiome data last Winter*
+	
+	- [RNAseq pipeline](https://www.azenta.com/blog/quick-start-guide-rna-seq-data-analysis)
 
 
 
