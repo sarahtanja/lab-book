@@ -1,0 +1,50 @@
+---
+title: "Feb '23 Goals'"
+categories:
+  - goals
+tags:
+  - goals
+toc: true
+toc_label: "Table of Contents" # default: Content
+toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
+toc_sticky: true   # enables sticky toc
+---
+
+# February '23 Goals
+
+### DNA/RNA Extraction Protocols
+
+- [x] Buy Quick-DNA/RNA Miniprep Plus Kit , 10 preps ($106.70, purchased 08FEB23 on Hall Grant Budget)
+- [ ] Protocol dry-run walk-thru with IBIS mentee (15FEB23)
+- [ ] Initial Trial 
+
+### Apply for PCC Climate Solutions Project Funding
+
+- $5k max for solutions-based projects, capstone programs (IBIS), outreach efforts with community organizations and partners. Can be used for Financial Support, Training, Publication & Travel
+
+
+
+## Advisor Recommendations
+
+
+
+
+
+## Looking 6mo. Ahead...
+
+March '23
+
+April '23
+
+May '23
+
+June '23
+
+July '23
+
+Aug '23
+
+
+
+
+
