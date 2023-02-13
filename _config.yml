@@ -33,7 +33,7 @@ lunr:
 author:
   name   : "Sarah S.D. Tanja"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Grad student researcher exploring genomics and physiology of corals and kelps in relation to plastic pollution and heat stress"
+  bio    : "Grad student researcher exploring the microbiome, differential gene expression, and physiology of corals in relation to plastic pollution and heat stress"
   links:
     - label: "Padilla-Gamiño Lab"
       icon: "fas fa-fw fa-link"
