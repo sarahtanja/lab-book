@@ -30,18 +30,20 @@ Differences in [`translation`](https://youtu.be/WNZf4ip_R9s) between eukaryotes 
 
 ## definitions
 
-- *bp* - base pairs
-- *genome* - an organism's complete set of DNA sequences across all chromosomes, including all genes, and ultimately the three-dimensional form that it takes 
-- *epigenomics* - modifications to DNA that affect gene expression without altering the DNA sequence; primarily DNA methylation and histone modification
-- *transcriptome* - an organism's complete set of RNA, a collection of all the transcript readouts present in a cell.
-- *microsatellites* - 
-- *microbiome*  - the genomes of bacteria, archaea, and fungi that collectively reside in an environment
-  - can be investigated using: Shotgun Metagenome Sequencing  and/or 16s rRNA Sequencing
-- microbiota - the living community of archaea, bacteria, and fungi in an environment
-
-
+| jargon        | description                                                  |
+| ------------- | ------------------------------------------------------------ |
+| bp            | Base-pairs (G-C) (A-T)                                       |
+| epigenomics   | Modifications  to DNA that affect gene expression without altering the DNA sequence;  primarily DNA methylation and histone modification |
+| genome        | An  organism's complete set of DNA sequences across all chromosomes, including  all genes, and ultimately the three-dimensional form that it takes |
+| microbiome    | The genomes of bacteria,  archaea, and fungi that collectively reside in an environment. The microbiome  can be investigated using Shotgun Metagenome Sequencing and 16S rRNA  Sequencing. |
+| microbiota    | The  living community of archaea, bacteria, and fungi in an environment |
+| transcriptome | An  organism's complete set of RNA, a collection of all the transcript readouts  present in a cell |
 
 ## 16s rRNA amplicon sequencing
+
+WHY Choose 16S over Shotgun Metagenomic Sequencing? WATCH THIS ➡️ [https://www.youtube.com/watch?v=kXYJ_Dc9qcc](https://www.youtube.com/watch?v=kXYJ_Dc9qcc)
+
+
 
 ## RNA-seq
 
