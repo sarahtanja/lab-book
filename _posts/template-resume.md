@@ -8,13 +8,13 @@
 > #### *links*
 >
 > :notebook: Open Lab Notebook: https://sarahtanja.github.io/lab-book/
-> <img src="C:\Users\Minerva\Documents\GitHub\lab-book\assets\images\githuboctocat.svg" style="zoom:9%;" /> GitHub: https://github.com/sarahtanja
-> <img src="C:\Users\Minerva\Documents\GitHub\lab-book\assets\images\coral-icon" style="zoom:8%;"/>  Padilla-Gamiño Lab: https://padilla-gaminolab.weebly.com/
+> <img src="https://avatars.githubusercontent.com/u/583231?v=4" style="zoom:5%;" /> GitHub: https://github.com/sarahtanja
+> <img src="https://cdn.iconscout.com/icon/free/png-256/coral-2524619-2112940.png" style="zoom:8%;"/>  Padilla-Gamiño Lab: https://padilla-gaminolab.weebly.com/
 > <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin - Free social media icons" style="zoom:4%;" />  LinkedIn: [https://www.linkedin.com/in/sarah-tanja-595722146/](https://www.linkedin.com/in/sarah-tanja-595722146/)
 
 
 
-#### ABOUT 
+#### ABOUT
 
 I’m a grad student seeking part-time employment in sustainable mariculture and public engagement. I have a unique and extensive technical background in field science in Southeast Alaska and marine science operations aboard NOAA research vessels from Midway Atoll to the US Arctic. Throughout my diverse professional experience I built connections to communicate effectively with scientists, mariners, engineers, and academics alike. I have a deep personal interest in sustainable food systems, climate solutions, and science writing.  I am encouraged and inspired by the stories of others, and I endeavor to foster just, equitable, inclusive, and respectful spaces wherever I work. 
 

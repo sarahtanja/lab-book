@@ -23,6 +23,8 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 - liquid-nitrogen snap-frozen coral fragments held at -80°C
 
+  
+
 ##### Resources:
 
 👀 WATCH ➡️ [Bumbling Biochemist 'Spin column purification of nucleic acids'](https://www.youtube.com/watch?v=Y_-xP60SYe0) on YouTube
@@ -34,42 +36,66 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 ##### Materials List:
 
+
+
 *PPE -*
 
-- nitrile gloves
-- lab coat
-- lab goggles 
+- [x] nitrile gloves
+- [x] lab coats
+- [ ] lab goggles 
+
+
 
 *Lab Equipment / tools -*
 
-- centrifuge
-- pipette
-- pipette tips
-- ethanol-resistant lab markers
+- [x] centrifuge
+  
+  - microfuge mini-setup
 
-- small bone cutters / nail clippers ( to snip fragments of coral )
+  - Beckman Coulter Allegria X30R
+  
+- [x] vortexer
+  - VWR mini vortexer
+
+- [x] 100mL graduated cylinder
+
+- [ ] pipettes & tips
+  - [x] P100 
+    - [ ] 
+  - [x] P200
+    - [ ] 
+  - [ ] P300
+    - [ ] 
+  - [ ] P1000
+    - [ ] 
+  
+- [ ] ethanol-resistant lab markers
+
+- [ ] snippers
+
+  - bone cutters 
+
+    *or you can use nail clippers*
 
 
 
-*To Sterilize Lab Bench -* 
+*To Sterilize Lab Bench & snippers -* 
 
-- 10% bleach solution
-- DI water
-- Isopropanol
-- RNAse free water
-- RNAse away
+- [ ] 10% bleach solution
+- [ ] DI water
+- [ ] Isopropanol
+- [ ] RNAse free water
+- [ ] RNAse away
 
 
 
-- 
+*Extraction*
 
 - Zymo Research [Quick-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-rna-miniprep-plus-kit) (50 prep D7003, or 10 prep D7003T)
 
-  ​	*Includes*
-
-  - 
-
 - 100% ethanol (50 prep D7003)
+
+- 
 
   ---
 
@@ -77,7 +103,9 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 #### Buffer Preparation
 
-- [ ] Add 96 ml 100% ethanol (104 ml 95% ethanol) to the 24 ml DNA/RNA Wash Buffer concentrate (D7003). DNA/RNA Wash Buffer (D7003T) is supplied ready-to-use and does not require the addition of ethanol. 
+- [ ] If using the 50-prep kit (D7003), add 96 ml 100% ethanol (104 ml 95% ethanol) to the 24 ml DNA/RNA Wash Buffer concentrate. 
+
+  ​		*If using the 10-prep kit, DNA/RNA Wash Buffer (D7003T) is supplied ready-to-use and does not require the addition of ethanol.*
 - [ ] Reconstitute lyophilized DNase I with DNase/RNase-Free Water and mix by gentle inversion. Use immediately or store frozen aliquots. #E1009-A (250 U), add 275 µl water #E1009-A-S (50 U), add 55 µl water 
 - [ ] Reconstitute lyophilized Proteinase K at 20 mg/ml with Proteinase K Storage Buffer and mix by vortexing. Use immediately or store frozen aliquots. #D3001-2-20 (60 mg), add 3.12 ml buffer #D3001-2-5 (5 mg), add 0.26 ml buffer 
 - [ ] To prepare a 1X solution of DNA/RNA Shield™, add an equal volume of nuclease-free water (not provided) to the DNA/RNA Shield™ (2X concentrate) (1:1) and mix well.
