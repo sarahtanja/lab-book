@@ -11,14 +11,18 @@ tags:
 bibliography: references.bib
 ---
 
-# Using visual editor is sort of like Typora
+Using R-Markdown through R-Studio may be the best way for me to integrate citations into my science writing. I want to be able to integrate screenshots, images, web-links, and academic APA-style citations in one markdown editor.
 
-how do I insert citations? @bahr2015
+[**Note:** I'm using Windows 11 OS!]{.ul} {. :notice--info}
 
-Oh shit that wasn't so bad!
+[@liboiron2021] ... not in-text citation
 
-let's see if it renders on the blog
+@bahr2015 ... in-text citation
 
-![zotero-citation-key](images/zotero-citation-key.png) ![zotero-citation-key](%7B%7Bsite.url%7D%7D%7B%7B%20site.baseurl%20%7D%7D/assets/images/zotero-citation-key.png) ![alt](%7B%7B%20site.url%20%7D%7D%7B%7B%20site.baseurl%20%7D%7D/assets/images/githuboctocat.png)
+![directory-image](%7B%7B%20site.url%20%7D%7D%7B%7B%20site.baseurl%20%7D%7D/assets/images/githuboctocat.png) `![directory-image](%7B%7B%20site.url%20%7D%7D%7B%7B%20site.baseurl%20%7D%7D/assets/images/githuboctocat.png)`
 
-hmm weird the `{{ site.url }}{{ site.baseurl }}` doesn't stay put when moving back and forth from visual markdown editor in RStudio to source editor...
+> hmm weird the `{{ site.url }}{{ site.baseurl }}` doesn't stay put when moving back and forth from visual markdown editor in RStudio to source editor... It turns into `%7B%7B%20site.url%20%7D%7D%7B%7B%20site.baseurl%20%7D%7D` ... why?
+
+![url-image](https://sarahtanja.github.io/lab-book/assets/images/githuboctocat.png) `![url-image](https://sarahtanja.github.io/lab-book/assets/images/githuboctocat.png)`
+
+# References
