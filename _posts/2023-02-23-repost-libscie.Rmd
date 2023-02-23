@@ -1,7 +1,6 @@
 ---
 title: "RMarkdown for writing reproducible scientific papers"
 author: '[Mike Frank](mailto:mcfrank@stanford.edu) & [Chris Hartgerink](mailto:chris@libscie.org)'
-date: '`r Sys.Date()`'
 output:
   tufte::tufte_html:
     toc: yes
@@ -78,7 +77,7 @@ Great, you installed both `R` and `Rstudio`! Next up, making your first RMarkdow
 Fire up Rstudio and create a new RMarkdown file. Don't worry about the settings, we'll get to that later.
 
 ```{r, echo = FALSE}
-knitr::include_graphics('figures/newfile.png')
+knitr::include_graphics('../assets/images/coral-icon.png')
 ```
 
 If you click on "Knit" (or hit `CTRL+SHIFT+K`) the RMarkdown file will run and generate all results and present you with a PDF file, HTML file, or a Word file. If RStudio requests you to install packages, click yes and see whether everything works to begin with.
@@ -256,7 +255,7 @@ We often need APA-formatted statistics. We can compute them first, and then prin
 ts <- with(mtcars,t.test(hp[cyl==4], hp[cyl==6]))
 ```
 
-> There's a statistically-significant difference in horsepower for 4- and 6-cylinder cars ($t(`r round(ts$parameter,2)`) =`r round(ts$statistic,2)`$, $p = `r round(ts$p.value,3)\`\$).
+> There's a statistically-significant difference in horsepower for 4- and 6-cylinder cars ($t(`r round(ts$parameter,2)`) =`r round(ts$statistic,2)`$, $p = `r round(ts$p.value,3)`\$).
 
 To insert these stats inline I wrote e.g. `round(ts$parameter, 2)` inside an inline code block.[^6]
 
@@ -300,13 +299,13 @@ devtools::install_github("crsh/papaja")
 
 The APA manuscript template should now be available through the RStudio menus when creating a new R Markdown file.
 
-```{r template-selection, echo = FALSE, fig.cap = "papaja's APA6 template is available through the RStudio menues."}
+```{r template-selection, eval = FALSE, fig.cap = "papaja's APA6 template is available through the RStudio menues."}
 knitr::include_graphics("figures/template_selection.png")
 ```
 
 When you click RStudio's *Knit* button `papaja`, `rmarkdown,` and `knitr` work together to create an APA conform manuscript that includes both your manuscript text and the results of any embedded R code.
 
-```{r knit-button, echo = FALSE, fig.cap = "The *Knit* button in the RStudio."}
+```{r knit-button, eval = FALSE, fig.cap = "The *Knit* button in the RStudio."}
 knitr::include_graphics("figures/knitting.png")
 ```
 
