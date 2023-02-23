@@ -28,7 +28,7 @@ bibliography: references.bib
 
 # Insert Citations
 
-[@liboiron2021`]`\[@liboiron2021] \*\*not in-text citation\*\*
+\[@liboiron2021`]`[@liboiron2021] \*\*not in-text citation\*\*
 
 @bahr2015\@bahr2015 \*\*in-text citation\*\*
 
@@ -85,8 +85,9 @@ adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante
 dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. {:
 .notice--danger}
 
-
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. {: .notice-success}
-
+**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing
+elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.
+Sed nisi. Nulla quis sem at nibh elementum imperdiet. {:
+.notice-success}
 
 # References
