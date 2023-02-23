@@ -45,7 +45,7 @@ So, I turned full-circle back to ==**R Markdown**== (the first markdown editor I
 
 Sometime in 2022 RStudio dropped v1.4 which released it's own WYSIWYG...  [Visual R Markdown](https://rstudio.github.io/visual-markdown-editing/) ! It was released just after I swapped to using Typora.. so I missed the good news until now. 
 
-Once I realized you could swap between source code and a visual markdown editor in RStudio, I set about to learn the ropes on using R Markdown to post to this blog. 
+Once I realized you could swap between source code and a visual markdown editor in RStudio, I set about to learn the ropes on using R Markdown to post to this blog. This handout '[RMarkdown for writing reproducible scientific papers'](https://libscie.github.io/rmarkdown-workshop/handout.html) was a great resource. I particularly like how the footnotes and citations show up in a separate column while scrolling. 
 
 [@liboiron2021`]`\[@liboiron2021] \*\*not in-text citation\*\*
 
