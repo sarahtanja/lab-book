@@ -1,9 +1,7 @@
 ---
 title: "Master's Thesis Committee Meeting #1"
 categories:
-  - Committee Meeting
-tags:
-  - Committee
+  - committee meetings
 toc: true
 toc_label: "Table of Contents" # default: Content
 toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
