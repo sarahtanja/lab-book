@@ -1,21 +1,31 @@
 ---
-title: "Post Template"
+title: "R Markdown Post Template"
+
 categories:
-  - foundations
-  - protocols
-  - writing
-  - goals
-  - committee meetings
+#  - foundations
+#  - protocols
+#  - writing
+#  - goals
+#  - committee meetings
   - blog-troubleshooting
+  
 tags:
   - RMarkdown
-  - Jekyll Minimal Mistakes
-  - html
+
 link-citations: true
+
 editor_options: 
   markdown: 
     wrap: 72
+    
+bibliography: references.bib
 ---
+
+# Insert Citations
+
+[@liboiron2021`]`\[@liboiron2021] \*\*not in-text citation\*\*
+
+@bahr2015\@bahr2015 \*\*in-text citation\*\*
 
 # Insert Images
 
@@ -38,7 +48,7 @@ editor_options:
 !\[coral-icon\]({{ site.url }}{{ site.baseurl
 }}/assets/images/coral-icon.png)
 
-# `HTML` Notice Blocks
+# Make `HTML` Notice Blocks
 
 A notice displays information that explains nearby content. Often used
 to call attention to a particular detail.
