@@ -39,7 +39,7 @@ writing](https://orth.uk/markdown-for-convenient-academic-writing/)'.
 BUT for a Windows user, I struggled to find a solution... and instead
 changed tactics (use a different app).
 
-**Note:** I'm using Windows 11 OS! {: .notice--info}
+???????**Note:** I'm using Windows 11 OS! {: .notice--info}
 
 I started a small quest to find a Typora-like Markdown editor with
 citation management and Pandoc file-format conversion capabilities...
@@ -53,8 +53,8 @@ by Benjamin D. Lee... which seems like it has a bit of learning curve to
 its structure and requires a monthly payment subscription for it's most
 useful features...
 
-:warning: Obsidian has a \$8/month subscription for versioning control
-{: .notice--warning}
+:warning: **Warning:** Obsidian has a \$8/month subscription for
+versioning control {: .notice--warning}
 
 I may explore Obsidian later, but for the meantime I want to get up and
 running quickly with a more accessible, open-source editor that has lots
@@ -80,7 +80,9 @@ post to this blog. This handout '[RMarkdown for writing reproducible
 scientific
 papers'](https://libscie.github.io/rmarkdown-workshop/handout.html) was
 a great resource, as well as the '[Fundamentals of R
-Markdown](https://libscie.github.io/rmarkdown-workshop/#/)' workshop.
+Markdown](https://libscie.github.io/rmarkdown-workshop/#/)' workshop,
+archived in [this GitHub
+repo.](https://github.com/libscie/rmarkdown-workshop)
 
 I particularly like how the footnotes and citations show up in a
 separate column while scrolling. It is a great visual way to include
