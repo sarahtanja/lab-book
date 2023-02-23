@@ -1,11 +1,19 @@
 ---
-title: "Post: Notice"
+title: "Post Template"
 categories:
-  - 
+  - foundations
+  - protocols
+  - writing
+  - goals
+  - committee meetings
+  - blog-troubleshooting
 tags:
-  - 
-  - 
+  - RMarkdown
+  - Jekyll Minimal Mistakes
+  - html
 ---
+
+# `HTML` Notice 
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
 
