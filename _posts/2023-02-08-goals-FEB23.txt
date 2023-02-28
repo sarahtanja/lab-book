@@ -1,9 +1,7 @@
 ---
-title: "Feb '23 Goals'"
+title: "Feb '23 Goals"
 categories:
-  - goals
-tags:
-  - goals
+  - goals 
 toc: true
 toc_label: "Table of Contents" # default: Content
 toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
@@ -12,27 +10,27 @@ toc_sticky: true   # enables sticky toc
 
 # February '23 Goals
 
+### 
+
 ### DNA/RNA Extraction Protocols
 
+- [x]  Research DNA/RNA extraction kits
+
 - [x] Buy Quick-DNA/RNA Miniprep Plus Kit , 10 preps ($106.70, purchased 08FEB23 on Hall Grant Budget)
-- [ ] Protocol dry-run walk-thru with IBIS mentee (15FEB23)
-- [ ] Initial Trial 
+- [x] Receive kits (received on 23FEB23)
+- [x] Draft [protocol](https://sarahtanja.github.io/lab-book/protocols/lab/protocol-DNARNAextraction/) 
+- [ ] Locate (… or buy or borrow) 300uL/500uL & 1000uL pipettes & tips
+- [ ] Protocol dry-run walk-thru with IBIS mentee
+- [ ] Edit/amend [protocol](https://sarahtanja.github.io/lab-book/protocols/lab/protocol-DNARNAextraction/)
 
-### Apply for PCC Climate Solutions Project Funding
+### Apply for [PCC Climate Solutions Project Funding](https://pcc.uw.edu/research/funding-opportunities/)
 
-- $5k max for solutions-based projects, capstone programs (IBIS), outreach efforts with community organizations and partners. Can be used for Financial Support, Training, Publication & Travel
+$5k max for solutions-based projects, capstone programs (IBIS), outreach efforts with community organizations and partners. Can be used for Financial Support, Training, Publication & Travel. Rolling application. Would like to apply for this to be used to help IBIS mentee, via more sequencing or publication? Need to brainstorm how to angle ‘solutions-based’ project.
 
-
-
-## Advisor Recommendations
-
-
-
-
-
-## Looking 6mo. Ahead...
+## Looking Ahead...
 
 March '23
+
 
 April '23
 
@@ -43,6 +41,8 @@ June '23
 July '23
 
 Aug '23
+
+## Advisor Recommendations
 
 
 
