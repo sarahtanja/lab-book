@@ -15,7 +15,6 @@ toc_sticky: true   # enables sticky toc
 ### DNA/RNA Extraction Protocols
 
 - [x]  Research DNA/RNA extraction kits
-
 - [x] Buy Quick-DNA/RNA Miniprep Plus Kit , 10 preps ($106.70, purchased 08FEB23 on Hall Grant Budget)
 - [x] Receive kits (received on 23FEB23)
 - [x] Draft [protocol](https://sarahtanja.github.io/lab-book/protocols/lab/protocol-DNARNAextraction/) 
