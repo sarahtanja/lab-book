@@ -25,7 +25,7 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
   
 
-##### Resources:
+##### Background:
 
 👀 WATCH ➡️ [Bumbling Biochemist 'Spin column purification of nucleic acids'](https://www.youtube.com/watch?v=Y_-xP60SYe0) on YouTube
 
@@ -33,81 +33,96 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 
 
-
 ##### Materials List:
 
+- [x] Zymo Research [Quick-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-rna-miniprep-plus-kit) (50 prep D7003, or 10 prep D7003T)
 
+  ​       *includes:*
+
+  - [x] DNA/RNA Lysis Buffer
+  - [x] DNA/RNA Prep Buffer
+  - [x] DNase/RNase-Free Water
+  - [x] DNase I2 (lyophilized)
+  - [x] DNA Digestion Buffer
+  - [x] DNA/RNA Shield (2X concentrate)
+  - [x] PK Digestion Buffer
+  - [x] Proteinase K3 (lyophilized) & Storage Buffer
+  - [x] Spin-Away Filters
+  - [x] Zymo-Spin IIICG Columns
+  - [x] Collection Tubes
+
+- [ ] [ZR BashingBead  Lysis 2mL Tubes with 0.1 & 0.5mm beads](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm)
+
+- [ ] [DNase/RNase-Free Tubes](https://www.zymoresearch.com/products/dnase-rnase-free-tubes)
 
 *PPE -*
 
 - [x] nitrile gloves
+
 - [x] lab coats
+
 - [ ] lab goggles 
 
 
-
-*Lab Equipment / tools -*
+*Lab Equipment & Resources -*
 
 - [x] centrifuge
   
-  - microfuge mini-setup
+  - microfuge mini-setup (lab 236)
 
-  - Beckman Coulter Allegria X30R
-  
-- [x] vortexer
-  - VWR mini vortexer
-
+  - Beckman Coulter Allegria X30R (lab 236)
+- [x] vortexer 
+  - VWR mini vortexer (lab 236)
+- [x] heat block (lab 236)
 - [x] 100mL graduated cylinder
+- [x] [ethanol-proof lab markers](https://www.amazon.com/dp/B09L3Q99WL/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUpaVTc1M0pRMVImZW5jcnlwdGVkSWQ9QTAxMTgzODBJOFI3QlZFQ0pKQUsmZW5jcnlwdGVkQWRJZD1BMDc2MTE0M1ExRUdBSkEwOFBBRiZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+- [ ] [bone/coral cutter](https://www.amazon.com/Tamsco-Cutter-4-5-Inch-Heavy-Stainless/dp/B00HB4GEGM/ref=sr_1_1?keywords=bone%2Bcutters&qid=1677713257&sr=8-1&th=1)
+- [x] [1.5mL microcentrifuge tube rack](https://www.southernlabware.com/80-well-micro-tube-racks-assorted-5-pacl.html?gclid=CjwKCAiAjPyfBhBMEiwAB2CCIkxZXHoOz72MNKvsWFcKscbsG8H5wIyMEw974wfKSvbU2W5a4Tk2IRoCBtEQAvD_BwE) 
+- [x] small cooler (for dry ice)
+- [x] dry-ice (Biochemistry Store in hallway adjacent to Room J-014, Health Sciences Building)
 
-- [ ] pipettes & tips
-  - [x] P100 
-    - [ ] 
-  - [x] P200
-    - [ ] 
-  - [ ] P300
-    - [ ] 
-  - [ ] P1000
-    - [ ] 
-  
-- [ ] ethanol-resistant lab markers
+  - The entrance can be found at the [Health Sciences Building loading dock](https://goo.gl/maps/hYnYcm6EiTHGEE4SA) across NE Boat St. from Saint Bread, NE of the Ocean Sciences Building 
+  - must have UW Husky Card to fob-activate doors leading from loading dock and interior hall
+  - bring well-insulated foam or hard cooler. First weigh empty cooler, add dry-ice, then weigh again and record final weight, budget#, PI, and name on the clipboard near the dry-ice station
+  - probably best to drive rather than carry a cooler of dry-ice for three blocks
 
-- [ ] snippers
-
-  - bone cutters 
-
-    *or you can use nail clippers*
-
-
-
-*To Sterilize Lab Bench & snippers -* 
+*Reagents -* 
 
 - [ ] 10% bleach solution
 - [ ] DI water
 - [ ] Isopropanol
-- [ ] RNAse free water
+- [ ] nuclease free water
 - [ ] RNAse away
+- [ ] 100% ethanol (50 prep D7003)
+
+*Pipettes & Tips*
+
+  - [x] P100 + filtered tips
+  - [x] P200 + filtered tips
+  - [x] P1000 + 
+  - [x] P5000  + tips / 5mL serological pipette 
 
 
-
-*Extraction*
-
-- Zymo Research [Quick-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-rna-miniprep-plus-kit) (50 prep D7003, or 10 prep D7003T)
-
-- 100% ethanol (50 prep D7003)
-
-- 
-
-  ---
+---
 
   
 
+
 #### Buffer Preparation
 
-- [ ] If using the 50-prep kit (D7003), add 96 ml 100% ethanol (104 ml 95% ethanol) to the 24 ml DNA/RNA Wash Buffer concentrate. 
+- [ ] If using the 50-prep kit (D7003), add `96 ml 100% ethanol (104 ml 95% ethanol)`to the 24 ml DNA/RNA Wash Buffer concentrate. 
 
   ​		*If using the 10-prep kit, DNA/RNA Wash Buffer (D7003T) is supplied ready-to-use and does not require the addition of ethanol.*
-- [ ] Reconstitute lyophilized DNase I with DNase/RNase-Free Water and mix by gentle inversion. Use immediately or store frozen aliquots. #E1009-A (250 U), add 275 µl water #E1009-A-S (50 U), add 55 µl water 
-- [ ] Reconstitute lyophilized Proteinase K at 20 mg/ml with Proteinase K Storage Buffer and mix by vortexing. Use immediately or store frozen aliquots. #D3001-2-20 (60 mg), add 3.12 ml buffer #D3001-2-5 (5 mg), add 0.26 ml buffer 
+- [ ] Reconstitute lyophilized DNase I with `DNase/RNase-Free Water` and mix by gentle inversion. Use immediately or store frozen aliquots. 
+
+  - [ ] 50-prep, add 275 µl water 
+  - [ ] 10-prep, add 55 µl water 
+
+- [ ] Reconstitute lyophilized Proteinase K at 20 mg/ml with Proteinase K Storage Buffer and mix by vortexing. Use immediately or store frozen aliquots. 
+
+  - [ ] 50-prep, (60 mg), add 3.12 ml buffer 
+  - [ ] 10-prep, (5 mg), add 0.26 ml buffer 
+
 - [ ] To prepare a 1X solution of DNA/RNA Shield™, add an equal volume of nuclease-free water (not provided) to the DNA/RNA Shield™ (2X concentrate) (1:1) and mix well.
 
 #### Sample Preparation
