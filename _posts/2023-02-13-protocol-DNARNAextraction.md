@@ -11,27 +11,22 @@ tags:
   - RNA extraction
 ---
 
-The aim of this protocol is to take coral fragments that have been snap-frozen in liquid nitrogen and extract both DNA for downstream archaea & bacteria microbiome 16S Sequencing and RNA for downstream coral-host tissue RNA-seq analysis. 
+
+
+The aim of this protocol is to take coral fragments that have been snap-frozen in liquid nitrogen and extract both DNA for downstream archaea & bacteria microbiome 16S Microbiome Sequencing and RNA for downstream coral-host tissue RNA-seq analysis. In plain, I want to answer 'who is there?' regarding the bacterial community, and 'what is the coral doing?' regarding gene expression. 
 
 The benefits of doing DNA and RNA extraction together are that it saves time, money, & sample material. It also facilitates paired sample analysis, where each data point in one dataset is uniquely paired to a data point in the second dataset because we are making duplicate measurements on the *same sample*. 
 
 This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.zymoresearch.com/protocols/_d7003t_d7003_quick-dna-rna_miniprep_plus_kit.pdf) & URI Putnam Lab Emma Strand's notebook post on '[Zymo-Duet-RNA-DNA-Extraction-Protocol](https://emmastrand.github.io/EmmaStrand_Notebook/Zymo-Duet-RNA-DNA-Extraction-Protocol/)'
 
----
-
-##### Prerequisites:
-
 - liquid-nitrogen snap-frozen coral fragments held at -80°C
 
-  
 
 ##### Background:
 
 👀 WATCH ➡️ [Bumbling Biochemist 'Spin column purification of nucleic acids'](https://www.youtube.com/watch?v=Y_-xP60SYe0) on YouTube
 
 👀 WATCH ➡️ [Bumbling Biochemist 'tips for working with DNA/RNA spin columns'](https://www.youtube.com/watch?v=MBnuae5aWg4) on YouTube
-
-
 
 ##### Materials List:
 
