@@ -53,17 +53,36 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
 
 - [ ] USB thumb-drive
 
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
-{: .notice}
+## Protocol
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--primary}
+### Quick-Reference Overview
 
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+![qbit ]({{ site.url }}{{ site.baseurl }}/assets/images/qbit-quick.png)*infographic sourced from [Qubit RNA Broad Range (BR) Assay Kit Quick Reference](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2FQRC10210.pdf)*
+
+
+
+### Step 1. Set up 2 assay tubes for the standards and 1 tube for each user sample
+
+- [ ] label tube lids
+
+**Warning Notice:** Label only the cap of the assay tube, the sides need to remain clear for the fluorometer to penetrate through and read the sample
+{: .notice--warning}
+
+### Step 2. Prepare Working Solution
+
+- [ ] calculate how much working solution you need
+
+  **Note:** The final volume in each tube must be 200 µL. Each standard tube requires 190 µL of Qubit™ working solution, and each sample tube requires anywhere from 180–199 µL. Ensure that you have sufficient Qubit™ working solution to accommodate all standards and samples. For example, for 8 samples, prepare enough working solution for the samples and 2 standards: ∼200 μL per tube in 10 tubes yields 2 mL of working solution (10 μL of Qubit™ reagent plus 1990 μL of Qubit™ buffer).
 {: .notice--info}
 
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
-{: .notice--success}
+- [ ] take 15mL falcon tube
 
+### Step 3.
 
+### Step 4. 
 
+### Step 5. Read Samples
+
+**Warning Notice:** Qubit™ assays delivers optimal performance when all solutions are at room temperature; temperature fluctuations can influence the accuracy of the assay. To minimize temperature fluctuations, insert all assay tubes into the Qubit™ Fluorometer only for as much time as it takes for the instrument to measure the fluorescence; the Qubit™ Fluorometer can raise the temperature of the assay solution significantly, even over a period of a few minutes. Do not hold the assay tubes in your hand before reading because this warms the solution and results in a low
+reading.
+{: .notice--warning}
