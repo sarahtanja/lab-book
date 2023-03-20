@@ -32,7 +32,7 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
   **Warning Notice:** Standards must be stored in a refrigerator! Kits are stable for 6 months
   {: .notice--warning}
 
-  **Danger Notice:** Kit contains DMSO 67-68-5 in the RNA Reagent 200X concentrate, a combustible liquid that is a mild skin and eye irritant and may be absorbed into the body through the skin. If accidental contact with skin or eye happens, rinse with plenty of water, immediate medical attention is not required (according to the [SDS](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FQ10210COMPONENTA_MTR-NALT_EN.pdf))
+  **Danger Notice:** Kit contains DMSO 67-68-5 in the RNA dye Reagent 200X concentrate, a combustible liquid that is a mild skin and eye irritant and may be absorbed into the body through the skin. If accidental contact with skin or eye happens, rinse with plenty of water, immediate medical attention is not required (according to the [SDS](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FQ10210COMPONENTA_MTR-NALT_EN.pdf))
   {: .notice--danger}
 
 - [ ] [Qubit Assay Tubes](https://www.thermofisher.com/order/catalog/product/Q32856?SID=srch-srp-Q32856) 
@@ -41,9 +41,9 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
 
 - [ ] 0.5mL PCR tube rack
 
-- [ ] P10 pipette
+- [ ] P10 pipette + tips
 
-- [ ] 10uL pipette tips
+- [ ] P1000 pipette + tips
 
 - [ ] nitrile gloves
 
@@ -61,23 +61,52 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
 
 
 
-### Step 1. Set up 2 assay tubes for the standards and 1 tube for each user sample
+### Step 1. Set up 2 assay tubes for the standards and 1 tube for each sample
 
-- [ ] label tube lids
+- [ ] label assay tube lids
 
-**Warning Notice:** Label only the cap of the assay tube, the sides need to remain clear for the fluorometer to penetrate through and read the sample
+**Warning Notice:** Label only the cap of the assay tube, the sides need to remain 	 clear for the fluorometer to penetrate through and read the sample
+{: .notice--warning}
+
+- [ ] rip off sheet of foil to cover sample tube rack to protect from light
+
+**Warning Notice:** Qubit RNA BR dye-reagent (component A) is light sensitive, and must be kept in the dark (tube wrapped in foil)
 {: .notice--warning}
 
 ### Step 2. Prepare Working Solution
 
 - [ ] calculate how much working solution you need
 
-  **Note:** The final volume in each tube must be 200 µL. Each standard tube requires 190 µL of Qubit™ working solution, and each sample tube requires anywhere from 180–199 µL. Ensure that you have sufficient Qubit™ working solution to accommodate all standards and samples. For example, for 8 samples, prepare enough working solution for the samples and 2 standards: ∼200 μL per tube in 10 tubes yields 2 mL of working solution (10 μL of Qubit™ reagent plus 1990 μL of Qubit™ buffer).
+  standard #1 - 190uL working solution. 10uL 
+
+  standard #2 - 190uL working solution
+
+  sample 1      - 199uL working solution
+
+  sample 2      - 199uL working solution
+
+  sample 3      - 199uL working solution
+
+  .. etc.
+  $$
+  2*190uL + no. of samples *199uL = Working-Solution-Volume
+  $$
+
+**Note:** The final volume in each tube must be 200 µL. Each standard tube requires 190 µL of Qubit™ working solution, and each sample tube requires anywhere from 180–199 µL. Ensure that you have sufficient Qubit™ working solution to accommodate all standards and samples, with a little 'extra'. For example, to prepare enough working solution for 2 standards and 8 samples: 
+$$
+2*190uL + 8*199uL = 1972uL = 1.972mL \approx 2mL
+$$
 {: .notice--info}
+
+For a 2mL 1 : 200 dilution of dye-reagent : buffer,  pipette 10uL of Qubit dye-reagent plus 1990uL of Qubit buffer into a 15mL falcon tube. 
+
+- [ ] 
 
 - [ ] take 15mL falcon tube
 
-### Step 3.
+### Step 3. Pipette Working Solution, Standards, & Samples into assay tubes
+
+
 
 ### Step 4. 
 
