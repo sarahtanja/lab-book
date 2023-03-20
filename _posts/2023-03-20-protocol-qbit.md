@@ -32,16 +32,22 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
   **Warning Notice:** Standards must be stored in a refrigerator! Kits are stable for 6 months
   {: .notice--warning}
 
-  **Danger Notice:** Kit contains DMSO 67-68-5, may be absorbed into the body through the skin
+  **Danger Notice:** Kit contains DMSO 67-68-5 in the RNA Reagent 200X concentrate, a combustible liquid that is a mild skin and eye irritant and may be absorbed into the body through the skin. If accidental contact with skin or eye happens, rinse with plenty of water, immediate medical attention is not required (according to the [SDS](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2FSDS%2FQ10210COMPONENTA_MTR-NALT_EN.pdf))
   {: .notice--danger}
 
-- [ ] [Qubit Assay Tubes](https://www.thermofisher.com/order/catalog/product/Q32856?SID=srch-srp-Q32856) (thin-wall, clear, 0.5mL PCR tubes cat no. Q32856)
+- [ ] [Qubit Assay Tubes](https://www.thermofisher.com/order/catalog/product/Q32856?SID=srch-srp-Q32856) 
 
-- [ ] 15mL Falcon tube (to prepare working solution, reagent diluted in buffer)
+- [ ] 15mL Falcon tube (to prepare working solution)
+
+- [ ] 0.5mL PCR tube rack
 
 - [ ] P10 pipette
 
+- [ ] 10uL pipette tips
+
 - [ ] nitrile gloves
+
+- [ ] safety glasses
 
 - [ ] vortexer
 
@@ -55,10 +61,6 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
 
 **Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
 {: .notice--info}
-
-
-
-
 
 **Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
 {: .notice--success}
