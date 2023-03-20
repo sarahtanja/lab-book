@@ -15,15 +15,15 @@ The aim of this protocol is to take the extracted RNA from the [Dual DNA & RNA E
 
 The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our samples.  For high-quality RNA, we're looking for long and intact strands of RNA.
 
-## Background:
+## Background
 
 ![qbit ]({{ site.url }}{{ site.baseurl }}/assets/images/qbit-rna-iq.png)*infographic sourced from [Thermo Fisher](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FBID%2Fposters%2Fqubit-rna-iq-assay-fluorometric-rna-quality-assessment-poster.pdf)*
 
-[Qubit RNA Broad Range (BR) Assay Kit Manual](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2FQubit_RNA_BR_Assay_UG.pdf)
+👀[Qubit RNA Broad Range (BR) Assay Kit Manual](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2FQubit_RNA_BR_Assay_UG.pdf)
 
-[Qubit RNA Broad Range (BR) Assay Kit Quick Reference](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2FQRC10210.pdf)
+👀[Qubit RNA Broad Range (BR) Assay Kit Quick Reference](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2FQRC10210.pdf)
 
-## Materials List:
+## Materials List
 
 - [ ] [Qubit Fluorometer](https://www.thermofisher.com/order/catalog/product/Q33238?SID=srch-srp-Q33238) 
 
@@ -37,17 +37,19 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
 
 - [ ] [Qubit Assay Tubes](https://www.thermofisher.com/order/catalog/product/Q32856?SID=srch-srp-Q32856) 
 
-- [ ] 15mL Falcon tube (to prepare working solution)
+- [ ] 15mL Falcon tube (to prepare working solution) 🧪
 
 - [ ] 0.5mL PCR tube rack
+
+- [ ] P2 pipette + tips
 
 - [ ] P10 pipette + tips
 
 - [ ] P1000 pipette + tips
 
-- [ ] nitrile gloves
+- [ ] nitrile gloves 🧤
 
-- [ ] safety glasses
+- [ ] safety glasses 👓
 
 - [ ] vortexer
 
@@ -58,8 +60,6 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
 ### Quick-Reference Overview
 
 ![qbit ]({{ site.url }}{{ site.baseurl }}/assets/images/qbit-quick.png)*infographic sourced from [Qubit RNA Broad Range (BR) Assay Kit Quick Reference](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2FQRC10210.pdf)*
-
-
 
 ### Step 1. Set up 2 assay tubes for the standards and 1 tube for each sample
 
@@ -75,20 +75,24 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
 
 ### Step 2. Prepare Working Solution
 
+**tldr:** For 8 samples and 2 standards, you will need 2mL of working solution, to prepare it in a 1:200 dilution of dye-reagent to buffer, pipette 10uL of Qubit dye-reagent plus 1990uL of Qubit buffer into a 15mL falcon tube, cap & invert to mix.
+{: .notice--success}
+
 - [ ] calculate volume of working solution you need
 
-  standard #1 - 190uL working solution, 10uL standard
-
-  standard #2 - 190uL working solution, 10uL standard
-
-  sample 1      - 199uL working solution, 1uL sample
-
-  sample 2      - 199uL working solution, 1uL sample
-
-  sample 3      - 199uL working solution, 1uL sample
-
-  .. etc.
-
+  > standard #1 - 190uL working solution, 10uL standard
+  >
+  > standard #2 - 190uL working solution, 10uL standard
+  >
+  > sample 1      - 199uL working solution, 1uL sample
+  >
+  > sample 2      - 199uL working solution, 1uL sample
+  >
+  > sample 3      - 199uL working solution, 1uL sample
+  >
+  > .. etc.
+  >
+  
   $$
   2*190uL + no. of samples *199uL = Working-Solution-Volume
   $$
@@ -106,12 +110,43 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
 
 ### Step 3. Pipette Working Solution, Standards, & Samples into assay tubes
 
+#### Standard tubes
 
+- [ ] Add 190uL of working solution to each standard tube
+- [ ] Add 10uL of standard (#1 & #2) to each correspondingly labelled tube
 
-### Step 4. 
+#### Sample tubes
+
+- [ ] Add 199 uL of working solution into each sample tube
+- [ ] Add 1uL of sample into each correspondingly labelled tube (P2 pipette)
+
+**Warning:** temperature affects pipetting accuracy, which is very important when pipetting tiny amounts (1uL!!), so make sure sample is on ice, but well-thawed.
+{: .notice--warning}
+
+### Step 4. Vortex standards and samples for 2–3 seconds and let sit at room temperature for 2 minutes
 
 ### Step 5. Read Samples
+
+- [ ] Select RNA Broad Range Assay on the Qubit® 2.0 Fluorometer to calibrate with standards 
 
 **Warning Notice:** Qubit™ assays delivers optimal performance when all solutions are at room temperature; temperature fluctuations can influence the accuracy of the assay. To minimize temperature fluctuations, insert all assay tubes into the Qubit™ Fluorometer only for as much time as it takes for the instrument to measure the fluorescence; the Qubit™ Fluorometer can raise the temperature of the assay solution significantly, even over a period of a few minutes. Do not hold the assay tubes in your hand before reading because this warms the solution and results in a low
 reading.
 {: .notice--warning}
+
+- [ ] After calibration, read the samples with the same RNA Broad Range Assay selection on the Qubit Fluorometer. Cross your fingers they are in desired range 🤞
+
+- [ ] Record RNA IQ values
+
+  > ------
+  >
+  > | sample | qubit-rna-iq | qubit-run-date |
+  > | ------ | ------------ | -------------- |
+  > |        |              |                |
+  > |        |              |                |
+  > |        |              |                |
+  >
+  > 
+
+- [ ] Download RNA IQ values using USB thumb-drive
+
+  
