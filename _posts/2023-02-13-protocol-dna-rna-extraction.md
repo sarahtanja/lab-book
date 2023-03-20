@@ -3,7 +3,6 @@ title: "Dual DNA & RNA Extraction Protocol"
 date: 2023-01-13T00:00:00-00:00
 categories:
   - protocols
-  - lab
 tags:
   - RNA-seq
   - 16S

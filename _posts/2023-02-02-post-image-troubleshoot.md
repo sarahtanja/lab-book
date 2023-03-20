@@ -1,7 +1,7 @@
 ---
 title: "Rendering Images in Jekyll Minimal Mistakes"
 categories:
-  - Blog
+  - blog
 ---
 This post is for troubleshooting why my images are not rendering on the Minimal Mistakes site. 
 
