@@ -75,34 +75,34 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
 
 ### Step 2. Prepare Working Solution
 
-- [ ] calculate how much working solution you need
+- [ ] calculate volume of working solution you need
 
-  standard #1 - 190uL working solution. 10uL 
+  standard #1 - 190uL working solution, 10uL standard
 
-  standard #2 - 190uL working solution
+  standard #2 - 190uL working solution, 10uL standard
 
-  sample 1      - 199uL working solution
+  sample 1      - 199uL working solution, 1uL sample
 
-  sample 2      - 199uL working solution
+  sample 2      - 199uL working solution, 1uL sample
 
-  sample 3      - 199uL working solution
+  sample 3      - 199uL working solution, 1uL sample
 
   .. etc.
+
   $$
   2*190uL + no. of samples *199uL = Working-Solution-Volume
   $$
 
-**Note:** The final volume in each tube must be 200 µL. Each standard tube requires 190 µL of Qubit™ working solution, and each sample tube requires anywhere from 180–199 µL. Ensure that you have sufficient Qubit™ working solution to accommodate all standards and samples, with a little 'extra'. For example, to prepare enough working solution for 2 standards and 8 samples: 
-$$
-2*190uL + 8*199uL = 1972uL = 1.972mL \approx 2mL
-$$
+**Note:** The final volume in each tube must be 200 µL. Each standard tube requires 190 µL of Qubit™ working solution, and each sample tube requires anywhere from 180–199 µL. Ensure that you have sufficient Qubit™ working solution to accommodate all standards and samples, with a little 'extra'. For example, to prepare enough working solution for 2 standards and 8 samples: $ 2*190uL + 8*199uL = 1972uL = 1.972mL \approx 2mL $
 {: .notice--info}
 
-For a 2mL 1 : 200 dilution of dye-reagent : buffer,  pipette 10uL of Qubit dye-reagent plus 1990uL of Qubit buffer into a 15mL falcon tube. 
+- [ ] calculate a 1:200 dilution of dye-reagent to buffer
 
-- [ ] 
+  - Divide working solution volume in uL by 200 to find volume in uL of dye-reagent, then subtract volume in uL of dye-reagent from working solution volume to get buffer volume. 
 
-- [ ] take 15mL falcon tube
+  - For a 2mL volume, a 1:200 dilution of dye-reagent:buffer would be 10uL of Qubit dye-reagent plus 1990uL of Qubit buffer.
+
+- [ ] take 15mL falcon tube, dilute above volumes of dye-reagent with buffer to get the final working solution volume. Cap & invert falcon tube to mix. 
 
 ### Step 3. Pipette Working Solution, Standards, & Samples into assay tubes
 
