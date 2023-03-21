@@ -66,10 +66,32 @@ The transcriptome is defined as a collection of all the transcript readouts pres
 - Metatranscriptomics or community transcriptome analysis
 
   ![gene-structure]({{ site.url }}{{ site.baseurl }}/assets/images/gene-structure.png)
-  
-  ------
-  
-  
+
+### Single Nucleotide Polymorphisms (SNPs)
+
+
+
+### Read Depth/ Read per Sample
+
+The number of times a particular base is represented within all the reads from sequencing. The higher the read depth, the more confidence scientists can have in identifying a base – known as ‘base calling’. By sequencing each fragment numerous times to produce multiple reads, scientists can be more confident that any [variants](https://www.genomicseducation.hee.nhs.uk/glossary/variant/) identified are true variants and not [artefacts](https://www.genomicseducation.hee.nhs.uk/glossary/artefact/) from the sequencing process. The number of times each individual base has been sequenced i.e. the number of reads it appears in is referred to as the read depth, and the greater the depth, the more confident scientists can be that the variant is real.
+
+*Generally, we recommend 5-10 million read pairs per sample for small genomes (e.g. bacteria) and 20-30 million read pairs per sample for large genomes (e.g. human, mouse). Medium genomes often depend on the project, but 15-20 million read pairs per sample is typically sufficient. For de novo transcriptome assembly projects, we recommend 100 million read pairs per sample.
+
+![read-depth]({{ site.url }}{{ site.baseurl }}/assets/images/coverage.png)[https://www.metagenomics.wiki/pdf/qc/coverage-read-depth]
+
+
+
+### Total RNA Sample Submission Requirements
+
+| company                      | min reads per sample | sample type | min RNA amount | recommended RNA amount | Purity (A260/280) | RIN   | buffer              |
+| ---------------------------- | -------------------- | ----------- | -------------- | ---------------------- | ----------------- | ----- | ------------------- |
+| Azenta (Genewiz)             |                      | Total RNA   | 500 ng         | >2 ug , >50ng/uL       | 1.8 - 2.2         | >=6.0 | nuclease-free water |
+| UW Northwest Genomics Center |                      |             |                |                        |                   |       |                     |
+| University of Texas          |                      |             |                |                        |                   |       |                     |
+| Mr. DNA Lab                  |                      |             |                |                        |                   |       |                     |
+| FYR Diagnostics              |                      |             |                |                        |                   |       |                     |
+
+
 
  ### 1. Illumina library preparation
 
