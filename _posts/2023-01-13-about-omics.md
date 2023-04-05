@@ -38,6 +38,7 @@ Differences in [`translation`](https://youtu.be/WNZf4ip_R9s) between eukaryotes 
 | microbiome    | The genomes of bacteria,  archaea, and fungi that collectively reside in an environment. The microbiome  can be investigated using Shotgun Metagenome Sequencing and 16S rRNA  Sequencing. |
 | microbiota    | The  living community of archaea, bacteria, and fungi in an environment |
 | transcriptome | An  organism's complete set of RNA, a collection of all the transcript readouts  present in a cell |
+| Mb / Mbp      | Genome size is the total amount of [DNA](https://en.wikipedia.org/wiki/DNA) contained within one copy of a single complete [genome](https://en.wikipedia.org/wiki/Genome) and can be measured as the total number of [nucleotide](https://en.wikipedia.org/wiki/Nucleotide) [base pairs](https://en.wikipedia.org/wiki/Base_pair), usually in megabases (millions of base pairs, abbreviated Mb or Mbp) |
 
 ## 16s rRNA amplicon sequencing
 
@@ -83,15 +84,23 @@ The number of times a particular base is represented within all the reads from s
 
 ### Total RNA Sample Submission Requirements
 
-| company                      | min reads per sample | sample type | min RNA amount | recommended RNA amount | Purity (A260/280) | RIN   | buffer              |
-| ---------------------------- | -------------------- | ----------- | -------------- | ---------------------- | ----------------- | ----- | ------------------- |
-| Azenta (Genewiz)             |                      | Total RNA   | 500 ng         | >2 ug , >50ng/uL       | 1.8 - 2.2         | >=6.0 | nuclease-free water |
-| UW Northwest Genomics Center |                      |             |                |                        |                   |       |                     |
-| University of Texas          |                      |             |                |                        |                   |       |                     |
-| Mr. DNA Lab                  |                      |             |                |                        |                   |       |                     |
-| FYR Diagnostics              |                      |             |                |                        |                   |       |                     |
+| company                                                      | min reads per sample |      | sample type | min RNA amount | recommended RNA amount | Purity (A260/280) | RIN   | buffer              |
+| ------------------------------------------------------------ | -------------------- | ---- | ----------- | -------------- | ---------------------- | ----------------- | ----- | ------------------- |
+| [Azenta](https://web.genewiz.com/rna-seq-faq?utm_term=&utm_campaign=NGS+2018&utm_source=adwords&utm_medium=ppc&hsa_tgt=dsa-1481494939850&hsa_grp=73632456640&hsa_src=g&hsa_net=adwords&hsa_mt=&hsa_ver=3&hsa_ad=487231038637&hsa_acc=8363678060&hsa_kw=&hsa_cam=1038345344&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fLsx04Oza0_CdPHEJQpgTP97tEZWU2uy6PBn16cCAJ08oSRGPu9lRQaAmD1EALw_wcB) (Genewiz) |                      |      | Total RNA   | 500 ng         | >2 ug , >50ng/uL       | 1.8 - 2.2         | >=6.0 | nuclease-free water |
+| UW Northwest Genomics Center                                 |                      |      |             |                |                        |                   |       |                     |
+| University of Texas                                          |                      |      |             |                |                        |                   |       |                     |
+| Mr. DNA Lab                                                  |                      |      |             |                |                        |                   |       |                     |
+| FYR Diagnostics                                              |                      |      |             |                |                        |                   |       |                     |
 
+#### What method is used to remove ribosomal RNA?
 
+Since ribosomal RNA (rRNA) makes up the majority of total RNA, its removal is necessary for efficient sequencing of other RNA species, such as mRNA, long non-coding RNA (lncRNA), and small RNA.
+
+- For Standard and Strand-Specific RNA-Seq, you can select either poly-A selection or rRNA depletion methods. Poly-A selection is sufficient for studying mRNA in eukaryotes. Analysis of lncRNA or bacterial transcripts requires rRNA depletion.
+
+- For Ultra-Low Input RNA-Seq, the default is to use poly-A selection. However, if your project requires analysis of lncRNA in addition to mRNA, please make a comment on the quote request form, and we can discuss the available options.
+
+  
 
  ### 1. Illumina library preparation
 
@@ -184,4 +193,4 @@ The data is a huge matrix.
 [Principal component analysis (PCA)](https://www.youtube.com/watch?v=FgakZw6K1QQ) 
 
 
-
+[Marine Omics Fitting Multifactorial Models of Differential Expression, RNA-seq](https://marineomics.github.io/FUN_01_DGE_comparison_v2.html)
