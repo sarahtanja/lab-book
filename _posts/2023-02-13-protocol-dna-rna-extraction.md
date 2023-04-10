@@ -34,44 +34,63 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 *Extraction Kit* - 
 
-- [x] Zymo Research [Quick-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-rna-miniprep-plus-kit) (50 prep D7003, or 10 prep D7003T)
+- [ ] Zymo Research [Quick-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-rna-miniprep-plus-kit) (50 prep D7003, or 10 prep D7003T)
 
   ​       *includes:*
 
-  - [x] DNA/RNA Lysis Buffer
-  - [x] DNA/RNA Prep Buffer
-  - [x] DNase/RNase-Free Water
-  - [x] DNase I2 (lyophilized... aka freeze-dried)
-  - [x] DNA Digestion Buffer
-  - [x] DNA/RNA Shield (2X concentrate)
-  - [x] PK Digestion Buffer
-  - [x] Proteinase K3 (lyophilized... aka freeze-dried) & Storage Buffer
-  - [x] Spin-Away Filters
-  - [x] Zymo-Spin IIICG Columns
-  - [x] Collection Tubes
+  - [ ] DNA/RNA Lysis Buffer
+  - [ ] DNA/RNA Prep Buffer
+  - [ ] DNase/RNase-Free Water
+  - [ ] DNase I2 (lyophilized... aka freeze-dried)
+  - [ ] DNA Digestion Buffer
+  - [ ] DNA/RNA Shield (2X concentrate)
+  - [ ] PK Digestion Buffer
+  - [ ] Proteinase K3 (lyophilized... aka freeze-dried) & Storage Buffer
+  - [ ] Spin-Away Filters
+  - [ ] Zymo-Spin IIICG Columns
+  - [ ] Collection Tubes
 
-- [x] [ZR BashingBead  Lysis 2mL Tubes with 0.1 & 0.5mm beads](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm)
+- [ ] [ZR BashingBead  Lysis 2mL Tubes with 0.1 & 0.5mm beads](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm)
 
-- [x] [DNase/RNase-Free Tubes](https://www.zymoresearch.com/products/dnase-rnase-free-tubes)
+- [ ] [DNase/RNase-Free Tubes](https://www.zymoresearch.com/products/dnase-rnase-free-tubes)
 
 *PPE -*
 
-- [x] nitrile gloves
-- [x] liquid-nitrogen & cold storage handling gloves
-- [x] lab coats
+- [ ] nitrile gloves
+- [ ] liquid-nitrogen & cold storage handling gloves
+- [ ] lab coats
 
 *Lab Equipment  -*
 
-- [x] centrifuge
+- [ ] 2 lab mortar & pestle sets
   
-  - microfuge mini-setup 
-- [x] mortexer / homogenizer
-  - VWR mini vortexer (lab 236)
-- [x] 100mL graduated cylinder
-- [x] [ethanol-proof lab markers](https://www.amazon.com/dp/B09L3Q99WL/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUpaVTc1M0pRMVImZW5jcnlwdGVkSWQ9QTAxMTgzODBJOFI3QlZFQ0pKQUsmZW5jcnlwdGVkQWRJZD1BMDc2MTE0M1ExRUdBSkEwOFBBRiZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
-- [x] [1.5mL microcentrifuge tube rack](https://www.southernlabware.com/80-well-micro-tube-racks-assorted-5-pacl.html?gclid=CjwKCAiAjPyfBhBMEiwAB2CCIkxZXHoOz72MNKvsWFcKscbsG8H5wIyMEw974wfKSvbU2W5a4Tk2IRoCBtEQAvD_BwE) 
-- [x] small cooler (for dry ice)
-- [x] dry-ice (Biochemistry Store in hallway adjacent to Room J-014, Health Sciences Building)
+- [ ] small liquid-nitrogen thermos (1L)
+  
+- [ ] weigh paper
+  
+- [ ] lab label tape
+  
+- [ ] centrifuge
+  
+  - [Beckman Coulter Microfuge 16](https://www.beckman.com/landing/ppc/cent/benchtop/microcentrifuges?utm_source=google&utm_medium=cpc&utm_term=microcentrifuge&gclid=CjwKCAjw586hBhBrEiwAQYEnHYq-F4WNopG5rWYG4Bb0YjPlfXL7pVCESNmTwqyT6Cgxty-Si8AAdhoC8I0QAvD_BwE) 
+  
+- [ ] mortexer / homogenizer
+
+  - [Mortexer Vortex Mixer](https://www.southernlabware.com/mortexertm-vortex-mixer-115v.html?gclid=CjwKCAjw586hBhBrEiwAQYEnHZGNGUTMUHNWEHBx5r2Ig9BZSuRVSnvE2_OV6n0mGga5fqV8DPcjfRoCsNoQAvD_BwE) with included Multi-Head to hold 8 microcentrifuge tubes (this is what we have)
+
+    ...OR...
+
+  - Vortex Genie 2 with [Horizontal Microtube Holder](https://www.zymoresearch.com/products/horizontal-microtube-holder) (recommended by [Zymo optimized lysis protocols](https://files.zymoresearch.com/documents/bead_beating_short_protocol_tables.pdf))
+
+- [ ] 100mL graduated cylinder
+
+- [ ] [ethanol-proof lab markers](https://www.amazon.com/dp/B09L3Q99WL/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUpaVTc1M0pRMVImZW5jcnlwdGVkSWQ9QTAxMTgzODBJOFI3QlZFQ0pKQUsmZW5jcnlwdGVkQWRJZD1BMDc2MTE0M1ExRUdBSkEwOFBBRiZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+
+- [ ] 5 [1.5mL microcentrifuge tube racks](https://www.southernlabware.com/80-well-micro-tube-racks-assorted-5-pacl.html?gclid=CjwKCAiAjPyfBhBMEiwAB2CCIkxZXHoOz72MNKvsWFcKscbsG8H5wIyMEw974wfKSvbU2W5a4Tk2IRoCBtEQAvD_BwE) 
+
+- [ ] small cooler (for dry ice and samples)
+
+- [ ] dry-ice (Biochemistry Store in hallway adjacent to Room J-014, Health Sciences Building)
 
   - The entrance can be found at the [Health Sciences Building loading dock](https://goo.gl/maps/hYnYcm6EiTHGEE4SA) across NE Boat St. from Saint Bread, NE of the Ocean Sciences Building 
   - must have UW Husky Card to fob-activate doors leading from loading dock and interior hall
@@ -80,29 +99,67 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 *Reagents -* 
 
-- [ ] 10% bleach solution
-- [ ] DI water
-- [ ] Isopropanol
 - [ ] nuclease free water
-- [ ] RNAse away
-- [ ] 100% ethanol (50 prep D7003)
+- [ ] 95% (190 proof) - 99.5% (200 proof) ethanol (50 prep D7003)
+
+*Sterilizing -*
+
+- [ ]  RNase away in spray-bottle
+
+- [ ] 10% bleach in spray-bottle
+- [ ] 70% ethanol in spray-bottle
+- [ ] DI water in spray-bottle
 
 *Pipettes & Tips*
 
-  - [x] P100 + filtered tips
-  - [x] P200 + filtered tips
-  - [x] P1000 + 
-  - [x] P5000  + tips / 5mL serological pipette 
+  - [ ] P100 + filtered tips
+  - [ ] P200 + filtered tips
+  - [ ] P1000 + filtered tips
+  - [ ] P5000  + tips / 5mL serological pipette 
 
 
 ---
 
-  
+#### Select Samples
 
+Make sure to randomize which samples are processed in each batch to reduce 'batch effects'!
+
+See ['Randomize Sample Processing'](https://github.com/sarahtanja/coral-DNA-RNA-lab-extractions/blob/main/rand-sample-processing.Rmd) script as an example.
+
+Think about how many samples you can process at once, and your kit, centrifuge, and homogenizer capacity.
+
+#### Label Tubes
+
+The samples originate from their 1.5mL cryo-vials, which are labelled with their sample IDs. Since it's important to keep track of which samples were extracting using the same kit, the same reagents, etc...  for batch effects, I will use extraction ID's to label samples that were processed together. 
+
+Each ID, extraction number, date, & initials, will need to be labelled on the following  6 tubes/vials :
+
+➡️ bead-beating tube ➡️ *intermediate* nuclease-free 1.5mL tube ➡️ yellow `Spin-Away Filter` & `collection tube` ➡️ green `Spin IIICG Column`➡️ **FINAL** nuclease-free 1.5mL tube
+
+The intermediate tubes should be labelled with the sample ID & date
+
+```
+1Ea 10APR23
+```
+
+The **FINAL** tube should be labelled with sample-ID, extraction number, date (ddMMMyy), & initials
+
+```
+1Ea
+extr1
+10APR23
+SST
+```
+
+
+
+#### Lab Bench Setup
+
+#### Sterilize Lab Bench
 
 #### Buffer Preparation
 
-- [ ] If using the 50-prep kit (D7003), add `96 ml 100% ethanol (104 ml 95% ethanol)`to the 24 ml DNA/RNA Wash Buffer concentrate. 
+- [ ] If using the 50-prep kit (D7003), add `96 ml 100% ethanol (104 ml 95% ethanol)` to the 24 ml DNA/RNA Wash Buffer concentrate. 
 
   ​		*If using the 10-prep kit, DNA/RNA Wash Buffer (D7003T) is supplied ready-to-use and does not require the addition of ethanol.*
 - [ ] Reconstitute lyophilized DNase I with `DNase/RNase-Free Water` and mix by gentle inversion. Use immediately or store frozen aliquots. 
