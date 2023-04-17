@@ -138,6 +138,8 @@ The samples originate from their 1.5mL cryo-vials, which are labelled with their
 
 Each sample will need the following  7 tubes labelled:
 
+![label-7-tubes-diagram]()
+
 ```mermaid
 flowchart TB
     intermediate-nuclease-free-tube --> yellow-spin-away-collection-tube
