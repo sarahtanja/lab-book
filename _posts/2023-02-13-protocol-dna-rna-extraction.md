@@ -138,7 +138,9 @@ The samples originate from their 1.5mL cryo-vials, which are labelled with their
 
 Each sample will need the following  7 tubes labelled:
 
-![label-7-tubes-diagram](https://github.com/sarahtanja/lab-book/blob/master/assets/images/label-tube-diagram.jpeg)
+![label-7-tubes-diagram]({{ site.url }}{{ site.baseurl }}/assets/images/label-tube-diagram.jpeg)
+
+![label-7-tubes-diagram]({{ site.url }}{{ site.baseurl }}/assets/images/label-tube-diagram.jpeg)
 
 ```mermaid
 flowchart TB

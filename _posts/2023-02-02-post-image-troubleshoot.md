@@ -23,20 +23,20 @@ baseurl	 : "/lab-book"
 **HTML:**
 
 ```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="">{% endraw %}
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg" alt="">{% endraw %}
 ```
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="">{% endraw %}
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/guthuboctocat.svg" alt="">{% endraw %}
 
 ... nothing 
 
 **Kramdown:**
 
 ```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg){% endraw %}
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg){% endraw %}
 ```
 {% raw %}
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg)
 
 {% endraw %}
 
@@ -45,13 +45,13 @@ baseurl	 : "/lab-book"
 **Kramdown without '{% raw %} {% endraw %} wrap':**
 
 ```kramdown
-![img-png]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.png)
+![img-png]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg)
 ```
 
 We have a winner!
 {: .notice--success}
 
-![img-png]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.png)
+![img-png]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg)
 
 
 
@@ -60,23 +60,23 @@ Image that fills page content container by adding the `.full` class with:
 **HTML:**
 
 ```html
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="" class="full">{% endraw %}
+{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg" alt="" class="full">{% endraw %}
 ```
 
 **Kramdown with %raw%:**
 ```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg)
 {: .full}{% endraw %}
 ```
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg)
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg)
 {: .full}{% endraw %}
 
 {% raw %} {% endraw %} isn't showing in the code fence?
 
-**Kramdown without %raw%:**
+**Kramdown:**
+
 ```
 ![img-jpg]({{ site.url }}{{ site.baseurl }}/assets/images/githuboctocat.svg)
-{: .full}
 ```
 We have another winner!
 {: .notice--success}
