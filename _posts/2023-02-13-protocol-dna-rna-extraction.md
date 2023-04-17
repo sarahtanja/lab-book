@@ -138,7 +138,7 @@ The samples originate from their 1.5mL cryo-vials, which are labelled with their
 
 Each sample will need the following  7 tubes labelled:
 
-![label-7-tubes-diagram]()
+![label-7-tubes-diagram](https://github.com/sarahtanja/lab-book/blob/master/assets/images/label-tube-diagram.jpeg)
 
 ```mermaid
 flowchart TB
@@ -155,7 +155,6 @@ flowchart TB
     subgraph RNA
     yellow-spin-away-collection-tube -- RNA-collection-tube-contents --> green-spin-away-collection-tube --> FINAL-RNA-nuclease-free-tube
     end
- 
 ```
 
 The intermediate tubes should be labelled with the sample-ID & extraction-ID 
