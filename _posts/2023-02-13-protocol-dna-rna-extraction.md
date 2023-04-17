@@ -12,13 +12,15 @@ tags:
 
 
 
-The aim of this protocol is to take coral fragments that have been snap-frozen in liquid nitrogen and extract both DNA for downstream archaea & bacteria microbiome 16S Microbiome Sequencing and RNA for downstream coral-host tissue RNA-seq analysis. 
+The aim of this protocol is to take coral fragments that have been snap-frozen in liquid nitrogen and extract both DNA for downstream archaea & bacteria microbiome 16S Microbiome Sequencing and RNA for downstream coral-host tissue Tag-seq or RNA-seq analysis. 
 
 >  In plain, I want to answer 'who is there?' regarding the bacterial community, and 'what is the coral doing?' regarding gene expression. 
 
 The benefits of doing DNA and RNA extraction together are that it saves time, money, & sample material. It also facilitates paired sample analysis, where each data point in one dataset is uniquely paired to a data point in the second dataset because we are making duplicate measurements on the *same sample*. 
 
-This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.zymoresearch.com/protocols/_d7003t_d7003_quick-dna-rna_miniprep_plus_kit.pdf) & URI Putnam Lab Emma Strand's notebook post on '[Zymo-Duet-RNA-DNA-Extraction-Protocol](https://emmastrand.github.io/EmmaStrand_Notebook/Zymo-Duet-RNA-DNA-Extraction-Protocol/)', with a few alterations.
+The challenge is lysing the sample enough to get the bacterial DNA (busting open all those layers of cell membranes!) and retaining host (coral) RNA integrity. 
+
+This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.zymoresearch.com/protocols/_d7003t_d7003_quick-dna-rna_miniprep_plus_kit.pdf) & URI Putnam Lab Emma Strand's notebook post on '[Zymo-Duet-RNA-DNA-Extraction-Protocol](https://emmastrand.github.io/EmmaStrand_Notebook/Zymo-Duet-RNA-DNA-Extraction-Protocol/)', with a few alterations suggested by Zymo tech on [March 28th 2023](https://sarahtanja.github.io/lab-book/blog/daily-log/#28-mar-2023-t) regarding [optimized lysis protocols](https://files.zymoresearch.com/documents/bead_beating_short_protocol_tables.pdf).
 
 ##### PreReqs:
 
@@ -36,6 +38,8 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 - [ ] Zymo Research [Quick-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-rna-miniprep-plus-kit) (50 prep D7003, or 10 prep D7003T)
 
+  *1 prep = 1 sample that results in DNA in one tube, and RNA in another*
+
   ​       *includes:*
 
   - [ ] DNA/RNA Lysis Buffer
@@ -50,9 +54,9 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
   - [ ] Zymo-Spin IIICG Columns
   - [ ] Collection Tubes
 
-- [ ] [ZR BashingBead  Lysis 2mL Tubes with 0.1 & 0.5mm beads](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm)
+- [ ] [ZR BashingBead  Lysis 2mL Tubes with 0.1 & 0.5mm beads](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm), 1 per prep
 
-- [ ] [DNase/RNase-Free Tubes](https://www.zymoresearch.com/products/dnase-rnase-free-tubes)
+- [ ] [DNase/RNase-Free Tubes](https://www.zymoresearch.com/products/dnase-rnase-free-tubes), 2 per prep
 
 *PPE -*
 
@@ -130,28 +134,50 @@ Think about how many samples you can process at once, and your kit, centrifuge, 
 
 #### Label Tubes
 
-The samples originate from their 1.5mL cryo-vials, which are labelled with their sample IDs. Since it's important to keep track of which samples were extracting using the same kit, the same reagents, etc...  for batch effects, I will use extraction ID's to label samples that were processed together. 
+The samples originate from their 1.5mL cryo-vials, which are labelled with their sample IDs. Since it's important to keep track of which samples were extracted using the same kit, the same reagents, etc...  for batch effects, I will use extraction IDs (extr1, extr2, extr3 , etc.) to label samples that were processed together. 
 
-Each ID, extraction number, date, & initials, will need to be labelled on the following  6 tubes/vials :
+Each sample will need the following  7 tubes labelled:
 
-➡️ bead-beating tube ➡️ *intermediate* nuclease-free 1.5mL tube ➡️ yellow `Spin-Away Filter` & `collection tube` ➡️ green `Spin IIICG Column`➡️ **FINAL** nuclease-free 1.5mL tube
+```mermaid
+flowchart TB
+    intermediate-nuclease-free-tube --> yellow-spin-away-collection-tube
+    
+    subgraph lysis
+    bead-bashing-tube --> intermediate-nuclease-free-tube 
+    end
+    
+    subgraph DNA
+    yellow-spin-away-collection-tube --> new-DNA-collection-tube --> FINAL-DNA-nuclease-free-tube
+    end
+    
+    subgraph RNA
+    yellow-spin-away-collection-tube -- RNA-collection-tube-contents --> green-spin-away-collection-tube --> FINAL-RNA-nuclease-free-tube
+    end
+ 
+```
 
-The intermediate tubes should be labelled with the sample ID & date
+The intermediate tubes should be labelled with the sample-ID & extraction-ID 
 
 ```
-1Ea 10APR23
+1Ea extr1
 ```
 
-The **FINAL** tube should be labelled with sample-ID, extraction number, date (ddMMMyy), & initials
+The **FINAL** tubes should be labelled with sample-ID, DNA/RNA, extraction-ID, date (ddMMMyy), & initials
 
 ```
 1Ea
+RNA
 extr1
 10APR23
 SST
 ```
 
+⚠️**Important Notes! ⚠️:** 
 
+- **Use [ethanol-proof lab markers](https://www.amazon.com/dp/B09L3Q99WL/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUpaVTc1M0pRMVImZW5jcnlwdGVkSWQ9QTAxMTgzODBJOFI3QlZFQ0pKQUsmZW5jcnlwdGVkQWRJZD1BMDc2MTE0M1ExRUdBSkEwOFBBRiZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) to label tubes.**
+- **Label collection tubes, not filters! **
+- **Always wear lab gloves that have been sterilized before handling tubes!**
+- **Shake tubes out of their bags onto sterilized surface, don't 'reach in' (this reduces potential contamination)**
 
 #### Lab Bench Setup
 
