@@ -1,0 +1,18 @@
+
+label-tube-diagram.jpeg created using the following code in Typora, right-click and save as jpeg on visual output. For some reason does not render to html via Jekyll Minimal Mistakes, and does not render in RStudio Visual Editor so I saved and attached the jpeg instead.
+```mermaid
+flowchart TB
+    intermediate-nuclease-free-tube --> yellow-spin-away-collection-tube
+    
+    subgraph lysis
+    bead-bashing-tube --> intermediate-nuclease-free-tube 
+    end
+    
+    subgraph DNA
+    yellow-spin-away-collection-tube --> new-DNA-collection-tube --> FINAL-DNA-nuclease-free-tube
+    end
+    
+    subgraph RNA
+    yellow-spin-away-collection-tube -- RNA-collection-tube-contents --> green-spin-away-collection-tube --> FINAL-RNA-nuclease-free-tube
+    end
+```
