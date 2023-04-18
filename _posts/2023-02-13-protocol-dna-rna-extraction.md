@@ -136,37 +136,15 @@ Think about how many samples you can process at once, and your kit, centrifuge, 
 
 The samples originate from their 1.5mL cryo-vials, which are labelled with their sample IDs. Since it's important to keep track of which samples were extracted using the same kit, the same reagents, etc...  for batch effects, I will use extraction IDs (extr1, extr2, extr3 , etc.) to label samples that were processed together. 
 
-Each sample will need the following  7 tubes labelled:
+Each sample will need the following  7 tubes (purple labelled:
 
 ![label-7-tubes-diagram]({{ site.url }}{{ site.baseurl }}/assets/images/label-tube-diagram.jpeg)
-
-![label-7-tubes-diagram]({{ site.url }}{{ site.baseurl }}/assets/images/label-tube-diagram.jpeg)
-
-```mermaid
-flowchart TB
-    intermediate-nuclease-free-tube --> yellow-spin-away-collection-tube
-    
-    subgraph lysis
-    bead-bashing-tube --> intermediate-nuclease-free-tube 
-    end
-    
-    subgraph DNA
-    yellow-spin-away-collection-tube --> new-DNA-collection-tube --> FINAL-DNA-nuclease-free-tube
-    end
-    
-    subgraph RNA
-    yellow-spin-away-collection-tube -- RNA-collection-tube-contents --> green-spin-away-collection-tube --> FINAL-RNA-nuclease-free-tube
-    end
-```
 
 The intermediate tubes should be labelled with the sample-ID & extraction-ID 
-
 ```
 1Ea extr1
 ```
-
 The **FINAL** tubes should be labelled with sample-ID, DNA/RNA, extraction-ID, date (ddMMMyy), & initials
-
 ```
 1Ea
 RNA
