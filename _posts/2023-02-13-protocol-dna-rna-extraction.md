@@ -42,11 +42,9 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 ### Materials List
 
-*Extraction Kit* - 
+####  *Extraction Kit* 
 
-- [ ] Zymo Research [Quick-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-rna-miniprep-plus-kit) (50 prep D7003, or 10 prep D7003T)
-
-  *1 prep = 1 sample that results in DNA in one tube, and RNA in another*
+- [ ] Zymo Research [Quick-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-rna-miniprep-plus-kit) (50 prep D7003, or 10 prep D7003T)*1 prep = 1 sample that results in DNA in one tube, and RNA in another*
 
   ​       *includes:*
 
@@ -57,22 +55,23 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
   - [ ] DNA Digestion Buffer
   - [ ] DNA/RNA Shield (2X concentrate)
   - [ ] PK Digestion Buffer
-  - [ ] Proteinase K3 (lyophilized... aka freeze-dried) & Storage Buffer
+  - [ ] Proteinase K3 (lyophilized... aka freeze-dried) 
+  - [ ]  Proteinase K3 Storage Buffer
   - [ ] Spin-Away Filters
   - [ ] Zymo-Spin IIICG Columns
   - [ ] Collection Tubes
-
+  
 - [ ] [ZR BashingBead  Lysis 2mL Tubes with 0.1 & 0.5mm beads](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm), 1 per prep
 
-- [ ] [DNase/RNase-Free Tubes](https://www.zymoresearch.com/products/dnase-rnase-free-tubes), 2 per prep
+- [ ] [DNase/RNase-Free Tubes](https://www.zymoresearch.com/products/dnase-rnase-free-tubes), 3 per prep
 
-*PPE -*
+#### *PPE*
 
 - [ ] nitrile gloves
 - [ ] liquid-nitrogen & cold storage handling gloves
 - [ ] lab coats
 
-*Lab Equipment  -*
+#### *Lab Equipment*
 
 - [ ] 2 lab mortar & pestle sets
   
@@ -112,12 +111,12 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
   - probably best to drive rather than carry a cooler of dry-ice for three blocks
   
 
-*Reagents -* 
+#### *Reagents* 
 
 - [ ] nuclease free ([DEPC-treated](https://www.thermofisher.com/order/catalog/product/4387937#:~:text=DEPC%2Dtreated%20water%20is%20autoclaved,%2C%20exonuclease%2C%20and%20RNase%20activity.)) autoclaved water
 - [ ] 95% (190 proof) - 99.5% (200 proof) ethanol 
 
-*Sterilizing -*
+#### *Sterilizing* 
 
 - [ ]  RNase away in spray-bottle
 
@@ -126,7 +125,7 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 - [ ] DI water in spray-bottle
 - [ ] Kimwipes/paper towels
 
-*Pipettes & Tips*
+#### *Pipettes & Tips*
 
   - [ ] P100 + filtered tips
   - [ ] P200 + filtered tips
