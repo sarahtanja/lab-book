@@ -3,6 +3,10 @@ title: "Dual DNA & RNA Extraction Protocol"
 date: 2023-01-13T00:00:00-00:00
 categories:
   - protocols
+toc: true
+toc_label: "Table of Contents" # default: Content
+toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
+toc_sticky: true   # enables sticky toc
 tags:
   - RNA-seq
   - 16S
@@ -22,17 +26,25 @@ The challenge is lysing the sample enough to get the bacterial DNA (busting open
 
 This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.zymoresearch.com/protocols/_d7003t_d7003_quick-dna-rna_miniprep_plus_kit.pdf) & URI Putnam Lab Emma Strand's notebook post on '[Zymo-Duet-RNA-DNA-Extraction-Protocol](https://emmastrand.github.io/EmmaStrand_Notebook/Zymo-Duet-RNA-DNA-Extraction-Protocol/)', with a few alterations suggested by Zymo tech on [March 28th 2023](https://sarahtanja.github.io/lab-book/blog/daily-log/#28-mar-2023-t) regarding [optimized lysis protocols](https://files.zymoresearch.com/documents/bead_beating_short_protocol_tables.pdf).
 
-##### PreReqs:
+
+
+------
+
+
+
+## Advanced Prep
+
+### Biological Sample Info
 
 - liquid-nitrogen snap-frozen ~3cm *Montipora capitata* coral fragments held at -80°C
 
-##### Background:
+### Background
 
 👀 WATCH ➡️ [Bumbling Biochemist 'Spin column purification of nucleic acids'](https://www.youtube.com/watch?v=Y_-xP60SYe0) on YouTube
 
 👀 WATCH ➡️ [Bumbling Biochemist 'tips for working with DNA/RNA spin columns'](https://www.youtube.com/watch?v=MBnuae5aWg4) on YouTube
 
-##### Materials List:
+### Materials List
 
 *Extraction Kit* - 
 
@@ -121,10 +133,7 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
   - [ ] P1000 + filtered tips
   - [ ] P5000  + tips / 5mL serological pipette 
 
-
----
-
-#### Select Samples
+### Randomize Sample Processing
 
 Make sure to randomize which samples are processed in each batch to reduce 'batch effects'!
 
@@ -132,7 +141,23 @@ See ['Randomize Sample Processing'](https://github.com/sarahtanja/coral-DNA-RNA-
 
 Think about how many samples you can process at once, and your kit, centrifuge, and homogenizer capacity.
 
-#### Label Tubes
+
+
+
+
+------
+
+
+
+## Lab Setup
+
+### Setup Lab Bench 
+
+1.  Set out 
+
+### Sterilize Lab Bench
+
+### Label Tubes
 
 The samples originate from their 1.5mL cryo-vials, which are labelled with their sample IDs. Since it's important to keep track of which samples were extracted using the same kit, the same reagents, etc...  for batch effects, I will use extraction IDs (extr1, extr2, extr3 , etc.) to label samples that were processed together. 
 
@@ -155,16 +180,12 @@ SST
 
 ⚠️**Important Notes! ⚠️:** 
 
-- **Use [ethanol-proof lab markers](https://www.amazon.com/dp/B09L3Q99WL/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUpaVTc1M0pRMVImZW5jcnlwdGVkSWQ9QTAxMTgzODBJOFI3QlZFQ0pKQUsmZW5jcnlwdGVkQWRJZD1BMDc2MTE0M1ExRUdBSkEwOFBBRiZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) to label tubes.**
-- **Label collection tubes, not filters! **
-- **Always wear lab gloves that have been sterilized before handling tubes!**
-- **Shake tubes out of their bags onto sterilized surface, don't 'reach in' (this reduces potential contamination)**
+- ***Use [ethanol-proof lab markers](https://www.amazon.com/dp/B09L3Q99WL/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUpaVTc1M0pRMVImZW5jcnlwdGVkSWQ9QTAxMTgzODBJOFI3QlZFQ0pKQUsmZW5jcnlwdGVkQWRJZD1BMDc2MTE0M1ExRUdBSkEwOFBBRiZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) to label tubes.***
+- ***Label collection tubes, not filters!***
+- ***Always wear lab gloves that have been sterilized before handling tubes!***
+- ***Shake tubes out of their bags onto sterilized surface, don't 'reach in' (this reduces potential contamination)***
 
-#### Lab Bench Setup
-
-#### Sterilize Lab Bench
-
-#### Buffer Preparation
+### Prepare Buffers 
 
 - [ ] If using the 50-prep kit (D7003), add `96 ml 100% ethanol (104 ml 95% ethanol)` to the 24 ml DNA/RNA Wash Buffer concentrate. 
 
@@ -181,7 +202,9 @@ SST
 
 - [ ] To prepare a 1X solution of DNA/RNA Shield™, add an equal volume of nuclease-free water (not provided) to the DNA/RNA Shield™ (2X concentrate) (1:1) and mix well.
 
-#### Sample Preparation
+## Extraction Steps
 
-#### DNA & RNA Purification
+### Prepare Samples
+
+### Purify DNA & RNA
 
