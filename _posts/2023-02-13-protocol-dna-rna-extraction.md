@@ -28,10 +28,6 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 
 
-------
-
-
-
 ## Advanced Prep
 
 ### Biological Sample Info
@@ -106,17 +102,20 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 - [ ] small cooler (for dry ice and samples)
 
-- [ ] dry-ice (Biochemistry Store in hallway adjacent to Room J-014, Health Sciences Building)
+- [ ] ##### dry-ice 
 
+  - Biochemistry Store in hallway adjacent to Room J-014, Health Sciences Building
+  
   - The entrance can be found at the [Health Sciences Building loading dock](https://goo.gl/maps/hYnYcm6EiTHGEE4SA) across NE Boat St. from Saint Bread, NE of the Ocean Sciences Building 
   - must have UW Husky Card to fob-activate doors leading from loading dock and interior hall
   - bring well-insulated foam or hard cooler. First weigh empty cooler, add dry-ice, then weigh again and record final weight, budget#, PI, and name on the clipboard near the dry-ice station
   - probably best to drive rather than carry a cooler of dry-ice for three blocks
+  
 
 *Reagents -* 
 
-- [ ] nuclease free water
-- [ ] 95% (190 proof) - 99.5% (200 proof) ethanol (50 prep D7003)
+- [ ] nuclease free ([DEPC-treated](https://www.thermofisher.com/order/catalog/product/4387937#:~:text=DEPC%2Dtreated%20water%20is%20autoclaved,%2C%20exonuclease%2C%20and%20RNase%20activity.)) autoclaved water
+- [ ] 95% (190 proof) - 99.5% (200 proof) ethanol 
 
 *Sterilizing -*
 
@@ -125,6 +124,7 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 - [ ] 10% bleach in spray-bottle
 - [ ] 70% ethanol in spray-bottle
 - [ ] DI water in spray-bottle
+- [ ] Kimwipes/paper towels
 
 *Pipettes & Tips*
 
@@ -143,12 +143,6 @@ Think about how many samples you can process at once, and your kit, centrifuge, 
 
 
 
-
-
-------
-
-
-
 ## Lab Setup
 
 ### Setup Lab Bench 
@@ -159,17 +153,17 @@ Think about how many samples you can process at once, and your kit, centrifuge, 
 
 ### Label Tubes
 
-The samples originate from their 1.5mL cryo-vials, which are labelled with their sample IDs. Since it's important to keep track of which samples were extracted using the same kit, the same reagents, etc...  for batch effects, I will use extraction IDs (extr1, extr2, extr3 , etc.) to label samples that were processed together. 
+The samples originate from their 1.5mL cryo-vials, which are labelled with their cryo_id. Since it's important to keep track of which samples were extracted using the same kit, the same reagents, the same day, etc.  for batch effects, I will use extraction IDs (extr1, extr2, extr3 , etc.) to label samples that were processed together. 
 
-Each sample will need the following  7 tubes (purple labelled:
+Each sample will need the following  7 tubes labelled:
 
 ![label-7-tubes-diagram]({{ site.url }}{{ site.baseurl }}/assets/images/label-tube-diagram.jpeg)
 
-The intermediate tubes should be labelled with the sample-ID & extraction-ID 
+The intermediate tubes should be labelled with the cryo_id & extraction_id 
 ```
 1Ea extr1
 ```
-The **FINAL** tubes should be labelled with sample-ID, DNA/RNA, extraction-ID, date (ddMMMyy), & initials
+The **FINAL** tubes should be labelled with cryo_id, DNA/RNA, extraction_id, date (ddMMMyy), & initials
 ```
 1Ea
 RNA
@@ -180,10 +174,10 @@ SST
 
 ⚠️**Important Notes! ⚠️:** 
 
-- ***Use [ethanol-proof lab markers](https://www.amazon.com/dp/B09L3Q99WL/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUpaVTc1M0pRMVImZW5jcnlwdGVkSWQ9QTAxMTgzODBJOFI3QlZFQ0pKQUsmZW5jcnlwdGVkQWRJZD1BMDc2MTE0M1ExRUdBSkEwOFBBRiZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) to label tubes.***
-- ***Label collection tubes, not filters!***
-- ***Always wear lab gloves that have been sterilized before handling tubes!***
-- ***Shake tubes out of their bags onto sterilized surface, don't 'reach in' (this reduces potential contamination)***
+- **Use [ethanol-proof lab markers](https://www.amazon.com/dp/B09L3Q99WL/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUpaVTc1M0pRMVImZW5jcnlwdGVkSWQ9QTAxMTgzODBJOFI3QlZFQ0pKQUsmZW5jcnlwdGVkQWRJZD1BMDc2MTE0M1ExRUdBSkEwOFBBRiZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) to label tubes** *(ethanol is added to the green spin away collection tube)*
+- **Label collection tubes, not filters!**
+- **Always wear lab gloves that have been sterilized before handling tubes!**
+- **Shake tubes out of their bags onto sterilized surface, don't 'reach in' (this reduces potential contamination)**
 
 ### Prepare Buffers 
 
@@ -204,7 +198,11 @@ SST
 
 ## Extraction Steps
 
+1. Take [dry-ice](#dry-ice) cooler to -80 freezer,  pull out frozen samples and place them in the dry-ice cooler. Work quickly and carefully to sort through the vials and select the ones that you are working with. Nest the selected sample vials in the dry ice, and return the rest back to the -80 freezer.
+
 ### Prepare Samples
+
+<span style="color:blue">some *blue* text</span>
 
 ### Purify DNA & RNA
 
