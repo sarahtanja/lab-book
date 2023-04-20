@@ -56,7 +56,7 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 - [ ] [ZR BashingBead  Lysis 2mL Tubes with 0.1 & 0.5mm beads](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm), 1 per prep
 
-- [ ] [DNase/RNase-Free Tubes](https://www.zymoresearch.com/products/dnase-rnase-free-tubes), 2 per prep
+- [ ] [DNase/RNase/nuclease-Free Tubes](https://www.zymoresearch.com/products/dnase-rnase-free-tubes), 3 per prep
 
 *PPE -*
 
