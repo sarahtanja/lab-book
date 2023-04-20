@@ -118,11 +118,10 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 #### *Sterilizing* 
 
-- [ ]  RNase away in spray-bottle
-
 - [ ] 10% bleach in spray-bottle
 - [ ] 70% ethanol in spray-bottle
 - [ ] DI water in spray-bottle
+- [ ] RNase away in spray-bottle
 - [ ] Kimwipes/paper towels
 
 #### *Pipettes & Tips*
@@ -146,9 +145,40 @@ Think about how many samples you can process at once, and your kit, centrifuge, 
 
 ### Setup Lab Bench 
 
-1.  Set out 
+Lysing Station
 
-### Sterilize Lab Bench
+- mortars & pestles
+- Mortexer
+
+Purification Station
+
+- centrifuge
+- vortexer
+
+### Sterilize 
+
+1. Don lab coat 🥼 & tie hair back , glove up 🧤
+
+2. Spray down `benchtop`, `microcentrifuge tube racks`, `pipettes`, and `pipette tip boxes` with: 
+
+   - `10% bleach` in spray-bottle, then wipe with Kimwipe
+
+   - `DI water` in spray-bottle, then wipe with Kimwipe
+
+   - `70% ethanol`in spray-bottle, then wipe with Kimwipe
+
+3. Spray down `mortars & pestles` , `scoopulas`, and `forceps` with:
+
+   - `10% bleach` in spray-bottle, then wipe with Kimwipe
+
+   - `DI water` in spray-bottle, then wipe with Kimwipe
+
+   - `70% ethanol` in spray-bottle, then wipe with Kimwipe
+   - `RNase away` in spray-bottle, then wipe with Kimwipe
+
+4. Spray Kimwipe with `RNase away` and wipe down equipment buttons/handles/surfaces that may have been touched by ungloved hands
+
+5. Spray `RNase away`on gloves and rub hands together
 
 ### Label Tubes
 
@@ -158,11 +188,9 @@ Each sample will need the following  7 tubes labelled:
 
 ![label-7-tubes-diagram]({{ site.url }}{{ site.baseurl }}/assets/images/label-tube-diagram.jpeg)
 
-The intermediate tubes should be labelled with the cryo_id & extraction_id 
-```
-1Ea extr1
-```
-The **FINAL** tubes should be labelled with cryo_id, DNA/RNA, extraction_id, date (ddMMMyy), & initials
+The intermediate tubes should be labelled with the `cryo_id` & `extraction_id` , such as: `1Ea extr1`
+The **FINAL** tubes should be labelled with `cryo_id`, `DNA/RNA`, `extraction_id`, `date (ddMMMyy)`, & `initials`, such as:
+
 ```
 1Ea
 RNA
@@ -170,7 +198,6 @@ extr1
 10APR23
 SST
 ```
-
 ⚠️**Important Notes! ⚠️:** 
 
 - **Use [ethanol-proof lab markers](https://www.amazon.com/dp/B09L3Q99WL/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUpaVTc1M0pRMVImZW5jcnlwdGVkSWQ9QTAxMTgzODBJOFI3QlZFQ0pKQUsmZW5jcnlwdGVkQWRJZD1BMDc2MTE0M1ExRUdBSkEwOFBBRiZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) to label tubes** *(ethanol is added to the green spin away collection tube)*
@@ -183,25 +210,40 @@ SST
 - [ ] If using the 50-prep kit (D7003), add `96 ml 100% ethanol (104 ml 95% ethanol)` to the 24 ml DNA/RNA Wash Buffer concentrate. 
 
   ​		*If using the 10-prep kit, DNA/RNA Wash Buffer (D7003T) is supplied ready-to-use and does not require the addition of ethanol.*
-- [ ] Reconstitute lyophilized DNase I with `DNase/RNase-Free Water` and mix by gentle inversion. Use immediately or store frozen aliquots. 
+- [ ] Reconstitute `lyophilized DNase I` with `DNase/RNase-Free Water` and mix by gentle inversion. Use immediately or store frozen aliquots. 
 
   - [ ] 50-prep, add 275 µl water 
   - [ ] 10-prep, add 55 µl water 
 
-- [ ] Reconstitute lyophilized Proteinase K at 20 mg/ml with Proteinase K Storage Buffer and mix by vortexing. Use immediately or store frozen aliquots. 
+- [ ] Reconstitute `lyophilized Proteinase K` at 20 mg/ml with `Proteinase K Storage Buffer` and mix by vortexing. Use immediately or store frozen aliquots. 
 
   - [ ] 50-prep, (60 mg), add 3.12 ml buffer 
   - [ ] 10-prep, (5 mg), add 0.26 ml buffer 
 
-- [ ] To prepare a 1X solution of DNA/RNA Shield™, add an equal volume of nuclease-free water (not provided) to the DNA/RNA Shield™ (2X concentrate) (1:1) and mix well.
+- [ ] To prepare a 1X solution of `DNA/RNA Shield™`, add an equal volume of `nuclease-free water` (not provided) to the `DNA/RNA Shield™` (2X concentrate) (1:1) and mix with a quick pulse on the vortexer.
 
 ## Extraction Steps
 
-1. Take [dry-ice](#dry-ice) cooler to -80 freezer,  pull out frozen samples and place them in the dry-ice cooler. Work quickly and carefully to sort through the vials and select the ones that you are working with. Nest the selected sample vials in the dry ice, and return the rest back to the -80 freezer.
-
 ### Prepare Samples
 
-<span style="color:blue">some *blue* text</span>
+1. Take [dry-ice](#dry-ice) cooler to -80 freezer,  pull out frozen samples and place them in the dry-ice cooler. Work quickly and carefully to sort through the vials and select the ones that you are working with. Nest the selected sample vials in the dry ice, and return the rest back to the -80 freezer. Bring working samples on dry-ice back to the lab bench.
+
+2. Don cryo-gloves over nitrile gloves and ⚠️carefully⚠️ dispense a small amount (no more than 1L) of liquid nitrogen (LN2) into the transfer thermos. **Everyone working with LN2 should have taken the Liquid Nitrogen Online Safety Course found [HERE](https://www.ehs.washington.edu/training/liquid-nitrogen-safety)**
+
+3. Grind each sample with mortar & pestle on LN2 -
+
+   1. Pour a small amount of LN2 into a [sterilized](#sterilize) mortar
+   2. Using  [sterilized](#sterilize) forceps, pluck out coral fragments from the cryo vial and place in the mortar until you have as much material as about the size of an M&M (roughly a 16mm diameter sphere). Material amount does not have to be precise. 
+   3. Pestle the coral fragment until it is ground to a powder. Work quickly to ensure the sample remains frozen. Add more LN2 if needed. 
+   4. Use  [sterilized](#sterilize) scoopula to transfer the sample powder to its correspondingly labelled [bead bashing tube](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm). **Tip: ** *The transfer is easiest when done with a small funnel made from lab weigh-paper and label tape.*
+
+   ![mortar-transfer-diagram]({{ site.url }}{{ site.baseurl }}/assets/images/funnel.png)
+
+<span style="color:#E4D00A">some *citrine* text</span>
+<span style="color:#93C572">some *pistachio* text</span>
+
+<span style="background-color:#E4D00A">This text is highlighted in citrine.</span>
+<span style="background-color:#93C572">This text is highlighted in pistachio.</span>
 
 ### Purify DNA & RNA
 
