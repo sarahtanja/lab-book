@@ -61,7 +61,11 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
 
 ![qbit ]({{ site.url }}{{ site.baseurl }}/assets/images/qbit-quick.png)*infographic sourced from [Qubit RNA Broad Range (BR) Assay Kit Quick Reference](https://www.thermofisher.com/document-connect/document-connect.html?url=https://assets.thermofisher.com/TFS-Assets%2FLSG%2Fmanuals%2FQRC10210.pdf)*
 
-### Step 1. Set up 2 assay tubes for the standards and 1 tube for each sample
+### Advanced Prep
+
+Thaw samples, or aliquots of sample, on ice. Only 1uL is needed from the sample to run Qubit. This tiny amount is prone to pipetting error, which can be influenced by temperature. Make sure the aliquot you are pulling 1uL from is well thawed. 
+
+### Set up 2 assay tubes for the standards and 1 tube for each sample
 
 - [ ] label assay tube lids
 
@@ -75,10 +79,10 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
 
 ### Step 2. Prepare Working Solution
 
-**tldr:** For 8 samples and 2 standards, you will need 2mL of working solution, to prepare it in a 1:200 dilution of dye-reagent to buffer, pipette 10uL of Qubit dye-reagent plus 1990uL of Qubit buffer into a 15mL falcon tube, cap & invert to mix.
+**tldr:** For 8 samples and 2 standards, you will need 2mL of working solution, to prepare it in a 1:200 dilution of dye-reagent to buffer, pipette 10uL of Qubit dye-reagent plus 1,990uL of Qubit buffer into a 15mL falcon tube, cap & invert to mix.
 {: .notice--success}
 
-- [ ] calculate volume of working solution you need
+- [ ] calculate volume of working solution you need --> **( 2 x 190uL ) +  (no. of samples x 199uL)** *(ex. 2 x 190uL + 8 x 199uL) = 1,972uL round up to 2ml*
 
   > standard #1 - 190uL working solution, 10uL standard
   >
@@ -93,20 +97,18 @@ The Qubit allows us to measure RNA integrity & quality (IQ) extracted in our sam
   > .. etc.
   >
   
-  $$
-  2*190uL + no. of samples *199uL = Working-Solution-Volume
-  $$
 
-**Note:** The final volume in each tube must be 200 µL. Each standard tube requires 190 µL of Qubit™ working solution, and each sample tube requires anywhere from 180–199 µL. Ensure that you have sufficient Qubit™ working solution to accommodate all standards and samples, with a little 'extra'. For example, to prepare enough working solution for 2 standards and 8 samples: $ 2*190uL + 8*199uL = 1972uL = 1.972mL \approx 2mL $
-{: .notice--info}
+- [ ] The working solution is 1 part dye-reagent to 200 parts buffer
 
-- [ ] calculate a 1:200 dilution of dye-reagent to buffer
+  - calculate a 1:200 dilution of dye-reagent to buffer
 
-  - Divide working solution volume in uL by 200 to find volume in uL of dye-reagent, then subtract volume in uL of dye-reagent from working solution volume to get buffer volume. 
+  - divide working solution volume (uL) by 200 to find volume (uL) of dye-reagent *(ex. 2000uL / 200 = 10uL dye-reagent)*
+  - subtract volume (uL) of dye-reagent from working solution volume to get buffer volume. *(ex. 2000uL - 10uL = 1990uL buffer)*
 
-  - For a 2mL volume, a 1:200 dilution of dye-reagent:buffer would be 10uL of Qubit dye-reagent plus 1990uL of Qubit buffer.
+- [ ] take 15mL falcon tube, add above volumes of dye-reagent and buffer to make the final working solution volume. Cap & invert falcon tube to mix. 
 
-- [ ] take 15mL falcon tube, dilute above volumes of dye-reagent with buffer to get the final working solution volume. Cap & invert falcon tube to mix. 
+  **Note:** The final volume in each tube must be 200 µL. Each standard tube requires 190 µL of Qubit™ working solution, and each sample tube requires anywhere from 180–199 µL. Ensure that you have sufficient Qubit™ working solution to accommodate all standards and samples, with a little 'extra'. 
+  {: .notice--info}
 
 ### Step 3. Pipette Working Solution, Standards, & Samples into assay tubes
 

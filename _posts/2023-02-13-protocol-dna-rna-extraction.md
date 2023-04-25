@@ -45,7 +45,7 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 ####  *Extraction Kit* 
 
 - [ ] Zymo Research [Quick-DNA/RNA Miniprep Plus Kit](https://www.zymoresearch.com/products/quick-dna-rna-miniprep-plus-kit) (50 prep D7003, or 10 prep D7003T)*1 prep = 1 sample that results in DNA in one tube, and RNA in another*
-*includes:*
+  *includes:*
   - [ ] DNA/RNA Lysis Buffer
   - [ ] DNA/RNA Prep Buffer
   - [ ] DNase/RNase-Free Water
@@ -214,7 +214,7 @@ SST
 
 ## Extraction Steps
 
-### Prepare Samples
+### Mechanically Lyse Samples
 
 1. Take [dry-ice](#dry-ice) cooler to -80 freezer,  pull out frozen samples and place them in the dry-ice cooler. Work quickly and carefully to sort through the vials and select the ones that you are working with. Nest the selected sample vials in the dry ice, and return the rest back to the -80 freezer. Bring working samples on dry-ice back to the lab bench.
 
@@ -224,7 +224,7 @@ SST
 
    1. Pour a small amount of LN2 into a [sterilized](#sterilize) mortar
    2. Using  [sterilized](#sterilize) forceps, pluck out coral fragments from the cryo vial and place in the mortar until you have as much material as about the size of an M&M (roughly a 16mm diameter sphere). Material amount does not have to be precise. 
-   3. Pestle the coral fragment until it is ground to a powder. Work quickly to ensure the sample remains frozen. Add more LN2 if needed. 
+   3. Pestle the coral fragment until it is ground to a powder. Work quickly to ensure the sample remains frozen. Add more LN2 when it evaporates from the mortar. 
    4. Use  [sterilized](#sterilize) scoopula to transfer the sample powder to its correspondingly labelled [bead bashing tube](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm). **Tip: ** *The transfer is easiest when done with a small funnel made from lab weigh-paper and label tape.*
 
    ![mortar-transfer-diagram]({{ site.url }}{{ site.baseurl }}/assets/images/funnel.png)
@@ -236,4 +236,17 @@ SST
 <span style="background-color:#93C572">This text is highlighted in pistachio.</span>
 
 ### Purify DNA & RNA
+
+## End Products
+
+The end products are two 1.5mL vials per sample that contain:
+
+1. 100ul of DNA in nuclease-free water 
+2. 100ul of RNA in nuclease-free water. 
+
+Place these vials on ice and for RNA proceed with [Qubit RNA Broad Range Protocol](https://sarahtanja.github.io/lab-book/protocols/protocol-qbit/) , for DNA proceed with Nanodrop DNA 
+
+OR, to continue lab-work later, 
+
+ Place them in a wax freezer box, label the box, and freeze them in the -80C. 
 
