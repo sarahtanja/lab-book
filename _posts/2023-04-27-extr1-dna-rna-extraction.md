@@ -80,7 +80,7 @@ Samples are stored in -80C 'sucks' freezer in respective `Eluted-DNA` or `Eluted
     
     2. Using  [sterilized](#sterilize) forceps, pluck out coral fragments from the cryo vial and place in the mortar until you have as much material as about the size of a single shelled peanut. 
     
-       <iframe src="https://64.media.tumblr.com/tumblr_lzjqxk7t0K1qjhjdwo1_500.gifv" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://64.media.tumblr.com/tumblr_lzjqxk7t0K1qjhjdwo1_500.gifv">via GIPHY</a></p>
+![ pirates-jack-sparrow-in-davy-jones-locker-with-a-single-peanut]https://64.media.tumblr.com/tumblr_lzjqxk7t0K1qjhjdwo1_500.gifv
     
     3. Pestle the coral fragment until it is ground to a powder. Work quickly to ensure the sample remains frozen. Add more LN2 when it evaporates from the mortar. 
 
