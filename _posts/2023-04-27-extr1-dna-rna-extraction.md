@@ -84,8 +84,7 @@ Samples are stored in -80C 'sucks' freezer in respective `Eluted-DNA` or `Eluted
 ![ pirates-jack-sparrow-in-davy-jones-locker-with-a-single-peanut](https://64.media.tumblr.com/tumblr_lzjqxk7t0K1qjhjdwo1_500.gifv)
     
 3. Pestle the coral fragment until it is ground to a powder. Work quickly to ensure the sample remains frozen. Add more LN2 when it evaporates from the mortar. 
-
-   ![mortar-and-pestle-with-cryogloves]({{ site.url }}{{ base.url  }}/assets/thesis-labwork/PXL_20230421_213402619.jpg)
+4. ![mortar-and-pestle-with-cryogloves]({{ site.url }}{{ base.url }}/assets/thesis-labwork/PXL_20230421_213402619.jpg)
 
 This step is challenging! LN2 evaporates very quickly and had to  be replenished multiple times. We did this best  with two people (NAH to grind, SST to carefully dispense LN2). The coral is also very hard and prone to 'squirting out' from under the pestle, much like the gif of the peanut above! This happened to sample 3-Ea, and half of the material shot out of the mortar and ended up on the floor, resulting in less starting material. This could be a reason why 3-Ea had 'out of range, too low' result for Qubit!
 {: .notice--warning}
@@ -97,7 +96,10 @@ This step is challenging! LN2 evaporates very quickly and had to  be replenished
 Finely ground powder melts fast and the cold from the LN2 means that all the moisture in the lab is condensing on the sample. As soon as it is removed from the mortar by the scoopula it begins to melt, condense water vapor, and turn into a sticky booger! It doesn't slide nice and dry down the paper funnel. We had to tamp it vigorously to get it into the bead bashing tube. We will probably modify protocol next time to first chill the scoopulas on dry-ice, and use a small metal funnel chilled on dry-ice, to keep the powder cold during the transfer from the mortar to inside the bead bashing tube. 
 {: .notice--warning}
 
-- [x] Once sample powder is in the bead bashing tube,  quickly added `750uL` of `DNA/RNA Sheild` to the bead bashing tube & inverted to mix
+- [x] Once sample powder is in the bead bashing tube,  quickly added `750uL` of `DNA/RNA Sheild` to the bead bashing tube & vortexed to mix down
+
+  In hindsight this was too much volume for the bead bashing tube!  After bead beating tube was very very bubbly! And so full, that liquid was leaking out Will use `500uL` in fture extractions
+  {: .notice--warning}
 
 
 
