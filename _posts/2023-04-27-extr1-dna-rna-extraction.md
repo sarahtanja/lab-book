@@ -85,7 +85,7 @@ Samples are stored in -80C 'sucks' freezer in respective `Eluted-DNA` or `Eluted
     
 3. Pestle the coral fragment until it is ground to a powder. Work quickly to ensure the sample remains frozen. Add more LN2 when it evaporates from the mortar. 
 
-   ![]({{ site.url }} {{ base.url  }}\assets\thesis-labwork\PXL_20230421_213402619.jpg)
+   ![mortar-and-pestle-with-cryogloves]({{ site.url }}{{ base.url  }}/assets/thesis-labwork/PXL_20230421_213402619.jpg)
 
 This step is challenging! LN2 evaporates very quickly and had to  be replenished multiple times. We did this best  with two people (NAH to grind, SST to carefully dispense LN2). The coral is also very hard and prone to 'squirting out' from under the pestle, much like the gif of the peanut above! This happened to sample 3-Ea, and half of the material shot out of the mortar and ended up on the floor, resulting in less starting material. This could be a reason why 3-Ea had 'out of range, too low' result for Qubit!
 {: .notice--warning}
