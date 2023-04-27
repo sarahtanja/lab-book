@@ -74,25 +74,31 @@ Samples are stored in -80C 'sucks' freezer in respective `Eluted-DNA` or `Eluted
 
 - [x] Don cryo-gloves over nitrile gloves and ⚠️carefully⚠️ dispense a small amount (no more than 1L) of liquid nitrogen (LN2) into the transfer thermos. **Everyone working with LN2 should have taken the Liquid Nitrogen Online Safety Course found [HERE](https://www.ehs.washington.edu/training/liquid-nitrogen-safety)**
 
-- [x] Grind each sample with mortar & pestle on LN2 -
+- [x] One at a time, grind each sample with mortar & pestle on LN2 -
 
     1. ⚠️carefully⚠️ pour a small amount of LN2 into a [sterilized](#sterilize) mortar
     
     2. Using  [sterilized](#sterilize) forceps, pluck out coral fragments from the cryo vial and place in the mortar until you have as much material as about the size of a single shelled peanut. 
     
+
 ![ pirates-jack-sparrow-in-davy-jones-locker-with-a-single-peanut]https://64.media.tumblr.com/tumblr_lzjqxk7t0K1qjhjdwo1_500.gifv
     
-    3. Pestle the coral fragment until it is ground to a powder. Work quickly to ensure the sample remains frozen. Add more LN2 when it evaporates from the mortar. 
+3. Pestle the coral fragment until it is ground to a powder. Work quickly to ensure the sample remains frozen. Add more LN2 when it evaporates from the mortar. 
+
+   ![]({{ site.url }} {{ base.url  }}\assets\thesis-labwork\PXL_20230421_213402619.jpg)
 
 This step is challenging! LN2 evaporates very quickly and had to  be replenished multiple times. We did this best  with two people (NAH to grind, SST to carefully dispense LN2). The coral is also very hard and prone to 'squirting out' from under the pestle, much like the gif of the peanut above! This happened to sample 3-Ea, and half of the material shot out of the mortar and ended up on the floor, resulting in less starting material. This could be a reason why 3-Ea had 'out of range, too low' result for Qubit!
 {: .notice--warning}
 
-  4. Use  [sterilized](#sterilize) scoopula to transfer the sample powder to its correspondingly labelled [bead bashing tube](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm). **Tip: ** *we made a small funnel made from lab weigh-paper and label tape to try and make this easier.*
+- [x] Use  [sterilized](#sterilize) scoopula to transfer the sample powder to its correspondingly labelled [bead bashing tube](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm). *We made a small funnel made from lab weigh-paper and label tape to try and make this easier.*
 
 ![mortar-transfer-diagram]({{ site.url }}{{ site.baseurl }}/assets/images/funnel.png)
 
 Finely ground powder melts fast and the cold from the LN2 means that all the moisture in the lab is condensing on the sample. As soon as it is removed from the mortar by the scoopula it begins to melt, condense water vapor, and turn into a sticky booger! It doesn't slide nice and dry down the paper funnel. We had to tamp it vigorously to get it into the bead bashing tube. We will probably modify protocol next time to first chill the scoopulas on dry-ice, and use a small metal funnel chilled on dry-ice, to keep the powder cold during the transfer from the mortar to inside the bead bashing tube. 
 {: .notice--warning}
+
+- [x] Once sample powder is in the bead bashing tube,  quickly added `750uL` of `DNA/RNA Sheild` to the bead bashing tube & inverted to mix
+
 
 
 <span style="color:#E4D00A">some *citrine* text</span>
@@ -100,6 +106,8 @@ Finely ground powder melts fast and the cold from the LN2 means that all the moi
 
 <span style="background-color:#E4D00A">This text is highlighted in citrine.</span>
 <span style="background-color:#93C572">This text is highlighted in pistachio.</span>
+
+
 
 ### Purify DNA & RNA
 
