@@ -8,8 +8,6 @@ toc_label: "Table of Contents" # default: Content
 toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true   # enables sticky toc
 tags:
-  - RNA-seq
-  - 16S
   - DNA extraction
   - RNA extraction
 ---
@@ -25,6 +23,8 @@ The benefits of doing DNA and RNA extraction together are that it saves time, mo
 The challenge is lysing the sample enough to get the bacterial DNA (busting open all those layers of cell membranes!) and retaining host (coral) RNA integrity. 
 
 This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.zymoresearch.com/protocols/_d7003t_d7003_quick-dna-rna_miniprep_plus_kit.pdf) & URI Putnam Lab Emma Strand's notebook post on '[Zymo-Duet-RNA-DNA-Extraction-Protocol](https://emmastrand.github.io/EmmaStrand_Notebook/Zymo-Duet-RNA-DNA-Extraction-Protocol/)', with a few alterations suggested by Zymo tech on [March 28th 2023](https://sarahtanja.github.io/lab-book/blog/daily-log/#28-mar-2023-t) regarding [optimized lysis protocols](https://files.zymoresearch.com/documents/bead_beating_short_protocol_tables.pdf).
+
+📞Zymo is very responsive to phone calls! Any questions on the kit you can call **888-882-9682** and reference catalog number **D7003** to ask technical questions galore. 
 
 
 
@@ -68,11 +68,16 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 - [ ] lab coats
 
 #### *Lab Equipment*
-- [ ] 2 lab mortar & pestle sets
-- [ ] small liquid-nitrogen thermos (1L)
-- [ ] weigh paper
+- [ ] [ethanol-proof lab markers](https://www.amazon.com/dp/B09L3Q99WL/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUpaVTc1M0pRMVImZW5jcnlwdGVkSWQ9QTAxMTgzODBJOFI3QlZFQ0pKQUsmZW5jcnlwdGVkQWRJZD1BMDc2MTE0M1ExRUdBSkEwOFBBRiZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+
+- [ ]  [1.5mL microcentrifuge tube racks](https://www.southernlabware.com/80-well-micro-tube-racks-assorted-5-pacl.html?gclid=CjwKCAiAjPyfBhBMEiwAB2CCIkxZXHoOz72MNKvsWFcKscbsG8H5wIyMEw974wfKSvbU2W5a4Tk2IRoCBtEQAvD_BwE) 
+
+- [ ] lab mortar & pestle sets
+
 - [ ] lab label tape
+
 - [ ] centrifuge
+
 - [ ]Beckman Coulter Microfuge 16](https://www.beckman.com/landing/ppc/cent/benchtop/microcentrifuges?utm_source=google&utm_medium=cpc&utm_term=microcentrifuge&gclid=CjwKCAjw586hBhBrEiwAQYEnHYq-F4WNopG5rWYG4Bb0YjPlfXL7pVCESNmTwqyT6Cgxty-Si8AAdhoC8I0QAvD_BwE) 
   
 - [ ] mortexer / homogenizer
@@ -83,11 +88,9 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
   - Vortex Genie 2 with [Horizontal Microtube Holder](https://www.zymoresearch.com/products/horizontal-microtube-holder) (recommended by [Zymo optimized lysis protocols](https://files.zymoresearch.com/documents/bead_beating_short_protocol_tables.pdf))
 
-- [ ] 100mL graduated cylinder
+- [ ] liquid-nitrogen (stored in dewer or tank)
 
-- [ ] [ethanol-proof lab markers](https://www.amazon.com/dp/B09L3Q99WL/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUpaVTc1M0pRMVImZW5jcnlwdGVkSWQ9QTAxMTgzODBJOFI3QlZFQ0pKQUsmZW5jcnlwdGVkQWRJZD1BMDc2MTE0M1ExRUdBSkEwOFBBRiZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
-
-- [ ] 5 [1.5mL microcentrifuge tube racks](https://www.southernlabware.com/80-well-micro-tube-racks-assorted-5-pacl.html?gclid=CjwKCAiAjPyfBhBMEiwAB2CCIkxZXHoOz72MNKvsWFcKscbsG8H5wIyMEw974wfKSvbU2W5a4Tk2IRoCBtEQAvD_BwE) 
+- [ ] small liquid-nitrogen thermos (1L)
 
 - [ ] small cooler (for dry ice and samples)
 
@@ -116,10 +119,10 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 #### *Pipettes & Tips*
 
-  - [ ] P100 + filtered tips
-  - [ ] P200 + filtered tips
-  - [ ] P1000 + filtered tips
-  - [ ] P5000  + tips / 5mL serological pipette 
+  - [ ] P10 + filtered tips *DNase/RNase free*
+  - [ ] P100 + filtered tips *DNase/RNase free*
+  - [ ] P1000 + filtered tips *DNase/RNase free*
+  - [ ] P5000  + tips (for buffer prep)
 
 ### Randomize Sample Processing
 
@@ -132,18 +135,6 @@ Think about how many samples you can process at once, and your kit, centrifuge, 
 
 
 ## Lab Setup
-
-### Setup Lab Bench 
-
-Lysing Station
-
-- mortars & pestles
-- Mortexer
-
-Purification Station
-
-- centrifuge
-- vortexer
 
 ### Sterilize 
 
@@ -170,15 +161,39 @@ Purification Station
 
 5. Spray `RNase away`on gloves and rub hands together
 
+### Arrange Lab Bench
+
+This extraction protocol can be split into two main phases: 1. lysing and 2. purification. I setup the lab bench with each phase occupying a station on the bench, with materials used in each phase arranged accordingly. Make sure you have trash, pipette disposal, and waste disposal containers within easy reach of the workstation.
+
+Lysing Station
+
+- liquid nitrogen dewer
+- dry-ice bucket with samples
+
+- mortars & pestles
+- Mortexer
+
+Purification Station
+
+- centrifuge
+- microcentrifuge tube racks 
+
 ### Label Tubes
 
-The samples originate from their 1.5mL cryo-vials, which are labelled with their cryo_id. Since it's important to keep track of which samples were extracted using the same kit, the same reagents, the same day, etc.  for batch effects, I will use extraction IDs (extr1, extr2, extr3 , etc.) to label samples that were processed together. 
+The samples originate from their 1.5mL cryo-vials, which are labelled with their cryo_id. Since it's important to keep track of which samples were extracted using the same kit, the same reagents, the same day, etc.  for batch effects, I use extraction IDs (extr1, extr2, extr3 , etc.) to label samples that were processed together. 
 
 Each sample will need the following  7 tubes labelled:
 
 ![label-7-tubes-diagram]({{ site.url }}{{ site.baseurl }}/assets/images/label-tube-diagram.jpeg)
 
-The intermediate tubes should be labelled with the `cryo_id` & `extraction_id` , such as: `1Ea extr1`
+You can also label an additional qubit tube if you are moving straight from extraction to quantification. 
+
+>  Only thin-wall, clear 0.5 mL PCR tubes are appropriate for use in the Qubit® fluorometer. Acceptable tubes include **[Qubit® assay tubes](https://www.thermofisher.com/order/catalog/product/Q32856?gclid=CjwKCAjwuqiiBhBtEiwATgvixAYKxw1FwdqIxIiPSxZ-ngW738s6bl94L2cdLCFjXfosHgMX1hyAShoCv9cQAvD_BwE&ef_id=CjwKCAjwuqiiBhBtEiwATgvixAYKxw1FwdqIxIiPSxZ-ngW738s6bl94L2cdLCFjXfosHgMX1hyAShoCv9cQAvD_BwE:G:s&s_kwcid=AL!3652!3!529745253294!p!!g!!qubit%20tubes!7851124045!80648205054&cid=bid_pca_aqb_r01_co_cp1359_pjt0000_bid00000_0se_gaw_bt_pur_con) (Invitrogen Cat.** **no.** **Q32856, 500 tubes) or [Axygen PCR-05-C tubes](https://us.vwr.com/store/product?keyword=10011-830)(VWR, part number 10011-830)**.
+
+The qubit tube should only be labelled on the top; the sides should be clear so that the qubit fluorescence can be  read without impedance.
+
+The intermediate tubes and qubit tubes should be labelled with the `cryo_id` & `extraction_id` , such as: `1Ea extr1`. 
+
 The **FINAL** tubes should be labelled with `cryo_id`, `DNA/RNA`, `extraction_id`, `date (ddMMMyy)`, & `initials`, such as:
 
 ```
@@ -188,7 +203,7 @@ extr1
 10APR23
 SST
 ```
-⚠️**Important Notes! ⚠️:** 
+⚠️**Important Notes! ⚠️**
 
 - **Use [ethanol-proof lab markers](https://www.amazon.com/dp/B09L3Q99WL/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWUpaVTc1M0pRMVImZW5jcnlwdGVkSWQ9QTAxMTgzODBJOFI3QlZFQ0pKQUsmZW5jcnlwdGVkQWRJZD1BMDc2MTE0M1ExRUdBSkEwOFBBRiZ3aWRnZXROYW1lPXNwX2hxcF9zaGFyZWQmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) to label tubes** *(ethanol is added to the green spin away collection tube)*
 - **Label collection tubes, not filters!**
@@ -208,9 +223,9 @@ SST
 - [ ] Reconstitute `lyophilized Proteinase K` at 20 mg/ml with `Proteinase K Storage Buffer` and mix by vortexing. Use immediately or store frozen aliquots. 
 
   - [ ] 50-prep, (60 mg), add 3.12 ml buffer 
-  - [ ] 10-prep, (5 mg), add 0.26 ml buffer 
+  - [ ] 10-prep, (5 mg), add 0.26 ml (260 ul) buffer 
 
-- [ ] To prepare a 1X solution of `DNA/RNA Shield™`, add an equal volume of `nuclease-free water` (not provided) to the `DNA/RNA Shield™` (2X concentrate) (1:1) and mix with a quick pulse on the vortexer.
+- [ ] To prepare a 1X solution of `DNA/RNA Shield™`, add an equal volume (5mL for the whole solution) of `nuclease-free water` (not provided) to the `DNA/RNA Shield™` (2X concentrate) (1:1) and mix with a quick pulse on the vortexer.
 
 ## Extraction Steps
 
@@ -218,16 +233,40 @@ SST
 
 1. Take [dry-ice](#dry-ice) cooler to -80 freezer,  pull out frozen samples and place them in the dry-ice cooler. Work quickly and carefully to sort through the vials and select the ones that you are working with. Nest the selected sample vials in the dry ice, and return the rest back to the -80 freezer. Bring working samples on dry-ice back to the lab bench.
 
-2. Don cryo-gloves over nitrile gloves and ⚠️carefully⚠️ dispense a small amount (no more than 1L) of liquid nitrogen (LN2) into the transfer thermos. **Everyone working with LN2 should have taken the Liquid Nitrogen Online Safety Course found [HERE](https://www.ehs.washington.edu/training/liquid-nitrogen-safety)**
 
-3. Grind each sample with mortar & pestle on LN2 -
+> 2. Don cryo-gloves over nitrile gloves and ⚠️carefully⚠️ dispense a small amount (no more than 1L) of liquid nitrogen (LN2) into the transfer thermos. **Everyone working with LN2 should have taken the Liquid Nitrogen Online Safety Course found [HERE](https://www.ehs.washington.edu/training/liquid-nitrogen-safety)**
+>
+> 3. Grind each sample with mortar & pestle on LN2 -
+>
+>    1. ⚠️carefully⚠️ pour a small amount of LN2 into a [sterilized](#sterilize) mortar
+>    2. Using  [sterilized](#sterilize) forceps, pluck out coral fragments from the cryo vial and place in the mortar until you have as much material as about the size of an M&M (roughly a 16mm diameter sphere). Material amount does not have to be precise. 
+>    3. Pestle the coral fragment until it is ground to a powder. Work quickly to ensure the sample remains frozen. Add more LN2 when it evaporates from the mortar. This step is challenging! LN2 evaporates very quickly and must be replenished multiple times. 
+>    4. Use  [sterilized](#sterilize) scoopula to transfer the sample powder to its correspondingly labelled [bead bashing tube](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm). **Tip: ** *The transfer is easiest when done with a small funnel made from lab weigh-paper and label tape.*
+>
+>    ![mortar-transfer-diagram]({{ site.url }}{{ site.baseurl }}/assets/images/funnel.png)
+>
 
-   1. Pour a small amount of LN2 into a [sterilized](#sterilize) mortar
-   2. Using  [sterilized](#sterilize) forceps, pluck out coral fragments from the cryo vial and place in the mortar until you have as much material as about the size of an M&M (roughly a 16mm diameter sphere). Material amount does not have to be precise. 
-   3. Pestle the coral fragment until it is ground to a powder. Work quickly to ensure the sample remains frozen. Add more LN2 when it evaporates from the mortar. 
-   4. Use  [sterilized](#sterilize) scoopula to transfer the sample powder to its correspondingly labelled [bead bashing tube](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm). **Tip: ** *The transfer is easiest when done with a small funnel made from lab weigh-paper and label tape.*
 
-   ![mortar-transfer-diagram]({{ site.url }}{{ site.baseurl }}/assets/images/funnel.png)
+
+OR.. alternate protocol according to Putnam Lab Members [Kevin Wong Porites Extractions](https://kevinhwong1.github.io/KevinHWong_Notebook/20201027-DNA-RNA-Extractions-Porites-July-Bleaching-Experiment/) and  [M.E. Schedl's Porites Extractions ](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/porites-zymo-rna/)...
+
+
+
+> 2. Add 500uL of RNA/DNA shield into each bead bashing tube
+> 3. Using sterile forceps, add 0.25mm of coral fragment directly to bead bashing tube
+> 4. Vortex at max speed for 2 minutes
+> 5. Remove 400 μl of the supernatant and transfer to a new centrifuge tube
+> 6. Centrifuge at 9000 rcf for 3 minutes
+> 7. Transfer 300 μl supernatant to a new centrifuge tube and discard the old tube with pellet
+> 8. Add 30 μl of Proteinase K digestion buffer (10:1 ratio of sample:digestion buffer), and > 15 μl of Proteinase K (2:1 ratio of digestion buffer:Proteinase K) to each sample
+> 9. Vortex to spin down
+> 10. Add 345 μl of lysis buffer
+
+
+
+
+
+
 
 <span style="color:#E4D00A">some *citrine* text</span>
 <span style="color:#93C572">some *pistachio* text</span>
