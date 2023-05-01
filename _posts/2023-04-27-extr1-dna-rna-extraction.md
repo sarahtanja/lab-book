@@ -111,7 +111,9 @@ In hindsight this was too much volume for the bead bashing tube!  After bead bea
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/thesis-labwork/PXL_20230421_214010536.jpg)
 
-- [x] Centrifuged at max-speed (16,160xg)   
+## 
+
+- [x] Centrifuged at max-speed (16,160xg) for 30 seconds  
 
 ![]()
 

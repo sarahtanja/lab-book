@@ -40,6 +40,8 @@ This protocol relies heavily on the Zymo Research [Protocol PDF](https://files.z
 
 👀 WATCH ➡️ [Bumbling Biochemist 'tips for working with DNA/RNA spin columns'](https://www.youtube.com/watch?v=MBnuae5aWg4) on YouTube
 
+📖 READ ➡️  [CAN CORAL DNA MEASURE OCEAN HEALTH?](https://biolinkk.com/posts/can-coral-dna-measure-ocean-health/) on biolinkk
+
 ### Materials List
 
 ####  *Extraction Kit* 
@@ -229,28 +231,41 @@ SST
 
 ## Extraction Steps
 
-### Mechanically Lyse Samples
+### Grind/Homogenize: Mortar & Pestle Samples
 
 1. Take [dry-ice](#dry-ice) cooler to -80 freezer,  pull out frozen samples and place them in the dry-ice cooler. Work quickly and carefully to sort through the vials and select the ones that you are working with. Nest the selected sample vials in the dry ice, and return the rest back to the -80 freezer. Bring working samples on dry-ice back to the lab bench.
 
+2. Don cryo-gloves over nitrile gloves and ⚠️carefully⚠️ dispense a small amount (no more than 1L) of liquid nitrogen (LN2) into the transfer thermos. **Everyone working with LN2 should have taken the Liquid Nitrogen Online Safety Course found [HERE](https://www.ehs.washington.edu/training/liquid-nitrogen-safety)**
+3. Grind each sample with mortar & pestle on LN2 -
 
-> 2. Don cryo-gloves over nitrile gloves and ⚠️carefully⚠️ dispense a small amount (no more than 1L) of liquid nitrogen (LN2) into the transfer thermos. **Everyone working with LN2 should have taken the Liquid Nitrogen Online Safety Course found [HERE](https://www.ehs.washington.edu/training/liquid-nitrogen-safety)**
->
-> 3. Grind each sample with mortar & pestle on LN2 -
->
->    1. ⚠️carefully⚠️ pour a small amount of LN2 into a [sterilized](#sterilize) mortar
->    2. Using  [sterilized](#sterilize) forceps, pluck out coral fragments from the cryo vial and place in the mortar until you have as much material as about the size of an M&M (roughly a 16mm diameter sphere). Material amount does not have to be precise. 
->    3. Pestle the coral fragment until it is ground to a powder. Work quickly to ensure the sample remains frozen. Add more LN2 when it evaporates from the mortar. This step is challenging! LN2 evaporates very quickly and must be replenished multiple times. 
->    4. Use  [sterilized](#sterilize) scoopula to transfer the sample powder to its correspondingly labelled [bead bashing tube](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm). **Tip: ** *The transfer is easiest when done with a small funnel made from lab weigh-paper and label tape.*
->
->    ![mortar-transfer-diagram]({{ site.url }}{{ site.baseurl }}/assets/images/funnel.png)
->
+   1. ⚠️carefully⚠️ pour a small amount of LN2 into a [sterilized](#sterilize) mortar
+   2. Using  [sterilized](#sterilize) forceps, pluck out coral fragments from the cryo vial and place in the mortar until you have as much material as about the size of an M&M (roughly a 16mm diameter sphere). Material amount does not have to be precise. 
+   3. Pestle the coral fragment until it is ground to a powder. Work quickly to ensure the sample remains frozen. Add more LN2 when it evaporates from the mortar. This step is challenging! LN2 evaporates very quickly and must be replenished multiple times. 
 
 
+### Lyse: Bead-Bash Samples
+
+1. Use  [sterilized](#sterilize) scoopula to transfer the sample powder to its correspondingly labelled [bead bashing tube](https://www.zymoresearch.com/collections/lysis-tubes/products/zr-bashingbead-lysis-tubes-0-1-0-5-mm)
+
+2. Aim to transfer 500uL of volume to each tube 
+3. Add 500uL of `DNA/RNA Shield` to each 2mL (0.1 - 0.5mm) bead-bashing tube with powdered sample and vortex to ensure powder is submersed in `DNA/RNA Shield`
+4. Set bead-bashing tubes in Mortexer and vortex at high speed for 40 minutes
+
+### Proteinase-K Digestion
+
+1. After bead bashing tubes are ['intensely bubbly'](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Larvae-Ex-Protocol/#:~:text=Tubes%20after%20vortexing%20are%20intensely%20bubbly)
+
+2. To tamp down bubbles, centrifuge in the mini-centrifuge for 1-2 minutes
+3. Add Proteinase K & Buffer
+   - Add the appropriate volume of  Pro K buffer and Proteinase K (Proteinase K is stored in the -20 after being reconstituted)
+   - (10:1 ratio of sample:digestion buffer) & (2:1 ratio of digestion buffer:Proteinase K)
+   - For tubes with 500ul add:
+     - 50ul pro k buffer
+     - 25ul proteinase K
+   - If you have tubes with a larger volume you can scale up the volumes (ex for 700ul, you would use 70ul buffer and 35ul pro k)
+4. Let incubate at room temperature for 2 hours
 
 OR.. alternate protocol according to Putnam Lab Members [Kevin Wong Porites Extractions](https://kevinhwong1.github.io/KevinHWong_Notebook/20201027-DNA-RNA-Extractions-Porites-July-Bleaching-Experiment/) and  [M.E. Schedl's Porites Extractions ](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/porites-zymo-rna/)...
-
-
 
 > 2. Add 500uL of RNA/DNA shield into each bead bashing tube
 > 3. Using sterile forceps, add 0.25mm of coral fragment directly to bead bashing tube
@@ -261,10 +276,6 @@ OR.. alternate protocol according to Putnam Lab Members [Kevin Wong Porites Extr
 > 8. Add 30 μl of Proteinase K digestion buffer (10:1 ratio of sample:digestion buffer), and > 15 μl of Proteinase K (2:1 ratio of digestion buffer:Proteinase K) to each sample
 > 9. Vortex to spin down
 > 10. Add 345 μl of lysis buffer
-
-
-
-
 
 
 
