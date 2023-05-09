@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title                   : ST
+title                   : Sarah's Lab Notebook
 subtitle                : "open lab notebook" # site tagline that appears below site title in masthead
 name                    : "Sarah S.D. Tanja"
 description             : "An open lab notebook where I can save and share protocols, posts, and data from my Masters thesis research projects"
